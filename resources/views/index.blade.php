@@ -1,8 +1,5 @@
 @extends('layouts.app')
 @section('head')
-@section('head')
-
-@section('head')
 <!-- INDEX PAGE KA HEAD -->
 <title>KYMS Academy: Top-Ranked CAT, GMAT & MBA Entrance Coaching in Indore</title>
 <meta name="description" content="KYMS Academy offers expert CAT, GMAT, IPMAT & CUET coaching in Indore. Join 6000+ successful students with 4.8/5 ratings. Affordable fees, personalized mentoring, and proven strategies for 99+ percentile.">
