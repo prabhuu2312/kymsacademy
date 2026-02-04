@@ -94,7 +94,7 @@
                 <div class="row">
                     <!-- 2025 QUANT SLOT 1 -->
                     <div class="col-lg-3 col-md-6 mb-30">
-                        <a href="cat-pyqs-details.php" class="text-decoration-none d-block">
+                        <a href="{{ url('/cat-pyqs-details') }}" class="text-decoration-none d-block">
                             <div class="resource-card h-100 p-4 text-center rounded-3 border-0"
                                 style="background: #ffffff; 
                         box-shadow: 0 5px 15px rgba(39, 60, 102, 0.08);
@@ -129,7 +129,7 @@
 
                     <!-- 2025 QUANT SLOT 2 -->
                     <div class="col-lg-3 col-md-6 mb-30">
-                        <a href="cat-pyqs-details.php" class="text-decoration-none d-block">
+                        <a href="{{ url('/cat-pyqs-details') }}" class="text-decoration-none d-block">
                             <div class="resource-card h-100 p-4 text-center rounded-3 border-0"
                                 style="background: #ffffff; 
                         box-shadow: 0 5px 15px rgba(39, 60, 102, 0.08);
@@ -164,7 +164,7 @@
 
                     <!-- 2025 QUANT SLOT 3 -->
                     <div class="col-lg-3 col-md-6 mb-30">
-                        <a href="cat-pyqs-details.php" class="text-decoration-none d-block">
+                        <a href="{{ url('/cat-pyqs-details') }}" class="text-decoration-none d-block">
                             <div class="resource-card h-100 p-4 text-center rounded-3 border-0"
                                 style="background: #ffffff; 
                         box-shadow: 0 5px 15px rgba(39, 60, 102, 0.08);
@@ -199,7 +199,7 @@
 
                     <!-- 2025 DI LR SLOT 1 -->
                     <div class="col-lg-3 col-md-6 mb-30">
-                        <a href="cat-pyqs-details.php" class="text-decoration-none d-block">
+                        <a href="{{ url('/cat-pyqs-details') }}" class="text-decoration-none d-block">
                             <div class="resource-card h-100 p-4 text-center rounded-3 border-0"
                                 style="background: #ffffff; 
                         box-shadow: 0 5px 15px rgba(39, 60, 102, 0.08);
@@ -234,7 +234,7 @@
 
                     <!-- 2025 DI LR SLOT 2 -->
                     <div class="col-lg-3 col-md-6 mb-30">
-                        <a href="cat-pyqs-details.php" class="text-decoration-none d-block">
+                        <a href="{{ url('/cat-pyqs-details') }}" class="text-decoration-none d-block">
                             <div class="resource-card h-100 p-4 text-center rounded-3 border-0"
                                 style="background: #ffffff; 
                         box-shadow: 0 5px 15px rgba(39, 60, 102, 0.08);
@@ -269,7 +269,7 @@
 
                     <!-- 2025 DI LR SLOT 3 -->
                     <div class="col-lg-3 col-md-6 mb-30">
-                        <a href="cat-pyqs-details.php" class="text-decoration-none d-block">
+                        <a href="{{ url('/cat-pyqs-details') }}" class="text-decoration-none d-block">
                             <div class="resource-card h-100 p-4 text-center rounded-3 border-0"
                                 style="background: #ffffff; 
                         box-shadow: 0 5px 15px rgba(39, 60, 102, 0.08);

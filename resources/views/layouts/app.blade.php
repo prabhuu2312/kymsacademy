@@ -20,7 +20,7 @@
     <link rel="stylesheet" href="{{ asset('assets/css/spacing.css') }}">
     <link rel="stylesheet" href="{{ asset('assets/css/main.css') }}">
 
-    <!-- Page-specific meta/title -->
+
     @yield('head')
 </head>
 

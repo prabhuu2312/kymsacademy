@@ -17,6 +17,7 @@
 @endsection
 
 @section('content')
+
 <main>
 
    <!-- slider-area-start -->
