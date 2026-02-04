@@ -1,4 +1,6 @@
 @extends('layouts.app')
+@section('head')
+@section('head')
 
 @section('head')
 <!-- INDEX PAGE KA HEAD -->
