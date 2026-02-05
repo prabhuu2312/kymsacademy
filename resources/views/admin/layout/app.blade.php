@@ -412,6 +412,9 @@
     <link href="{{ asset('assets-admin/css/pe-icon-7-stroke.css') }}" rel="stylesheet" type="text/css" />
     <link href="{{ asset('assets-admin/css/stylecrm.css') }}" rel="stylesheet" type="text/css" />
     <link href="{{ asset('assets-admin/css/responsive.css') }}" rel="stylesheet" type="text/css" />
+    <link href="{{ asset('assets-admin/css/pe-icon-7-stroke.css') }}" rel="stylesheet">
+    <!-- Add this line -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
 </head>
 
 <body>

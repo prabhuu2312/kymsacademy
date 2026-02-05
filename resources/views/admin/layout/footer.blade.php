@@ -1,14 +1,5 @@
 <!-- Core JS Libraries -->
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
-<script src="{{ asset('assets-admin/js/jquery-1.12.4.min.js') }}"></script>
-<script src="{{ asset('assets-admin/js/jquery-ui.min.js') }}"></script>
-<script src="{{ asset('assets-admin/js/bootstrap.min.js') }}"></script>
-
-<!-- Plugins -->
-<script src="{{ asset('assets-admin/js/lobipanel.min.js') }}"></script>
-<script src="{{ asset('assets-admin/js/pace.min.js') }}"></script>
-<script src="{{ asset('assets-admin/js/jquery.slimscroll.min.js') }}"></script>
-<script src="{{ asset('assets-admin/js/fastclick.min.js') }}"></script>
 
 <!-- Custom Scripts -->
 <script src="{{ asset('assets-admin/js/custom.js') }}"></script>
@@ -16,6 +7,16 @@
 
 <!-- CKEditor -->
 <script src="https://cdn.ckeditor.com/ckeditor5/28.0.0/classic/ckeditor.js"></script>
+
+<script src="{{ asset('assets-admin/plugins/jQuery/jquery-1.12.4.min.js') }}"></script>
+<script src="{{ asset('assets-admin/plugins/jquery-ui-1.12.1/jquery-ui.min.js') }}"></script>
+<script src="{{ asset('assets-admin/bootstrap/js/bootstrap.min.js') }}"></script>
+
+<!-- Plugins -->
+<script src="{{ asset('assets-admin/plugins/lobipanel/lobipanel.min.js') }}"></script>
+<script src="{{ asset('assets-admin/plugins/pace/pace.min.js') }}"></script>
+<script src="{{ asset('assets-admin/plugins/slimScroll/jquery.slimscroll.min.js') }}"></script>
+<script src="{{ asset('assets-admin/plugins/fastclick/fastclick.min.js') }}"></script>
 
 <!-- Footer Style -->
 <style>

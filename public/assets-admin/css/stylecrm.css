@@ -582,12 +582,12 @@ a.sidebar-toggle .pe-7s-angle-left-circle {
 .main-header .logo {
     display: block;
     float: left;
-    height: 60px;
+    /* height: 60px; */
     font-size: 20px;
     line-height: 60px;
     text-align: center;
     width: 250px;
-    padding: 0 15px;
+    padding: 20px 15px;
     font-weight: 300;
     overflow: hidden;
     background-color:#fff;

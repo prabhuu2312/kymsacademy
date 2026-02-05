@@ -29,7 +29,7 @@
                         <li>
                             <form action="{{ route('admin.logout') }}" method="POST" style="display: inline;">
                                 @csrf
-                                <button type="submit" style="background:none; border:none; width:100%; text-align:left; padding:10px 15px;">
+                                <button type="submit" style="background:none; border:none; width:100%; text-align:left; padding:0px 15px;">
                                     <i class="fa fa-sign-out"></i> Signout
                                 </button>
                             </form>
