@@ -2,7 +2,7 @@
 
 use Illuminate\Support\Facades\Route;
 
-require __DIR__.'/admin.php';
+require __DIR__ . '/admin.php';
 
 Route::view('/', 'index');
 
@@ -15,3 +15,8 @@ Route::view('/course-details', 'course-details');
 Route::view('/school-list', 'school-list');
 Route::view('/news', 'news');
 Route::view('/contact-us', 'contact-us');
+
+
+Route::view('/cat-pyqs-details', 'cat-pyqs-details');
+
+Route::view('/cat-pyqs-explaination', 'cat-pyqs-explaination');

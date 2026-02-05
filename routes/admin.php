@@ -1,7 +1,7 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
-use App\Http\Controllers\Admin\AuthController;
+use App\Http\Controllers\admin\AuthController;
 
 Route::prefix('admin')->name('admin.')->group(function () {
 
@@ -12,7 +12,9 @@ Route::prefix('admin')->name('admin.')->group(function () {
     Route::post('login', [AuthController::class, 'login'])->name('login.submit');
 
     // Dashboard
-    Route::view('dashboard', 'admin.dashboard')->name('dashboard');
+    Route::get('dashboard', function () {
+        return view('admin.dashboard.index');
+    })->name('dashboard');
 
     // Logout
     Route::post('logout', [AuthController::class, 'logout'])->name('logout');
