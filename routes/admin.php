@@ -12,7 +12,7 @@ Route::prefix('admin')->name('admin.')->group(function () {
     Route::post('login', [AuthController::class, 'login'])->name('login.submit');
 
     // Dashboard
-    Route::view('dashboard', 'admin.dashboard')->name('dashboard');
+    Route::view('dashboard', 'admin.dashboard.dashboard')->name('dashboard');
 
     // Logout
     Route::post('logout', [AuthController::class, 'logout'])->name('logout');

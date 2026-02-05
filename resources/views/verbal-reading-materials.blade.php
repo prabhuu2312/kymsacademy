@@ -139,8 +139,8 @@
 @section('content')
 <main>
     <!-- breadcrumb-area-start -->
-    <div class="it-breadcrumb-area fix z-index-1" data-background="assets/img/shape/breadcrumb-1-bg.png">
-        <img class="it-breadcrumb-shape-1" src="assets/img/shape/breadcrumb-1-1.png" alt="">
+    <div class="it-breadcrumb-area fix z-index-1" data-background="{{ asset('assets/img/shape/breadcrumb-1-bg.png') }}">
+        <img class="it-breadcrumb-shape-1" src="{{ asset('assets/img/shape/breadcrumb-1-1.png') }}" alt="">
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-xxl-5 col-xl-6 col-lg-6 col-md-6">
@@ -176,8 +176,9 @@
                 </div>
                 <div class="col-xxl-7 col-xl-6 col-lg-6 col-md-6">
                     <div class="it-breadcrumb-thumb z-index-1 text-end">
-                        <img src="img/breadcum-img.webp" alt="">
-                        <img class="it-breadcrumb-shape-2" src="assets/img/shape/breadcrumb-1-2.png" alt="">
+                        <img src="{{ asset('img/breadcum-img.webp') }}" alt="">
+                        <img class="it-breadcrumb-shape-2" src="{{ asset('assets/img/shape/breadcrumb-1-2.png') }}"
+                            alt="">
                     </div>
                 </div>
             </div>

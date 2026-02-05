@@ -2,1637 +2,1850 @@
 @section('head')
 <!-- INDEX PAGE KA HEAD -->
 <title>KYMS Academy: Top-Ranked CAT, GMAT & MBA Entrance Coaching in Indore</title>
-<meta name="description" content="KYMS Academy offers expert CAT, GMAT, IPMAT & CUET coaching in Indore. Join 6000+ successful students with 4.8/5 ratings. Affordable fees, personalized mentoring, and proven strategies for 99+ percentile.">
+<meta name="description"
+    content="KYMS Academy offers expert CAT, GMAT, IPMAT & CUET coaching in Indore. Join 6000+ successful students with 4.8/5 ratings. Affordable fees, personalized mentoring, and proven strategies for 99+ percentile.">
 
 <!-- SEO Meta Tags -->
-<meta name="keywords" content="CAT coaching Indore, GMAT preparation, IPMAT coaching, CUET classes, MBA entrance exam, best CAT coaching, affordable CAT classes, 99 percentile CAT, online CAT coaching">
+<meta name="keywords"
+    content="CAT coaching Indore, GMAT preparation, IPMAT coaching, CUET classes, MBA entrance exam, best CAT coaching, affordable CAT classes, 99 percentile CAT, online CAT coaching">
 <meta name="author" content="KYMS Academy">
 <meta property="og:title" content="KYMS Academy: Top-Ranked CAT, GMAT & MBA Entrance Coaching">
-<meta property="og:description" content="Expert CAT, GMAT, IPMAT & CUET coaching with proven results. Join India's trusted MBA entrance preparation institute.">
+<meta property="og:description"
+    content="Expert CAT, GMAT, IPMAT & CUET coaching with proven results. Join India's trusted MBA entrance preparation institute.">
 <meta property="og:type" content="website">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="KYMS Academy - CAT & MBA Entrance Coaching">
-<meta name="twitter:description" content="Transform your MBA dreams into reality with KYMS Academy's expert coaching programs.">
+<meta name="twitter:description"
+    content="Transform your MBA dreams into reality with KYMS Academy's expert coaching programs.">
 @endsection
 
 @section('content')
 
 <main>
 
-   <!-- slider-area-start -->
-   <section class="it-slider-area">
-      <div class="it-slider-wrap p-relative">
-         <div class="swiper it-slider-active p-relative">
-            <div class="swiper-wrapper">
-               <!-- Slide 1: CAT Program -->
-               <div class="swiper-slide">
-                  <div class="it-slider-box it-slider-overlay z-index-1">
-                     <img class="it-slider-shape-1" src="assets/img/shape/slider-1-1.png" alt="">
-                     <img class="it-slider-shape-2" src="assets/img/shape/slider-1-2.png" alt="">
-                     <img class="it-slider-shape-3" src="assets/img/shape/slider-1-3.png" alt="">
-                     <div class="it-slider-bg"><img src="img/slider1.webp" alt="CAT Coaching Program - KYMS Academy"></div>
-                     <div class="container">
-                        <div class="row">
-                           <div class="col-xxl-7 col-xl-8 col-lg-9">
-                              <div class="it-slider-content">
-                                 <h1 class="it-slider-title">Achieve 99+ Percentile in
-                                    <span class="z-index-1">
-                                       CAT 2026
+    <!-- slider-area-start -->
+    <section class="it-slider-area">
+        <div class="it-slider-wrap p-relative">
+            <div class="swiper it-slider-active p-relative">
+                <div class="swiper-wrapper">
+                    <!-- Slide 1: CAT Program -->
+                    <div class="swiper-slide">
+                        <div class="it-slider-box it-slider-overlay z-index-1">
+                            <img class="it-slider-shape-1" src="{{ asset('assets/img/shape/slider-1-1.png') }}"
+                                alt="slider-1">
+                            <img class="it-slider-shape-2" src="{{ asset('assets/img/shape/slider-1-2.png') }}"
+                                alt="slider-1-2">
+                            <img class="it-slider-shape-3" src="{{ asset('assets/img/shape/slider-1-3.png') }}"
+                                alt="slider-1-3">
+                            <div class="it-slider-bg"><img src="{{ asset('assets/   img/slider1.webp') }}"
+                                    alt="CAT Coaching Program - KYMS Academy"></div>
+                            <div class="container">
+                                <div class="row">
+                                    <div class="col-xxl-7 col-xl-8 col-lg-9">
+                                        <div class="it-slider-content">
+                                            <h1 class="it-slider-title">Achieve 99+ Percentile in
+                                                <span class="z-index-1">
+                                                    CAT 2026
 
-                                    </span>
-                                 </h1>
-                                 <div class="it-slider-content-text">
-                                    <p class="mb-35">Join India's #1 CAT coaching institute with 6000+ success stories. Expert faculty, personalized mentoring, and proven strategies for IIM admission.</p>
-                                    <div class="it-slider-btn">
-                                       <a href="#" class="it-btn-yellow theme-bg border-radius-100 custom-icon-btn">
-                                          <span>
-                                             <span class="text-1">Explore CAT Program</span>
-                                             <span class="text-2">Explore CAT Program</span>
-                                          </span>
-                                          <i>
-                                             <!-- Font Awesome arrow or simple SVG -->
-                                             <i class="fa-solid fa-arrow-right"></i>
-                                          </i>
-                                       </a>
+                                                </span>
+                                            </h1>
+                                            <div class="it-slider-content-text">
+                                                <p class="mb-35">Join India's #1 CAT coaching institute with 6000+
+                                                    success stories. Expert faculty, personalized mentoring, and proven
+                                                    strategies for IIM admission.</p>
+                                                <div class="it-slider-btn">
+                                                    <a href="#"
+                                                        class="it-btn-yellow theme-bg border-radius-100 custom-icon-btn">
+                                                        <span>
+                                                            <span class="text-1">Explore CAT Program</span>
+                                                            <span class="text-2">Explore CAT Program</span>
+                                                        </span>
+                                                        <i>
+                                                            <!-- Font Awesome arrow or simple SVG -->
+                                                            <i class="fa-solid fa-arrow-right"></i>
+                                                        </i>
+                                                    </a>
+                                                </div>
+                                            </div>
+                                        </div>
                                     </div>
-                                 </div>
-                              </div>
-                           </div>
+                                </div>
+                            </div>
                         </div>
-                     </div>
-                  </div>
-               </div>
+                    </div>
 
-               <!-- Slide 2: GMAT Program -->
-               <div class="swiper-slide">
-                  <div class="it-slider-box it-slider-overlay z-index-1">
-                     <img class="it-slider-shape-1" src="assets/img/shape/slider-1-1.png" alt="">
-                     <img class="it-slider-shape-2" src="assets/img/shape/slider-1-2.png" alt="">
-                     <img class="it-slider-shape-3" src="assets/img/shape/slider-1-3.png" alt="">
-                     <div class="it-slider-bg"><img src="assets/img/slider/slider-1-3.jpg" alt="GMAT Preparation - KYMS Academy"></div>
-                     <div class="container">
-                        <div class="row">
-                           <div class="col-xxl-7 col-xl-8 col-lg-9">
-                              <div class="it-slider-content">
-                                 <h1 class="it-slider-title">GMAT 700+ Score
-                                    <span class="z-index-1">
-                                       Guarantee
+                    <!-- Slide 2: GMAT Program -->
+                    <div class="swiper-slide">
+                        <div class="it-slider-box it-slider-overlay z-index-1">
+                            <img class="it-slider-shape-1" src="{{ asset('assets/img/shape/slider-1-1.png') }}"
+                                alt="slider-1">
+                            <img class="it-slider-shape-2" src="{{ asset('assets/img/shape/slider-1-2.png') }}"
+                                alt="slider-1-2">
+                            <img class="it-slider-shape-3" src="{{ asset('assets/img/shape/slider-1-3.png') }}"
+                                alt="slider-1-3">
+                            <div class="it-slider-bg"><img src="{{ asset('assets/img/slider/slider-1-3.jpg') }}"
+                                    alt="GMAT Preparation - KYMS Academy"></div>
+                            <div class="container">
+                                <div class="row">
+                                    <div class="col-xxl-7 col-xl-8 col-lg-9">
+                                        <div class="it-slider-content">
+                                            <h1 class="it-slider-title">GMAT 700+ Score
+                                                <span class="z-index-1">
+                                                    Guarantee
 
-                                    </span>
-                                 </h1>
-                                 <div class="it-slider-content-text">
-                                    <p class="mb-35">Master GMAT with our structured program. Expert guidance for Quant, Verbal, IR & AWA sections. Join our 100%ile scorers.</p>
-                                    <div class="it-slider-btn">
-                                       <a href="#" class="it-btn-yellow theme-bg border-radius-100">
-                                          <span>
-                                             <span class="text-1">Start GMAT Prep</span>
-                                             <span class="text-2">Start GMAT Prep</span>
-                                          </span>
-                                          <i>
-                                             <i class="fa-solid fa-arrow-right"></i>
-                                          </i>
-                                       </a>
+                                                </span>
+                                            </h1>
+                                            <div class="it-slider-content-text">
+                                                <p class="mb-35">Master GMAT with our structured program. Expert
+                                                    guidance for Quant, Verbal, IR & AWA sections. Join our 100%ile
+                                                    scorers.</p>
+                                                <div class="it-slider-btn">
+                                                    <a href="#" class="it-btn-yellow theme-bg border-radius-100">
+                                                        <span>
+                                                            <span class="text-1">Start GMAT Prep</span>
+                                                            <span class="text-2">Start GMAT Prep</span>
+                                                        </span>
+                                                        <i>
+                                                            <i class="fa-solid fa-arrow-right"></i>
+                                                        </i>
+                                                    </a>
+                                                </div>
+                                            </div>
+                                        </div>
                                     </div>
-                                 </div>
-                              </div>
-                           </div>
+                                </div>
+                            </div>
                         </div>
-                     </div>
-                  </div>
-               </div>
+                    </div>
 
-               <!-- Slide 3: CUET Program -->
-               <div class="swiper-slide">
-                  <div class="it-slider-box it-slider-overlay z-index-1">
-                     <img class="it-slider-shape-1" src="assets/img/shape/slider-1-1.png" alt="">
-                     <img class="it-slider-shape-2" src="assets/img/shape/slider-1-2.png" alt="">
-                     <img class="it-slider-shape-3" src="assets/img/shape/slider-1-3.png" alt="">
-                     <div class="it-slider-bg"><img src="assets/img/slider/slider-1-5.jpg" alt="CUET Preparation - KYMS Academy"></div>
-                     <div class="container">
-                        <div class="row">
-                           <div class="col-xxl-7 col-xl-8 col-lg-9">
-                              <div class="it-slider-content">
-                                 <h1 class="it-slider-title">CUET 2026 Complete
-                                    <span class="z-index-1">
-                                       Preparation
+                    <!-- Slide 3: CUET Program -->
+                    <div class="swiper-slide">
+                        <div class="it-slider-box it-slider-overlay z-index-1">
+                            <img class="it-slider-shape-1" src="{{ asset('assets/img/shape/slider-1-1.png') }}"
+                                alt="slider-1">
+                            <img class="it-slider-shape-2" src="{{ asset('assets/img/shape/slider-1-2.png') }}"
+                                alt="slider-1-2">
+                            <img class="it-slider-shape-3" src="{{ asset('assets/img/shape/slider-1-3.png') }}"
+                                alt="slider-1-3">
+                            <div class="it-slider-bg"><img src="{{ asset('assets/img/slider/slider-1-5.jpg') }}"
+                                    alt="CUET Preparation - KYMS Academy"></div>
+                            <div class="container">
+                                <div class="row">
+                                    <div class="col-xxl-7 col-xl-8 col-lg-9">
+                                        <div class="it-slider-content">
+                                            <h1 class="it-slider-title">CUET 2026 Complete
+                                                <span class="z-index-1">
+                                                    Preparation
 
-                                    </span>
-                                 </h1>
-                                 <div class="it-slider-content-text">
-                                    <p class="mb-35">Get into top central universities with our comprehensive CUET program. Domain subjects + General Test coverage.</p>
-                                    <div class="it-slider-btn">
-                                       <a href="#" class="it-btn-yellow theme-bg border-radius-100">
-                                          <span>
-                                             <span class="text-1">Join CUET Course</span>
-                                             <span class="text-2">Join CUET Course</span>
-                                          </span>
-                                          <i>
-                                             <i class="fa-solid fa-arrow-right"></i>
-                                          </i>
-                                       </a>
+                                                </span>
+                                            </h1>
+                                            <div class="it-slider-content-text">
+                                                <p class="mb-35">Get into top central universities with our
+                                                    comprehensive CUET program. Domain subjects + General Test coverage.
+                                                </p>
+                                                <div class="it-slider-btn">
+                                                    <a href="#" class="it-btn-yellow theme-bg border-radius-100">
+                                                        <span>
+                                                            <span class="text-1">Join CUET Course</span>
+                                                            <span class="text-2">Join CUET Course</span>
+                                                        </span>
+                                                        <i>
+                                                            <i class="fa-solid fa-arrow-right"></i>
+                                                        </i>
+                                                    </a>
+                                                </div>
+                                            </div>
+                                        </div>
                                     </div>
-                                 </div>
-                              </div>
-                           </div>
+                                </div>
+                            </div>
                         </div>
-                     </div>
-                  </div>
-               </div>
+                    </div>
 
-               <!-- Slide 4: Scholarship -->
-               <div class="swiper-slide">
-                  <div class="it-slider-box it-slider-overlay z-index-1">
-                     <img class="it-slider-shape-1" src="assets/img/shape/slider-1-1.png" alt="">
-                     <img class="it-slider-shape-2" src="assets/img/shape/slider-1-2.png" alt="">
-                     <img class="it-slider-shape-3" src="assets/img/shape/slider-1-3.png" alt="">
-                     <div class="it-slider-bg"><img src="assets/img/slider/slider-1-4.jpg" alt="Scholarship Program - KYMS Academy"></div>
-                     <div class="container">
-                        <div class="row">
-                           <div class="col-xxl-7 col-xl-8 col-lg-9">
-                              <div class="it-slider-content">
-                                 <h1 class="it-slider-title">Scholarship Upto
-                                    <span class="z-index-1">
-                                       100%
+                    <!-- Slide 4: Scholarship -->
+                    <div class="swiper-slide">
+                        <div class="it-slider-box it-slider-overlay z-index-1">
+                            <img class="it-slider-shape-1" src="{{ asset('assets/img/shape/slider-1-1.png') }}"
+                                alt="slider-1">
+                            <img class="it-slider-shape-2" src="{{ asset('assets/img/shape/slider-1-2.png') }}"
+                                alt="slider-1-2">
+                            <img class="it-slider-shape-3" src="{{ asset('assets/img/shape/slider-1-3.png') }}"
+                                alt="slider-1-3">
+                            <div class="it-slider-bg"><img src="{{ asset('assets/img/slider/slider-1-4.jpg') }}"
+                                    alt="Scholarship Program - KYMS Academy"></div>
+                            <div class="container">
+                                <div class="row">
+                                    <div class="col-xxl-7 col-xl-8 col-lg-9">
+                                        <div class="it-slider-content">
+                                            <h1 class="it-slider-title">Scholarship Upto
+                                                <span class="z-index-1">
+                                                    100%
 
-                                    </span>
-                                 </h1>
-                                 <div class="it-slider-content-text">
-                                    <p class="mb-35">Merit-based scholarships for top performers. Affordable quality education with financial support for deserving students.</p>
-                                    <div class="it-slider-btn">
-                                       <a href="#" class="it-btn-yellow theme-bg border-radius-100">
-                                          <span>
-                                             <span class="text-1">Apply for Scholarship</span>
-                                             <span class="text-2">Apply for Scholarship</span>
-                                          </span>
-                                          <i>
-                                             <i class="fa-solid fa-arrow-right"></i>
-                                          </i>
-                                       </a>
+                                                </span>
+                                            </h1>
+                                            <div class="it-slider-content-text">
+                                                <p class="mb-35">Merit-based scholarships for top performers. Affordable
+                                                    quality education with financial support for deserving students.</p>
+                                                <div class="it-slider-btn">
+                                                    <a href="#" class="it-btn-yellow theme-bg border-radius-100">
+                                                        <span>
+                                                            <span class="text-1">Apply for Scholarship</span>
+                                                            <span class="text-2">Apply for Scholarship</span>
+                                                        </span>
+                                                        <i>
+                                                            <i class="fa-solid fa-arrow-right"></i>
+                                                        </i>
+                                                    </a>
+                                                </div>
+                                            </div>
+                                        </div>
                                     </div>
-                                 </div>
-                              </div>
-                           </div>
+                                </div>
+                            </div>
                         </div>
-                     </div>
-                  </div>
-               </div>
+                    </div>
+                </div>
+
+                <div class="it-slider-arrow-wrap">
+                    <button class="arrow-next">
+                        <i class="fa-solid fa-chevron-right"></i>
+                    </button>
+                    <button class="arrow-prev">
+                        <i class="fa-solid fa-chevron-left"></i>
+                    </button>
+                </div>
             </div>
-
-            <div class="it-slider-arrow-wrap">
-               <button class="arrow-next">
-                  <i class="fa-solid fa-chevron-right"></i>
-               </button>
-               <button class="arrow-prev">
-                  <i class="fa-solid fa-chevron-left"></i>
-               </button>
-            </div>
-         </div>
-      </div>
-   </section>
-   <!-- slider-area-end -->
+        </div>
+    </section>
+    <!-- slider-area-end -->
 
 
-   <!-- funfact-area-start -->
-   <section class="it-funfact-area">
-      <div class="container">
-         <div class="it-funfact-wrap z-index-2">
-            <div class="row">
-               <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6">
-                  <div class="it-funfact-item style-1 d-flex align-items-center">
-                     <div class="it-funfact-icon">
-                        <span>
-                           <svg width="50" height="49" viewBox="0 0 50 49" fill="none" xmlns="http://www.w3.org/2000/svg">
-                              <path d="M49.2676 41.796H47.9717V15.4829C47.9717 13.5556 46.4033 11.9878 44.4756 11.9878H42.7552C42.9433 11.5942 43.047 11.1577 43.047 10.7041C43.047 9.59957 42.4408 8.59215 41.4649 8.07487L31.8878 3.00162C31.5304 2.81217 31.087 2.9485 30.8978 3.30602C30.7084 3.66344 30.8447 4.1067 31.2021 4.29606L40.7791 9.3692C41.2819 9.63571 41.5821 10.1347 41.5821 10.7041C41.5821 11.2734 41.2819 11.7723 40.7793 12.0387L31.4695 16.9706L25.5508 10.2212C25.2841 9.91696 24.8213 9.88668 24.5172 10.1534C24.2131 10.4201 24.1827 10.8829 24.4494 11.187L30.1393 17.6754L26.6166 19.5415C25.6044 20.0769 24.3959 20.0769 23.384 19.5417L9.2209 12.0389C8.71816 11.7724 8.41787 11.2734 8.41787 10.7042C8.41787 10.1349 8.71807 9.6359 9.2207 9.3694L23.3835 1.86666C24.3957 1.33112 25.6042 1.33112 26.616 1.86647L28.6434 2.94069C29.0008 3.13014 29.4441 2.99391 29.6335 2.63649C29.8229 2.27906 29.6866 1.83571 29.3293 1.64635L27.3016 0.571936C25.8604 -0.190662 24.1395 -0.190662 22.6981 0.572034L8.53486 8.07506C7.55918 8.59225 6.95312 9.59967 6.95312 10.7042C6.95312 11.1578 7.05684 11.5942 7.24492 11.9879H5.52441C3.59668 11.9879 2.02832 13.5557 2.02832 15.483V41.7961H0.732422C0.32793 41.7961 0 42.124 0 42.5285V44.1518C0 46.7711 2.13086 48.902 4.7501 48.902H45.2498C47.869 48.902 50 46.7712 50 44.1518V42.5285C50 42.1239 49.6721 41.796 49.2676 41.796ZM31.3004 29.0893L32.2554 30.7434C32.4527 31.0853 32.3211 31.3872 32.2554 31.501C32.1897 31.6149 31.994 31.8798 31.5992 31.8798H31.0015C30.6066 31.8798 30.4111 31.6149 30.3453 31.501C30.2795 31.3871 30.1479 31.0853 30.3453 30.7434L31.3004 29.0893ZM32.0328 18.3299L35.0635 16.7245V19.633C35.0635 21.7218 33.883 23.5945 32.0328 24.4838V18.3299ZM24.9999 21.4082C25.7904 21.4082 26.5812 21.2174 27.3019 20.8362L30.568 19.106V25.0505C26.5662 26.376 22.1388 26.2272 18.2328 24.6038C16.2304 23.7715 14.9365 21.8204 14.9365 19.6331V16.7244L22.6985 20.8363C23.419 21.2176 24.2094 21.4082 24.9999 21.4082ZM3.49316 15.4829C3.49316 14.3633 4.40439 13.4526 5.52441 13.4526H8.76045L12.4473 15.4057H6.17871C5.77422 15.4057 5.44629 15.7337 5.44629 16.1381V39.1108C5.44629 39.5153 5.77422 39.8432 6.17871 39.8432H10.0449C10.4494 39.8432 10.7773 39.5153 10.7773 39.1108C10.7773 38.7063 10.4494 38.3784 10.0449 38.3784H6.91113V16.8706H13.4717V19.633C13.4717 22.4141 15.1198 24.8962 17.6707 25.9564C19.9996 26.9244 22.4998 27.4084 25.0001 27.4084C26.8804 27.4084 28.7605 27.1344 30.5681 26.587V27.4282L29.0769 30.011C28.6751 30.7068 28.6751 31.5377 29.0769 32.2335C29.4786 32.9293 30.198 33.3447 31.0016 33.3447H31.5993C32.4028 33.3447 33.1223 32.9293 33.524 32.2335C33.9258 31.5377 33.9258 30.7068 33.524 30.011L32.0328 27.4282V26.0753C32.1318 26.0361 32.231 25.9973 32.3294 25.9564C34.8802 24.8962 36.5283 22.4141 36.5283 19.633V16.8706H43.0889V38.3784H12.9746C12.5701 38.3784 12.2422 38.7063 12.2422 39.1108C12.2422 39.5153 12.5701 39.8432 12.9746 39.8432H43.8213C44.2258 39.8432 44.5537 39.5153 44.5537 39.1108V16.1381C44.5537 15.7337 44.2258 15.4057 43.8213 15.4057H37.5526L41.2395 13.4526H44.4755C45.5955 13.4526 46.5067 14.3633 46.5067 15.4829V41.796H3.49316V15.4829ZM29.5293 43.2612C29.2587 44.0488 28.5104 44.6165 27.6321 44.6165H22.368C21.4896 44.6165 20.7414 44.0488 20.4707 43.2612H29.5293ZM48.5352 44.1517C48.5352 45.9632 47.0613 47.4371 45.2498 47.4371H4.7501C2.93857 47.4371 1.46484 45.9632 1.46484 44.1517V43.2608H2.75322C2.75576 43.2608 2.7582 43.2612 2.76074 43.2612H18.9597C19.2649 44.8649 20.6767 46.0813 22.368 46.0813H27.6321C29.3233 46.0813 30.7351 44.8648 31.0403 43.2612H47.2393C47.2418 43.2612 47.2442 43.2608 47.2468 43.2608H48.5352V44.1517Z" fill="currentcolor" />
-                              <path d="M25.2212 35.6928C25.2212 35.2883 24.8933 34.9604 24.4888 34.9604H9.82617C9.42168 34.9604 9.09375 35.2883 9.09375 35.6928C9.09375 36.0973 9.42168 36.4253 9.82617 36.4253H24.4889C24.8933 36.4253 25.2212 36.0973 25.2212 35.6928Z" fill="currentcolor" />
-                              <path d="M9.82617 33.3448H19.6299C20.0344 33.3448 20.3623 33.0169 20.3623 32.6124C20.3623 32.2079 20.0344 31.8799 19.6299 31.8799H9.82617C9.42168 31.8799 9.09375 32.2079 9.09375 32.6124C9.09375 33.0169 9.42158 33.3448 9.82617 33.3448Z" fill="currentcolor" />
-                           </svg>
-                        </span>
-                     </div>
-                     <div class="it-funfact-content">
-                        <h6 class="it-funfact-number"><i class="purecounter" data-purecounter-duration="1" data-purecounter-end="1090">0</i>+</h6>
-                        <span>Our Online Courses</span>
-                     </div>
-                  </div>
-               </div>
-               <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6">
-                  <div class="it-funfact-item style-2 d-flex align-items-center">
-                     <div class="it-funfact-icon">
-                        <span>
-                           <svg width="50" height="50" viewBox="0 0 50 50" fill="none" xmlns="http://www.w3.org/2000/svg">
-                              <path d="M6.978 32.4385C6.64195 32.4385 6.31967 32.305 6.08205 32.0674C5.84443 31.8298 5.71094 31.5075 5.71094 31.1714V22.1331C5.71094 21.797 5.84443 21.4747 6.08205 21.2371C6.31967 20.9995 6.64195 20.866 6.978 20.866C7.31405 20.866 7.63633 20.9995 7.87395 21.2371C8.11157 21.4747 8.24506 21.797 8.24506 22.1331V31.1714C8.24506 31.5075 8.11157 31.8298 7.87395 32.0674C7.63633 32.305 7.31405 32.4385 6.978 32.4385Z" fill="currentcolor" />
-                              <path d="M12.687 12.2567C11.4749 12.2567 10.29 11.8973 9.28222 11.2239C8.27442 10.5505 7.48893 9.5934 7.02509 8.47359C6.56125 7.35378 6.43989 6.12157 6.67635 4.93278C6.91282 3.74399 7.49649 2.65202 8.35355 1.79496C9.21062 0.937891 10.3026 0.354222 11.4914 0.117757C12.6802 -0.118707 13.9124 0.00265538 15.0322 0.466497C16.152 0.930338 17.1091 1.71583 17.7825 2.72363C18.4559 3.73143 18.8153 4.91629 18.8153 6.12837C18.8135 7.75316 18.1673 9.31089 17.0184 10.4598C15.8695 11.6087 14.3118 12.2549 12.687 12.2567ZM12.687 2.53413C11.9761 2.53413 11.2812 2.74493 10.6901 3.13987C10.099 3.53481 9.63836 4.09615 9.36632 4.75291C9.09428 5.40967 9.0231 6.13235 9.16178 6.82957C9.30047 7.52678 9.64279 8.16721 10.1454 8.66987C10.6481 9.17254 11.2885 9.51485 11.9858 9.65354C12.683 9.79222 13.4057 9.72105 14.0624 9.44901C14.7192 9.17697 15.2805 8.71628 15.6755 8.12522C16.0704 7.53415 16.2812 6.83924 16.2812 6.12837C16.2801 5.17546 15.901 4.2619 15.2272 3.58809C14.5534 2.91428 13.6399 2.53525 12.687 2.53413Z" fill="currentcolor" />
-                              <path d="M32.6663 21.736C32.4217 21.7362 32.1822 21.6655 31.9768 21.5325C31.7714 21.3995 31.609 21.2099 31.509 20.9866C31.409 20.7633 31.3759 20.5158 31.4135 20.2741C31.4512 20.0323 31.558 19.8066 31.7211 19.6243L38.6055 11.907C38.7164 11.7828 38.8507 11.6817 39.0007 11.6094C39.1507 11.5371 39.3135 11.4951 39.4797 11.4857C39.646 11.4764 39.8125 11.4998 39.9696 11.5548C40.1268 11.6098 40.2716 11.6951 40.3958 11.8061C40.52 11.917 40.6211 12.0513 40.6934 12.2013C40.7657 12.3513 40.8077 12.5141 40.8171 12.6803C40.8265 12.8466 40.803 13.0131 40.748 13.1702C40.6931 13.3274 40.6077 13.4722 40.4968 13.5964L33.6124 21.3095C33.4937 21.4433 33.3481 21.5505 33.185 21.6241C33.022 21.6976 32.8452 21.7357 32.6663 21.736Z" fill="currentcolor" />
-                              <path d="M46.1996 33.1776H23.466C23.1299 33.1776 22.8077 33.0441 22.57 32.8065C22.3324 32.5689 22.1989 32.2466 22.1989 31.9106C22.1989 31.5745 22.3324 31.2522 22.57 31.0146C22.8077 30.777 23.1299 30.6435 23.466 30.6435H46.1996C46.5357 30.6435 46.858 30.51 47.0956 30.2724C47.3332 30.0348 47.4667 29.7125 47.4667 29.3764V3.82991C47.4667 3.49386 47.3332 3.17158 47.0956 2.93396C46.858 2.69634 46.5357 2.56284 46.1996 2.56284H21.3432C21.0072 2.56284 20.6849 2.42935 20.4473 2.19173C20.2097 1.95411 20.0762 1.63183 20.0762 1.29578C20.0762 0.959734 20.2097 0.637452 20.4473 0.399831C20.6849 0.162211 21.0072 0.028717 21.3432 0.028717H46.1996C47.2078 0.028717 48.1746 0.429199 48.8875 1.14206C49.6003 1.85492 50.0008 2.82177 50.0008 3.82991V29.3764C50.0008 30.3846 49.6003 31.3514 48.8875 32.0643C48.1746 32.7771 47.2078 33.1776 46.1996 33.1776Z" fill="currentcolor" />
-                              <path d="M12.6874 50.0009H6.978C6.64195 50.0009 6.31967 49.8674 6.08205 49.6297C5.84443 49.3921 5.71094 49.0698 5.71094 48.7338V31.1715C5.71094 30.8354 5.84443 30.5131 6.08205 30.2755C6.31967 30.0379 6.64195 29.9044 6.978 29.9044C7.31405 29.9044 7.63633 30.0379 7.87395 30.2755C8.11157 30.5131 8.24506 30.8354 8.24506 31.1715V47.4667H12.6874C13.0234 47.4667 13.3457 47.6002 13.5833 47.8378C13.821 48.0755 13.9544 48.3977 13.9544 48.7338C13.9544 49.0698 13.821 49.3921 13.5833 49.6297C13.3457 49.8674 13.0234 50.0009 12.6874 50.0009Z" fill="currentcolor" />
-                              <path d="M18.3969 50.0008H12.6867C12.3506 50.0008 12.0284 49.8673 11.7907 49.6297C11.5531 49.3921 11.4196 49.0698 11.4196 48.7338V31.9106C11.4196 31.5745 11.5531 31.2522 11.7907 31.0146C12.0284 30.777 12.3506 30.6435 12.6867 30.6435C13.0227 30.6435 13.345 30.777 13.5826 31.0146C13.8203 31.2522 13.9537 31.5745 13.9537 31.9106V47.4667H17.1299V23.5108C17.1298 22.9849 17.2857 22.4708 17.5778 22.0336C17.87 21.5963 18.2852 21.2555 18.7711 21.0543C19.2569 20.8531 19.7916 20.8006 20.3073 20.9033C20.823 21.006 21.2967 21.2593 21.6685 21.6313L23.6544 23.6147C23.8015 23.7625 23.9765 23.8797 24.1692 23.9594C24.3619 24.0392 24.5685 24.0799 24.777 24.0793H30.6739C30.8853 24.0793 31.0945 24.0372 31.2893 23.9553C31.4842 23.8734 31.6607 23.7535 31.8086 23.6025C31.9565 23.4516 32.0728 23.2726 32.1507 23.0761C32.2285 22.8796 32.2663 22.6696 32.262 22.4583C32.2442 21.6009 31.5068 20.904 30.6182 20.904H25.9562C25.6203 20.9037 25.2982 20.77 25.0608 20.5323L22.3333 17.8056C21.8384 17.3079 21.2497 16.9133 20.6013 16.6448C19.9528 16.3762 19.2576 16.2391 18.5557 16.2412H17.5725L15.6575 17.8335C14.8233 18.5268 13.7727 18.9064 12.6879 18.9064C11.6032 18.9064 10.5526 18.5268 9.71837 17.8335L7.80173 16.2412H6.97729C5.7993 16.2425 4.66995 16.7111 3.83698 17.5441C3.00402 18.377 2.53547 19.5064 2.53413 20.6844C2.53413 21.0204 2.40063 21.3427 2.16301 21.5803C1.92539 21.8179 1.60311 21.9514 1.26706 21.9514C0.931017 21.9514 0.608734 21.8179 0.371114 21.5803C0.133493 21.3427 0 21.0204 0 20.6844C0.00201232 18.8345 0.737764 17.061 2.04582 15.7529C3.35389 14.4448 5.12742 13.7091 6.97729 13.7071H8.25956C8.55553 13.7072 8.84213 13.8109 9.06964 14.0002L11.3368 15.8847C11.7163 16.2008 12.1945 16.3739 12.6884 16.3739C13.1822 16.3739 13.6604 16.2008 14.0399 15.8847L16.3054 13.9994C16.5329 13.81 16.8195 13.7063 17.1155 13.7062H18.5574C19.5921 13.7034 20.6171 13.9058 21.5731 14.3018C22.529 14.6978 23.397 15.2794 24.1266 16.0131L26.4833 18.3699H30.6224C32.8811 18.3699 34.7547 20.1809 34.7995 22.4076C34.8106 22.9558 34.7122 23.5008 34.5101 24.0106C34.308 24.5203 34.0062 24.9846 33.6224 25.3763C33.2386 25.768 32.7805 26.0791 32.2749 26.2916C31.7694 26.504 31.2265 26.6134 30.6781 26.6134H24.7736C24.2322 26.6149 23.6958 26.509 23.1956 26.3018C22.6953 26.0946 22.2412 25.7902 21.8594 25.4063L19.8768 23.4212C19.8606 23.4052 19.8404 23.3938 19.8182 23.3883C19.7961 23.3828 19.7728 23.3834 19.751 23.39C19.7263 23.3983 19.7048 23.4142 19.6896 23.4355C19.6745 23.4567 19.6664 23.4821 19.6665 23.5082V48.7312C19.6668 48.8981 19.6342 49.0633 19.5705 49.2175C19.5069 49.3717 19.4134 49.5118 19.2954 49.6297C19.1774 49.7477 19.0373 49.8412 18.8832 49.9049C18.729 49.9686 18.5637 50.0012 18.3969 50.0008Z" fill="currentcolor" />
-                              <path d="M4.12218 35.2936C3.02925 35.2925 1.98141 34.8578 1.20859 34.085C0.435777 33.3122 0.00111808 32.2644 0 31.1714V20.6835C0 20.3475 0.133493 20.0252 0.371114 19.7876C0.608734 19.55 0.931017 19.4165 1.26706 19.4165C1.60311 19.4165 1.92539 19.55 2.16301 19.7876C2.40063 20.0252 2.53413 20.3475 2.53413 20.6835V31.1714C2.53413 31.5926 2.70144 31.9965 2.99926 32.2944C3.29707 32.5922 3.701 32.7595 4.12218 32.7595C4.54336 32.7595 4.94728 32.5922 5.2451 32.2944C5.54292 31.9965 5.71023 31.5926 5.71023 31.1714C5.71023 30.8354 5.84372 30.5131 6.08135 30.2755C6.31897 30.0379 6.64125 29.9044 6.97729 29.9044C7.31334 29.9044 7.63562 30.0379 7.87324 30.2755C8.11086 30.5131 8.24436 30.8354 8.24436 31.1714C8.24324 32.2644 7.80858 33.3122 7.03576 34.085C6.26295 34.8578 5.21511 35.2925 4.12218 35.2936Z" fill="currentcolor" />
-                              <path d="M39.8722 50.0009H1.26902C0.93297 50.0009 0.610687 49.8674 0.373067 49.6298C0.135447 49.3921 0.00195312 49.0698 0.00195312 48.7338C0.00195312 48.3978 0.135447 48.0755 0.373067 47.8379C0.610687 47.6002 0.93297 47.4667 1.26902 47.4667H39.8722C40.2083 47.4667 40.5305 47.6002 40.7682 47.8379C41.0058 48.0755 41.1393 48.3978 41.1393 48.7338C41.1393 49.0698 41.0058 49.3921 40.7682 49.6298C40.5305 49.8674 40.2083 50.0009 39.8722 50.0009Z" fill="currentcolor" />
-                              <path d="M32.9809 14.018H26.4116C26.0755 14.018 25.7533 13.8845 25.5156 13.6468C25.278 13.4092 25.1445 13.0869 25.1445 12.7509C25.1445 12.4148 25.278 12.0926 25.5156 11.8549C25.7533 11.6173 26.0755 11.4838 26.4116 11.4838H32.9809C33.3169 11.4838 33.6392 11.6173 33.8768 11.8549C34.1145 12.0926 34.248 12.4148 34.248 12.7509C34.248 13.0869 34.1145 13.4092 33.8768 13.6468C33.6392 13.8845 33.3169 14.018 32.9809 14.018Z" fill="currentcolor" />
-                              <path d="M39.5502 8.28998H26.4116C26.0755 8.28998 25.7533 8.15649 25.5156 7.91887C25.278 7.68125 25.1445 7.35897 25.1445 7.02292C25.1445 6.68688 25.278 6.36459 25.5156 6.12697C25.7533 5.88935 26.0755 5.75586 26.4116 5.75586H39.5502C39.8862 5.75586 40.2085 5.88935 40.4461 6.12697C40.6838 6.36459 40.8173 6.68688 40.8173 7.02292C40.8173 7.35897 40.6838 7.68125 40.4461 7.91887C40.2085 8.15649 39.8862 8.28998 39.5502 8.28998Z" fill="currentcolor" />
-                           </svg>
-                        </span>
-                     </div>
-                     <div class="it-funfact-content">
-                        <h6 class="it-funfact-number"><i class="purecounter" data-purecounter-duration="1" data-purecounter-end="120">0</i>+</h6>
-                        <span>Our Instructors</span>
-                     </div>
-                  </div>
-               </div>
-               <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6">
-                  <div class="it-funfact-item style-3 d-flex align-items-center">
-                     <div class="it-funfact-icon">
-                        <span>
-                           <svg width="50" height="50" viewBox="0 0 50 50" fill="none" xmlns="http://www.w3.org/2000/svg">
-                              <path d="M4.54545 0C2.04694 0 0 2.04694 0 4.54545V11.3636H2.27273H47.7273V34.0909C47.7273 35.3697 46.7333 36.3636 45.4545 36.3636H28.3913C28.4019 36.1693 28.4091 35.9746 28.4091 35.7799C28.4091 31.6373 26.035 27.9221 22.421 26.1275C23.3212 25.0458 23.8636 23.6571 23.8636 22.148C23.8636 18.7152 21.0547 15.9091 17.6203 15.9091C14.1859 15.9091 11.3747 18.7152 11.3747 22.148C11.3747 23.6572 11.9188 25.0457 12.8196 26.1275C9.20574 27.9224 6.82928 31.6373 6.82928 35.7799C6.82928 35.9747 6.83622 36.1693 6.84703 36.3636H4.54545C3.26671 36.3636 2.27273 35.3697 2.27273 34.0909V13.6364H0V34.0909C0 36.5894 2.04694 38.6364 4.54545 38.6364H45.4545C47.9531 38.6364 50 36.5894 50 34.0909V4.54545C50 2.04694 47.9531 0 45.4545 0H4.54545ZM4.54545 2.27273H45.4545C46.7333 2.27273 47.7273 3.26671 47.7273 4.54545V9.09091H2.27273V4.54545C2.27273 3.26671 3.26671 2.27273 4.54545 2.27273ZM17.6203 18.1818C19.8276 18.1818 21.5909 19.9447 21.5909 22.148C21.5909 24.3513 19.8276 26.1142 17.6203 26.1142C15.413 26.1142 13.6475 24.3513 13.6475 22.148C13.6475 19.9447 15.413 18.1818 17.6203 18.1818ZM14.8526 27.7366C15.6882 28.1526 16.6279 28.3869 17.6203 28.3869C18.6127 28.3869 19.5527 28.1526 20.388 27.7366C23.8151 28.9109 26.1364 32.1261 26.1364 35.7799C26.1364 35.9748 26.1277 36.1693 26.1142 36.3636H9.1242C9.11064 36.1693 9.10201 35.9749 9.10201 35.7799C9.10201 32.1254 11.4252 28.9104 14.8526 27.7366Z" fill="currentcolor" />
-                              <path d="M11.3636 40.9091C9.2592 40.9091 7.47855 42.3659 6.96911 44.3182H0V46.5909H6.96911C7.47855 48.5432 9.2592 50 11.3636 50C13.4687 50 15.2538 48.5441 15.7626 46.5909H50V44.3182H15.7626C15.2538 42.365 13.4687 40.9091 11.3636 40.9091ZM11.3636 43.1818C12.6323 43.1818 13.6364 44.1859 13.6364 45.4545C13.6364 46.7232 12.6323 47.7273 11.3636 47.7273C10.095 47.7273 9.09091 46.7232 9.09091 45.4545C9.09091 44.1859 10.095 43.1818 11.3636 43.1818Z" fill="currentcolor" />
-                              <path d="M33.5074 16.0511C33.3343 15.9548 33.139 15.9054 32.941 15.9079C32.7429 15.9103 32.549 15.9644 32.3783 16.0649C32.2076 16.1654 32.0661 16.3087 31.9679 16.4807C31.8697 16.6527 31.8181 16.8474 31.8184 17.0455V28.4091C31.8181 28.6072 31.8697 28.8018 31.9679 28.9738C32.0661 29.1458 32.2076 29.2892 32.3783 29.3897C32.549 29.4901 32.7429 29.5443 32.941 29.5467C33.139 29.5491 33.3343 29.4997 33.5074 29.4034L43.7346 23.7216C43.9122 23.6233 44.0602 23.4792 44.1633 23.3044C44.2664 23.1295 44.3208 22.9302 44.3208 22.7273C44.3208 22.5243 44.2664 22.325 44.1633 22.1502C44.0602 21.9753 43.9122 21.8312 43.7346 21.733L33.5074 16.0511ZM34.0911 18.9786L40.8405 22.7273L34.0911 26.4782V18.9786Z" fill="currentcolor" fill-opacity="0.999" />
-                              <path d="M43.1816 4.54544V6.81817H45.4544V4.54544H43.1816Z" fill="currentcolor" />
-                              <path d="M38.6367 4.54544V6.81817H40.9094V4.54544H38.6367Z" fill="currentcolor" />
-                              <path d="M34.0918 4.54544V6.81817H36.3645V4.54544H34.0918Z" fill="currentcolor" />
-                              <path d="M29.5449 4.54544V6.81817H31.8176V4.54544H29.5449Z" fill="currentcolor" />
-                           </svg>
-                        </span>
-                     </div>
-                     <div class="it-funfact-content">
-                        <h6 class="it-funfact-number"><i class="purecounter" data-purecounter-duration="1" data-purecounter-end="120">0</i>+</h6>
-                        <span>Total Video Lessons</span>
-                     </div>
-                  </div>
-               </div>
-               <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6">
-                  <div class="it-funfact-item style-4 d-flex align-items-center justify-content-xl-end">
-                     <div class="it-funfact-icon">
-                        <span>
-                           <svg width="39" height="55" viewBox="0 0 39 55" fill="none" xmlns="http://www.w3.org/2000/svg">
-                              <path d="M36.3409 36.3276V30.602L33.9238 31.5421L33.9167 31.5262L33.8591 31.4216C32.9328 29.98 31.4349 28.977 29.7481 28.6713L23.9318 27.6134V27.1544C26.107 25.8918 27.6998 23.7379 28.1961 21.1914C29.8075 20.8582 31.0227 19.4291 31.0227 17.7208V8.96937C31.0227 6.49644 29.4025 4.33982 27.0518 3.63808L26.6086 3.19506C24.547 1.13413 21.8063 0 18.8911 0C12.8735 0 7.97727 4.89359 7.97727 10.9098V17.7208C7.97727 19.4291 9.19248 20.8582 10.8039 21.1914C11.3011 23.7379 12.893 25.8927 15.0682 27.1544V27.6134L9.25275 28.6705C7.56777 28.9761 6.0707 29.9774 5.14357 31.4181L5.09039 31.5474L2.65909 30.602V36.3276C1.19305 36.3276 0 37.5202 0 38.9857V42.5299C0 43.9954 1.19305 45.188 2.65909 45.188V48.4522L19.5 55L36.3409 48.4522V45.188C37.807 45.188 39 43.9954 39 42.5299V38.9857C39 37.5202 37.807 36.3276 36.3409 36.3276ZM25.5929 29.7169L29.4308 30.4142C30.5609 30.6197 31.5616 31.2719 32.2291 32.2004L23.6535 35.5337L25.5929 29.7169ZM16.9162 27.9669C17.7344 28.2168 18.6012 28.3533 19.5 28.3533C20.3988 28.3533 21.2656 28.2168 22.0837 27.9669L19.5 29.9038L16.9162 27.9669ZM18.151 31.1071L16.3419 32.9146L15.1683 29.3961L15.733 29.2942L18.151 31.1071ZM23.267 29.2951L23.8317 29.397L22.6581 32.9155L20.849 31.108L23.267 29.2951ZM28.3636 19.2465V16.195C28.891 16.5025 29.25 17.0678 29.25 17.7208C29.25 18.3738 28.891 18.9391 28.3636 19.2465ZM10.6364 19.2465C10.109 18.9391 9.75 18.3738 9.75 17.7208C9.75 17.0678 10.109 16.5025 10.6364 16.195V19.2465ZM10.6364 13.2906V14.3024C10.3208 14.3848 10.0248 14.5089 9.75 14.6693V10.9098C9.75 5.87178 13.8503 1.77208 18.8911 1.77208C21.3321 1.77208 23.6287 2.7228 25.3553 4.4488L26.1371 5.23118L26.3755 5.28965C28.0685 5.71229 29.25 7.22565 29.25 8.96937V14.6693C28.9752 14.5089 28.6792 14.384 28.3636 14.3024V13.2906H25.553C23.1509 13.2906 20.8552 12.1441 19.4149 10.224L18.7103 9.28303L16.949 11.0445C15.499 12.4932 13.572 13.2906 11.5227 13.2906H10.6364ZM12.4091 19.4929V15.0219C14.5975 14.819 16.6282 13.8701 18.2024 12.2973L18.5472 11.9527C20.3243 13.9135 22.8841 15.0627 25.553 15.0627H26.5909V19.4929C26.5909 23.4012 23.4097 26.5812 19.5 26.5812C15.5903 26.5812 12.4091 23.4012 12.4091 19.4929ZM9.56918 30.4142L13.4071 29.7169L15.3465 35.5337L6.76916 32.1996C7.43659 31.2701 8.43907 30.6197 9.56918 30.4142ZM1.77273 42.5299V38.9857C1.77273 38.4966 2.1707 38.0997 2.65909 38.0997C4.12514 38.0997 5.31818 39.2923 5.31818 40.7578C5.31818 42.2233 4.12514 43.4159 2.65909 43.4159C2.1707 43.4159 1.77273 43.019 1.77273 42.5299ZM18.6136 52.753L4.43182 47.241V44.8123C5.99448 44.1265 7.09091 42.5698 7.09091 40.7578C7.09091 38.9459 5.99448 37.3891 4.43182 36.7033V33.1928L18.6136 38.7057V52.753ZM15.982 35.7818L19.5 32.2642L23.018 35.7809L19.5 37.149L15.982 35.7818ZM34.5682 47.2401L20.3864 52.7521V38.7057L34.5682 33.1928V36.7033C33.0055 37.3891 31.9091 38.9459 31.9091 40.7578C31.9091 42.5698 33.0055 44.1265 34.5682 44.8123V47.2401ZM37.2273 42.5299C37.2273 43.019 36.8293 43.4159 36.3409 43.4159C34.8749 43.4159 33.6818 42.2233 33.6818 40.7578C33.6818 39.2923 34.8749 38.0997 36.3409 38.0997C36.8293 38.0997 37.2273 38.4966 37.2273 38.9857V42.5299Z" fill="currentcolor" />
-                           </svg>
-                        </span>
-                     </div>
-                     <div class="it-funfact-content">
-                        <h6 class="it-funfact-number"><i class="purecounter" data-purecounter-duration="1" data-purecounter-end="6000">0</i>+</h6>
-                        <span>Total Students Enrolled</span>
-                     </div>
-                  </div>
-               </div>
-            </div>
-         </div>
-      </div>
-   </section>
-   <!-- funfact-area-end -->
-
-   <!-- about-area-start -->
-   <section class="it-about-2-area it-about-2-style-5 it-about-2-style-4 fix z-index-1 pt-130 pb-130">
-
-      <div class="container">
-         <div class="row align-items-center">
-            <div class="col-xl-6 col-lg-6 wow itfadeLeft" data-wow-duration=".9s"
-               data-wow-delay=".5s">
-               <div class="it-about-2-left z-index-1">
-                  <div class="it-about-2-thumb border-radius-20">
-                     <img src="img/about-3.webp" alt="">
-                  </div>
-                  <div class="it-about-2-thumb-sm thumb-overlay border-radius-20 z-index-1">
-                     <img src="img/about-5.webp" alt="">
-                     <a class="it-about-thumb-icon pulse-white d-none" href="#">
-                        <svg width="11" height="14" viewBox="0 0 11 14" fill="none" xmlns="http://www.w3.org/2000/svg">
-                           <path d="M10.5 7.93782C11.1667 7.55292 11.1667 6.59067 10.5 6.20577L1.5 1.00962C0.833333 0.624718 0 1.10584 0 1.87564V12.2679C0 13.0378 0.833333 13.5189 1.5 13.134L10.5 7.93782Z" fill="#F8C62F" />
-                        </svg>
-                     </a>
-                  </div>
-                  <img class="it-about-2-shape-7 d-none d-xl-block" src="assets/img/shape/about-8-1.png" alt="">
-               </div>
-            </div>
-            <div class="col-xl-6 col-lg-6 wow itfadeRight" data-wow-duration=".9s"
-               data-wow-delay=".7s">
-               <div class="it-about-2-right">
-                  <div class="it-about-section-title-box mb-25">
-                     <span class="it-section-subtitle">Who we are</span>
-                     <h4 class="it-section-title">Empowering Minds Through Skill Development & Distant Learning
-                     </h4>
-                  </div>
-                  <div class="it-about-text">
-                     <p>At KYMS Academy, we believe skill development is the key to unlocking career opportunities and personal growth. Our mission is to make professional education engaging, accessible, and effective for everyone regardless of age, background, or career goals</p>
-                  </div>
-                  <div class="it-about-list-wrap">
-                     <div class="row">
-                        <div class="col-md-6 col-sm-6">
-                           <div class="it-about-list-box">
-                              <ul>
-                                 <li>
-                                    <span>
-                                       <svg width="30" height="24" viewBox="0 0 30 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                          <path fill-rule="evenodd" clip-rule="evenodd" d="M8.56793 23.8839C8.37951 23.8839 8.22245 23.7608 8.15964 23.6069C8.12828 23.5453 5.42699 16.7109 1.24953 14.1249C0.432876 13.6324 -0.195186 13.109 0.056039 11.9391C0.307264 10.8 1.09256 10.1535 2.50593 9.84567C5.01862 9.32229 7.71982 13.1397 8.72499 14.7098C12.2428 9.69181 19.2785 1.81065 29.5179 0.887097C30.0119 0.830341 30.1945 1.548 29.7378 1.74909C29.5807 1.81065 14.9439 8.36808 9.00757 23.6377C8.91341 23.7915 8.75635 23.8839 8.56793 23.8839Z" fill="currentcolor" />
-                                       </svg>
-                                       Flexible Classes
-                                    </span>
-                                 </li>
-                                 <li>
-                                    <span>
-                                       <svg width="30" height="24" viewBox="0 0 30 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                          <path fill-rule="evenodd" clip-rule="evenodd" d="M8.56793 23.8839C8.37951 23.8839 8.22245 23.7608 8.15964 23.6069C8.12828 23.5453 5.42699 16.7109 1.24953 14.1249C0.432876 13.6324 -0.195186 13.109 0.056039 11.9391C0.307264 10.8 1.09256 10.1535 2.50593 9.84567C5.01862 9.32229 7.71982 13.1397 8.72499 14.7098C12.2428 9.69181 19.2785 1.81065 29.5179 0.887097C30.0119 0.830341 30.1945 1.548 29.7378 1.74909C29.5807 1.81065 14.9439 8.36808 9.00757 23.6377C8.91341 23.7915 8.75635 23.8839 8.56793 23.8839Z" fill="currentcolor" />
-                                       </svg>
-                                       Lifetime Access
-                                    </span>
-                                 </li>
-                              </ul>
-                           </div>
+    <!-- funfact-area-start -->
+    <section class="it-funfact-area">
+        <div class="container">
+            <div class="it-funfact-wrap z-index-2">
+                <div class="row">
+                    <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6">
+                        <div class="it-funfact-item style-1 d-flex align-items-center">
+                            <div class="it-funfact-icon">
+                                <span>
+                                    <svg width="50" height="49" viewBox="0 0 50 49" fill="none"
+                                        xmlns="http://www.w3.org/2000/svg">
+                                        <path
+                                            d="M49.2676 41.796H47.9717V15.4829C47.9717 13.5556 46.4033 11.9878 44.4756 11.9878H42.7552C42.9433 11.5942 43.047 11.1577 43.047 10.7041C43.047 9.59957 42.4408 8.59215 41.4649 8.07487L31.8878 3.00162C31.5304 2.81217 31.087 2.9485 30.8978 3.30602C30.7084 3.66344 30.8447 4.1067 31.2021 4.29606L40.7791 9.3692C41.2819 9.63571 41.5821 10.1347 41.5821 10.7041C41.5821 11.2734 41.2819 11.7723 40.7793 12.0387L31.4695 16.9706L25.5508 10.2212C25.2841 9.91696 24.8213 9.88668 24.5172 10.1534C24.2131 10.4201 24.1827 10.8829 24.4494 11.187L30.1393 17.6754L26.6166 19.5415C25.6044 20.0769 24.3959 20.0769 23.384 19.5417L9.2209 12.0389C8.71816 11.7724 8.41787 11.2734 8.41787 10.7042C8.41787 10.1349 8.71807 9.6359 9.2207 9.3694L23.3835 1.86666C24.3957 1.33112 25.6042 1.33112 26.616 1.86647L28.6434 2.94069C29.0008 3.13014 29.4441 2.99391 29.6335 2.63649C29.8229 2.27906 29.6866 1.83571 29.3293 1.64635L27.3016 0.571936C25.8604 -0.190662 24.1395 -0.190662 22.6981 0.572034L8.53486 8.07506C7.55918 8.59225 6.95312 9.59967 6.95312 10.7042C6.95312 11.1578 7.05684 11.5942 7.24492 11.9879H5.52441C3.59668 11.9879 2.02832 13.5557 2.02832 15.483V41.7961H0.732422C0.32793 41.7961 0 42.124 0 42.5285V44.1518C0 46.7711 2.13086 48.902 4.7501 48.902H45.2498C47.869 48.902 50 46.7712 50 44.1518V42.5285C50 42.1239 49.6721 41.796 49.2676 41.796ZM31.3004 29.0893L32.2554 30.7434C32.4527 31.0853 32.3211 31.3872 32.2554 31.501C32.1897 31.6149 31.994 31.8798 31.5992 31.8798H31.0015C30.6066 31.8798 30.4111 31.6149 30.3453 31.501C30.2795 31.3871 30.1479 31.0853 30.3453 30.7434L31.3004 29.0893ZM32.0328 18.3299L35.0635 16.7245V19.633C35.0635 21.7218 33.883 23.5945 32.0328 24.4838V18.3299ZM24.9999 21.4082C25.7904 21.4082 26.5812 21.2174 27.3019 20.8362L30.568 19.106V25.0505C26.5662 26.376 22.1388 26.2272 18.2328 24.6038C16.2304 23.7715 14.9365 21.8204 14.9365 19.6331V16.7244L22.6985 20.8363C23.419 21.2176 24.2094 21.4082 24.9999 21.4082ZM3.49316 15.4829C3.49316 14.3633 4.40439 13.4526 5.52441 13.4526H8.76045L12.4473 15.4057H6.17871C5.77422 15.4057 5.44629 15.7337 5.44629 16.1381V39.1108C5.44629 39.5153 5.77422 39.8432 6.17871 39.8432H10.0449C10.4494 39.8432 10.7773 39.5153 10.7773 39.1108C10.7773 38.7063 10.4494 38.3784 10.0449 38.3784H6.91113V16.8706H13.4717V19.633C13.4717 22.4141 15.1198 24.8962 17.6707 25.9564C19.9996 26.9244 22.4998 27.4084 25.0001 27.4084C26.8804 27.4084 28.7605 27.1344 30.5681 26.587V27.4282L29.0769 30.011C28.6751 30.7068 28.6751 31.5377 29.0769 32.2335C29.4786 32.9293 30.198 33.3447 31.0016 33.3447H31.5993C32.4028 33.3447 33.1223 32.9293 33.524 32.2335C33.9258 31.5377 33.9258 30.7068 33.524 30.011L32.0328 27.4282V26.0753C32.1318 26.0361 32.231 25.9973 32.3294 25.9564C34.8802 24.8962 36.5283 22.4141 36.5283 19.633V16.8706H43.0889V38.3784H12.9746C12.5701 38.3784 12.2422 38.7063 12.2422 39.1108C12.2422 39.5153 12.5701 39.8432 12.9746 39.8432H43.8213C44.2258 39.8432 44.5537 39.5153 44.5537 39.1108V16.1381C44.5537 15.7337 44.2258 15.4057 43.8213 15.4057H37.5526L41.2395 13.4526H44.4755C45.5955 13.4526 46.5067 14.3633 46.5067 15.4829V41.796H3.49316V15.4829ZM29.5293 43.2612C29.2587 44.0488 28.5104 44.6165 27.6321 44.6165H22.368C21.4896 44.6165 20.7414 44.0488 20.4707 43.2612H29.5293ZM48.5352 44.1517C48.5352 45.9632 47.0613 47.4371 45.2498 47.4371H4.7501C2.93857 47.4371 1.46484 45.9632 1.46484 44.1517V43.2608H2.75322C2.75576 43.2608 2.7582 43.2612 2.76074 43.2612H18.9597C19.2649 44.8649 20.6767 46.0813 22.368 46.0813H27.6321C29.3233 46.0813 30.7351 44.8648 31.0403 43.2612H47.2393C47.2418 43.2612 47.2442 43.2608 47.2468 43.2608H48.5352V44.1517Z"
+                                            fill="currentcolor" />
+                                        <path
+                                            d="M25.2212 35.6928C25.2212 35.2883 24.8933 34.9604 24.4888 34.9604H9.82617C9.42168 34.9604 9.09375 35.2883 9.09375 35.6928C9.09375 36.0973 9.42168 36.4253 9.82617 36.4253H24.4889C24.8933 36.4253 25.2212 36.0973 25.2212 35.6928Z"
+                                            fill="currentcolor" />
+                                        <path
+                                            d="M9.82617 33.3448H19.6299C20.0344 33.3448 20.3623 33.0169 20.3623 32.6124C20.3623 32.2079 20.0344 31.8799 19.6299 31.8799H9.82617C9.42168 31.8799 9.09375 32.2079 9.09375 32.6124C9.09375 33.0169 9.42158 33.3448 9.82617 33.3448Z"
+                                            fill="currentcolor" />
+                                    </svg>
+                                </span>
+                            </div>
+                            <div class="it-funfact-content">
+                                <h6 class="it-funfact-number"><i class="purecounter" data-purecounter-duration="1"
+                                        data-purecounter-end="1090">0</i>+</h6>
+                                <span>Our Online Courses</span>
+                            </div>
                         </div>
-                        <div class="col-md-6 col-sm-6">
-                           <div class="it-about-list-box">
-                              <ul>
-                                 <li>
-                                    <span>
-                                       <svg width="30" height="24" viewBox="0 0 30 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                          <path fill-rule="evenodd" clip-rule="evenodd" d="M8.56793 23.8839C8.37951 23.8839 8.22245 23.7608 8.15964 23.6069C8.12828 23.5453 5.42699 16.7109 1.24953 14.1249C0.432876 13.6324 -0.195186 13.109 0.056039 11.9391C0.307264 10.8 1.09256 10.1535 2.50593 9.84567C5.01862 9.32229 7.71982 13.1397 8.72499 14.7098C12.2428 9.69181 19.2785 1.81065 29.5179 0.887097C30.0119 0.830341 30.1945 1.548 29.7378 1.74909C29.5807 1.81065 14.9439 8.36808 9.00757 23.6377C8.91341 23.7915 8.75635 23.8839 8.56793 23.8839Z" fill="currentcolor" />
-                                       </svg>
-                                       Expert Trainers
-                                    </span>
-                                 </li>
-                                 <li>
-                                    <span>
-                                       <svg width="30" height="24" viewBox="0 0 30 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                          <path fill-rule="evenodd" clip-rule="evenodd" d="M8.56793 23.8839C8.37951 23.8839 8.22245 23.7608 8.15964 23.6069C8.12828 23.5453 5.42699 16.7109 1.24953 14.1249C0.432876 13.6324 -0.195186 13.109 0.056039 11.9391C0.307264 10.8 1.09256 10.1535 2.50593 9.84567C5.01862 9.32229 7.71982 13.1397 8.72499 14.7098C12.2428 9.69181 19.2785 1.81065 29.5179 0.887097C30.0119 0.830341 30.1945 1.548 29.7378 1.74909C29.5807 1.81065 14.9439 8.36808 9.00757 23.6377C8.91341 23.7915 8.75635 23.8839 8.56793 23.8839Z" fill="currentcolor" />
-                                       </svg>
-                                       Learn Anywhere
-                                    </span>
-                                 </li>
-                              </ul>
-                           </div>
+                    </div>
+                    <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6">
+                        <div class="it-funfact-item style-2 d-flex align-items-center">
+                            <div class="it-funfact-icon">
+                                <span>
+                                    <svg width="50" height="50" viewBox="0 0 50 50" fill="none"
+                                        xmlns="http://www.w3.org/2000/svg">
+                                        <path
+                                            d="M6.978 32.4385C6.64195 32.4385 6.31967 32.305 6.08205 32.0674C5.84443 31.8298 5.71094 31.5075 5.71094 31.1714V22.1331C5.71094 21.797 5.84443 21.4747 6.08205 21.2371C6.31967 20.9995 6.64195 20.866 6.978 20.866C7.31405 20.866 7.63633 20.9995 7.87395 21.2371C8.11157 21.4747 8.24506 21.797 8.24506 22.1331V31.1714C8.24506 31.5075 8.11157 31.8298 7.87395 32.0674C7.63633 32.305 7.31405 32.4385 6.978 32.4385Z"
+                                            fill="currentcolor" />
+                                        <path
+                                            d="M12.687 12.2567C11.4749 12.2567 10.29 11.8973 9.28222 11.2239C8.27442 10.5505 7.48893 9.5934 7.02509 8.47359C6.56125 7.35378 6.43989 6.12157 6.67635 4.93278C6.91282 3.74399 7.49649 2.65202 8.35355 1.79496C9.21062 0.937891 10.3026 0.354222 11.4914 0.117757C12.6802 -0.118707 13.9124 0.00265538 15.0322 0.466497C16.152 0.930338 17.1091 1.71583 17.7825 2.72363C18.4559 3.73143 18.8153 4.91629 18.8153 6.12837C18.8135 7.75316 18.1673 9.31089 17.0184 10.4598C15.8695 11.6087 14.3118 12.2549 12.687 12.2567ZM12.687 2.53413C11.9761 2.53413 11.2812 2.74493 10.6901 3.13987C10.099 3.53481 9.63836 4.09615 9.36632 4.75291C9.09428 5.40967 9.0231 6.13235 9.16178 6.82957C9.30047 7.52678 9.64279 8.16721 10.1454 8.66987C10.6481 9.17254 11.2885 9.51485 11.9858 9.65354C12.683 9.79222 13.4057 9.72105 14.0624 9.44901C14.7192 9.17697 15.2805 8.71628 15.6755 8.12522C16.0704 7.53415 16.2812 6.83924 16.2812 6.12837C16.2801 5.17546 15.901 4.2619 15.2272 3.58809C14.5534 2.91428 13.6399 2.53525 12.687 2.53413Z"
+                                            fill="currentcolor" />
+                                        <path
+                                            d="M32.6663 21.736C32.4217 21.7362 32.1822 21.6655 31.9768 21.5325C31.7714 21.3995 31.609 21.2099 31.509 20.9866C31.409 20.7633 31.3759 20.5158 31.4135 20.2741C31.4512 20.0323 31.558 19.8066 31.7211 19.6243L38.6055 11.907C38.7164 11.7828 38.8507 11.6817 39.0007 11.6094C39.1507 11.5371 39.3135 11.4951 39.4797 11.4857C39.646 11.4764 39.8125 11.4998 39.9696 11.5548C40.1268 11.6098 40.2716 11.6951 40.3958 11.8061C40.52 11.917 40.6211 12.0513 40.6934 12.2013C40.7657 12.3513 40.8077 12.5141 40.8171 12.6803C40.8265 12.8466 40.803 13.0131 40.748 13.1702C40.6931 13.3274 40.6077 13.4722 40.4968 13.5964L33.6124 21.3095C33.4937 21.4433 33.3481 21.5505 33.185 21.6241C33.022 21.6976 32.8452 21.7357 32.6663 21.736Z"
+                                            fill="currentcolor" />
+                                        <path
+                                            d="M46.1996 33.1776H23.466C23.1299 33.1776 22.8077 33.0441 22.57 32.8065C22.3324 32.5689 22.1989 32.2466 22.1989 31.9106C22.1989 31.5745 22.3324 31.2522 22.57 31.0146C22.8077 30.777 23.1299 30.6435 23.466 30.6435H46.1996C46.5357 30.6435 46.858 30.51 47.0956 30.2724C47.3332 30.0348 47.4667 29.7125 47.4667 29.3764V3.82991C47.4667 3.49386 47.3332 3.17158 47.0956 2.93396C46.858 2.69634 46.5357 2.56284 46.1996 2.56284H21.3432C21.0072 2.56284 20.6849 2.42935 20.4473 2.19173C20.2097 1.95411 20.0762 1.63183 20.0762 1.29578C20.0762 0.959734 20.2097 0.637452 20.4473 0.399831C20.6849 0.162211 21.0072 0.028717 21.3432 0.028717H46.1996C47.2078 0.028717 48.1746 0.429199 48.8875 1.14206C49.6003 1.85492 50.0008 2.82177 50.0008 3.82991V29.3764C50.0008 30.3846 49.6003 31.3514 48.8875 32.0643C48.1746 32.7771 47.2078 33.1776 46.1996 33.1776Z"
+                                            fill="currentcolor" />
+                                        <path
+                                            d="M12.6874 50.0009H6.978C6.64195 50.0009 6.31967 49.8674 6.08205 49.6297C5.84443 49.3921 5.71094 49.0698 5.71094 48.7338V31.1715C5.71094 30.8354 5.84443 30.5131 6.08205 30.2755C6.31967 30.0379 6.64195 29.9044 6.978 29.9044C7.31405 29.9044 7.63633 30.0379 7.87395 30.2755C8.11157 30.5131 8.24506 30.8354 8.24506 31.1715V47.4667H12.6874C13.0234 47.4667 13.3457 47.6002 13.5833 47.8378C13.821 48.0755 13.9544 48.3977 13.9544 48.7338C13.9544 49.0698 13.821 49.3921 13.5833 49.6297C13.3457 49.8674 13.0234 50.0009 12.6874 50.0009Z"
+                                            fill="currentcolor" />
+                                        <path
+                                            d="M18.3969 50.0008H12.6867C12.3506 50.0008 12.0284 49.8673 11.7907 49.6297C11.5531 49.3921 11.4196 49.0698 11.4196 48.7338V31.9106C11.4196 31.5745 11.5531 31.2522 11.7907 31.0146C12.0284 30.777 12.3506 30.6435 12.6867 30.6435C13.0227 30.6435 13.345 30.777 13.5826 31.0146C13.8203 31.2522 13.9537 31.5745 13.9537 31.9106V47.4667H17.1299V23.5108C17.1298 22.9849 17.2857 22.4708 17.5778 22.0336C17.87 21.5963 18.2852 21.2555 18.7711 21.0543C19.2569 20.8531 19.7916 20.8006 20.3073 20.9033C20.823 21.006 21.2967 21.2593 21.6685 21.6313L23.6544 23.6147C23.8015 23.7625 23.9765 23.8797 24.1692 23.9594C24.3619 24.0392 24.5685 24.0799 24.777 24.0793H30.6739C30.8853 24.0793 31.0945 24.0372 31.2893 23.9553C31.4842 23.8734 31.6607 23.7535 31.8086 23.6025C31.9565 23.4516 32.0728 23.2726 32.1507 23.0761C32.2285 22.8796 32.2663 22.6696 32.262 22.4583C32.2442 21.6009 31.5068 20.904 30.6182 20.904H25.9562C25.6203 20.9037 25.2982 20.77 25.0608 20.5323L22.3333 17.8056C21.8384 17.3079 21.2497 16.9133 20.6013 16.6448C19.9528 16.3762 19.2576 16.2391 18.5557 16.2412H17.5725L15.6575 17.8335C14.8233 18.5268 13.7727 18.9064 12.6879 18.9064C11.6032 18.9064 10.5526 18.5268 9.71837 17.8335L7.80173 16.2412H6.97729C5.7993 16.2425 4.66995 16.7111 3.83698 17.5441C3.00402 18.377 2.53547 19.5064 2.53413 20.6844C2.53413 21.0204 2.40063 21.3427 2.16301 21.5803C1.92539 21.8179 1.60311 21.9514 1.26706 21.9514C0.931017 21.9514 0.608734 21.8179 0.371114 21.5803C0.133493 21.3427 0 21.0204 0 20.6844C0.00201232 18.8345 0.737764 17.061 2.04582 15.7529C3.35389 14.4448 5.12742 13.7091 6.97729 13.7071H8.25956C8.55553 13.7072 8.84213 13.8109 9.06964 14.0002L11.3368 15.8847C11.7163 16.2008 12.1945 16.3739 12.6884 16.3739C13.1822 16.3739 13.6604 16.2008 14.0399 15.8847L16.3054 13.9994C16.5329 13.81 16.8195 13.7063 17.1155 13.7062H18.5574C19.5921 13.7034 20.6171 13.9058 21.5731 14.3018C22.529 14.6978 23.397 15.2794 24.1266 16.0131L26.4833 18.3699H30.6224C32.8811 18.3699 34.7547 20.1809 34.7995 22.4076C34.8106 22.9558 34.7122 23.5008 34.5101 24.0106C34.308 24.5203 34.0062 24.9846 33.6224 25.3763C33.2386 25.768 32.7805 26.0791 32.2749 26.2916C31.7694 26.504 31.2265 26.6134 30.6781 26.6134H24.7736C24.2322 26.6149 23.6958 26.509 23.1956 26.3018C22.6953 26.0946 22.2412 25.7902 21.8594 25.4063L19.8768 23.4212C19.8606 23.4052 19.8404 23.3938 19.8182 23.3883C19.7961 23.3828 19.7728 23.3834 19.751 23.39C19.7263 23.3983 19.7048 23.4142 19.6896 23.4355C19.6745 23.4567 19.6664 23.4821 19.6665 23.5082V48.7312C19.6668 48.8981 19.6342 49.0633 19.5705 49.2175C19.5069 49.3717 19.4134 49.5118 19.2954 49.6297C19.1774 49.7477 19.0373 49.8412 18.8832 49.9049C18.729 49.9686 18.5637 50.0012 18.3969 50.0008Z"
+                                            fill="currentcolor" />
+                                        <path
+                                            d="M4.12218 35.2936C3.02925 35.2925 1.98141 34.8578 1.20859 34.085C0.435777 33.3122 0.00111808 32.2644 0 31.1714V20.6835C0 20.3475 0.133493 20.0252 0.371114 19.7876C0.608734 19.55 0.931017 19.4165 1.26706 19.4165C1.60311 19.4165 1.92539 19.55 2.16301 19.7876C2.40063 20.0252 2.53413 20.3475 2.53413 20.6835V31.1714C2.53413 31.5926 2.70144 31.9965 2.99926 32.2944C3.29707 32.5922 3.701 32.7595 4.12218 32.7595C4.54336 32.7595 4.94728 32.5922 5.2451 32.2944C5.54292 31.9965 5.71023 31.5926 5.71023 31.1714C5.71023 30.8354 5.84372 30.5131 6.08135 30.2755C6.31897 30.0379 6.64125 29.9044 6.97729 29.9044C7.31334 29.9044 7.63562 30.0379 7.87324 30.2755C8.11086 30.5131 8.24436 30.8354 8.24436 31.1714C8.24324 32.2644 7.80858 33.3122 7.03576 34.085C6.26295 34.8578 5.21511 35.2925 4.12218 35.2936Z"
+                                            fill="currentcolor" />
+                                        <path
+                                            d="M39.8722 50.0009H1.26902C0.93297 50.0009 0.610687 49.8674 0.373067 49.6298C0.135447 49.3921 0.00195312 49.0698 0.00195312 48.7338C0.00195312 48.3978 0.135447 48.0755 0.373067 47.8379C0.610687 47.6002 0.93297 47.4667 1.26902 47.4667H39.8722C40.2083 47.4667 40.5305 47.6002 40.7682 47.8379C41.0058 48.0755 41.1393 48.3978 41.1393 48.7338C41.1393 49.0698 41.0058 49.3921 40.7682 49.6298C40.5305 49.8674 40.2083 50.0009 39.8722 50.0009Z"
+                                            fill="currentcolor" />
+                                        <path
+                                            d="M32.9809 14.018H26.4116C26.0755 14.018 25.7533 13.8845 25.5156 13.6468C25.278 13.4092 25.1445 13.0869 25.1445 12.7509C25.1445 12.4148 25.278 12.0926 25.5156 11.8549C25.7533 11.6173 26.0755 11.4838 26.4116 11.4838H32.9809C33.3169 11.4838 33.6392 11.6173 33.8768 11.8549C34.1145 12.0926 34.248 12.4148 34.248 12.7509C34.248 13.0869 34.1145 13.4092 33.8768 13.6468C33.6392 13.8845 33.3169 14.018 32.9809 14.018Z"
+                                            fill="currentcolor" />
+                                        <path
+                                            d="M39.5502 8.28998H26.4116C26.0755 8.28998 25.7533 8.15649 25.5156 7.91887C25.278 7.68125 25.1445 7.35897 25.1445 7.02292C25.1445 6.68688 25.278 6.36459 25.5156 6.12697C25.7533 5.88935 26.0755 5.75586 26.4116 5.75586H39.5502C39.8862 5.75586 40.2085 5.88935 40.4461 6.12697C40.6838 6.36459 40.8173 6.68688 40.8173 7.02292C40.8173 7.35897 40.6838 7.68125 40.4461 7.91887C40.2085 8.15649 39.8862 8.28998 39.5502 8.28998Z"
+                                            fill="currentcolor" />
+                                    </svg>
+                                </span>
+                            </div>
+                            <div class="it-funfact-content">
+                                <h6 class="it-funfact-number"><i class="purecounter" data-purecounter-duration="1"
+                                        data-purecounter-end="120">0</i>+</h6>
+                                <span>Our Instructors</span>
+                            </div>
                         </div>
-                     </div>
-                  </div>
-                  <a href="#" class="it-btn-yellow theme-bg">
-                     <span>
-                        <span class="text-1">More About Us</span>
-                        <span class="text-2">More About Us</span>
-                     </span>
-                     <i>
-                        <svg width="16" height="15" viewBox="0 0 16 15" fill="none" xmlns="http://www.w3.org/2000/svg">
-                           <path d="M15.0544 8.1364C15.4058 7.78492 15.4058 7.21508 15.0544 6.8636L9.3268 1.13604C8.97533 0.784567 8.40548 0.784567 8.05401 1.13604C7.70254 1.48751 7.70254 2.05736 8.05401 2.40883L13.1452 7.5L8.05401 12.5912C7.70254 12.9426 7.70254 13.5125 8.05401 13.864C8.40548 14.2154 8.97533 14.2154 9.3268 13.864L15.0544 8.1364ZM0.417969 7.5V8.4H14.418V7.5V6.6H0.417969V7.5Z" fill="currentcolor" />
-                        </svg>
-                     </i>
-                  </a>
-               </div>
+                    </div>
+                    <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6">
+                        <div class="it-funfact-item style-3 d-flex align-items-center">
+                            <div class="it-funfact-icon">
+                                <span>
+                                    <svg width="50" height="50" viewBox="0 0 50 50" fill="none"
+                                        xmlns="http://www.w3.org/2000/svg">
+                                        <path
+                                            d="M4.54545 0C2.04694 0 0 2.04694 0 4.54545V11.3636H2.27273H47.7273V34.0909C47.7273 35.3697 46.7333 36.3636 45.4545 36.3636H28.3913C28.4019 36.1693 28.4091 35.9746 28.4091 35.7799C28.4091 31.6373 26.035 27.9221 22.421 26.1275C23.3212 25.0458 23.8636 23.6571 23.8636 22.148C23.8636 18.7152 21.0547 15.9091 17.6203 15.9091C14.1859 15.9091 11.3747 18.7152 11.3747 22.148C11.3747 23.6572 11.9188 25.0457 12.8196 26.1275C9.20574 27.9224 6.82928 31.6373 6.82928 35.7799C6.82928 35.9747 6.83622 36.1693 6.84703 36.3636H4.54545C3.26671 36.3636 2.27273 35.3697 2.27273 34.0909V13.6364H0V34.0909C0 36.5894 2.04694 38.6364 4.54545 38.6364H45.4545C47.9531 38.6364 50 36.5894 50 34.0909V4.54545C50 2.04694 47.9531 0 45.4545 0H4.54545ZM4.54545 2.27273H45.4545C46.7333 2.27273 47.7273 3.26671 47.7273 4.54545V9.09091H2.27273V4.54545C2.27273 3.26671 3.26671 2.27273 4.54545 2.27273ZM17.6203 18.1818C19.8276 18.1818 21.5909 19.9447 21.5909 22.148C21.5909 24.3513 19.8276 26.1142 17.6203 26.1142C15.413 26.1142 13.6475 24.3513 13.6475 22.148C13.6475 19.9447 15.413 18.1818 17.6203 18.1818ZM14.8526 27.7366C15.6882 28.1526 16.6279 28.3869 17.6203 28.3869C18.6127 28.3869 19.5527 28.1526 20.388 27.7366C23.8151 28.9109 26.1364 32.1261 26.1364 35.7799C26.1364 35.9748 26.1277 36.1693 26.1142 36.3636H9.1242C9.11064 36.1693 9.10201 35.9749 9.10201 35.7799C9.10201 32.1254 11.4252 28.9104 14.8526 27.7366Z"
+                                            fill="currentcolor" />
+                                        <path
+                                            d="M11.3636 40.9091C9.2592 40.9091 7.47855 42.3659 6.96911 44.3182H0V46.5909H6.96911C7.47855 48.5432 9.2592 50 11.3636 50C13.4687 50 15.2538 48.5441 15.7626 46.5909H50V44.3182H15.7626C15.2538 42.365 13.4687 40.9091 11.3636 40.9091ZM11.3636 43.1818C12.6323 43.1818 13.6364 44.1859 13.6364 45.4545C13.6364 46.7232 12.6323 47.7273 11.3636 47.7273C10.095 47.7273 9.09091 46.7232 9.09091 45.4545C9.09091 44.1859 10.095 43.1818 11.3636 43.1818Z"
+                                            fill="currentcolor" />
+                                        <path
+                                            d="M33.5074 16.0511C33.3343 15.9548 33.139 15.9054 32.941 15.9079C32.7429 15.9103 32.549 15.9644 32.3783 16.0649C32.2076 16.1654 32.0661 16.3087 31.9679 16.4807C31.8697 16.6527 31.8181 16.8474 31.8184 17.0455V28.4091C31.8181 28.6072 31.8697 28.8018 31.9679 28.9738C32.0661 29.1458 32.2076 29.2892 32.3783 29.3897C32.549 29.4901 32.7429 29.5443 32.941 29.5467C33.139 29.5491 33.3343 29.4997 33.5074 29.4034L43.7346 23.7216C43.9122 23.6233 44.0602 23.4792 44.1633 23.3044C44.2664 23.1295 44.3208 22.9302 44.3208 22.7273C44.3208 22.5243 44.2664 22.325 44.1633 22.1502C44.0602 21.9753 43.9122 21.8312 43.7346 21.733L33.5074 16.0511ZM34.0911 18.9786L40.8405 22.7273L34.0911 26.4782V18.9786Z"
+                                            fill="currentcolor" fill-opacity="0.999" />
+                                        <path d="M43.1816 4.54544V6.81817H45.4544V4.54544H43.1816Z"
+                                            fill="currentcolor" />
+                                        <path d="M38.6367 4.54544V6.81817H40.9094V4.54544H38.6367Z"
+                                            fill="currentcolor" />
+                                        <path d="M34.0918 4.54544V6.81817H36.3645V4.54544H34.0918Z"
+                                            fill="currentcolor" />
+                                        <path d="M29.5449 4.54544V6.81817H31.8176V4.54544H29.5449Z"
+                                            fill="currentcolor" />
+                                    </svg>
+                                </span>
+                            </div>
+                            <div class="it-funfact-content">
+                                <h6 class="it-funfact-number"><i class="purecounter" data-purecounter-duration="1"
+                                        data-purecounter-end="120">0</i>+</h6>
+                                <span>Total Video Lessons</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6">
+                        <div class="it-funfact-item style-4 d-flex align-items-center justify-content-xl-end">
+                            <div class="it-funfact-icon">
+                                <span>
+                                    <svg width="39" height="55" viewBox="0 0 39 55" fill="none"
+                                        xmlns="http://www.w3.org/2000/svg">
+                                        <path
+                                            d="M36.3409 36.3276V30.602L33.9238 31.5421L33.9167 31.5262L33.8591 31.4216C32.9328 29.98 31.4349 28.977 29.7481 28.6713L23.9318 27.6134V27.1544C26.107 25.8918 27.6998 23.7379 28.1961 21.1914C29.8075 20.8582 31.0227 19.4291 31.0227 17.7208V8.96937C31.0227 6.49644 29.4025 4.33982 27.0518 3.63808L26.6086 3.19506C24.547 1.13413 21.8063 0 18.8911 0C12.8735 0 7.97727 4.89359 7.97727 10.9098V17.7208C7.97727 19.4291 9.19248 20.8582 10.8039 21.1914C11.3011 23.7379 12.893 25.8927 15.0682 27.1544V27.6134L9.25275 28.6705C7.56777 28.9761 6.0707 29.9774 5.14357 31.4181L5.09039 31.5474L2.65909 30.602V36.3276C1.19305 36.3276 0 37.5202 0 38.9857V42.5299C0 43.9954 1.19305 45.188 2.65909 45.188V48.4522L19.5 55L36.3409 48.4522V45.188C37.807 45.188 39 43.9954 39 42.5299V38.9857C39 37.5202 37.807 36.3276 36.3409 36.3276ZM25.5929 29.7169L29.4308 30.4142C30.5609 30.6197 31.5616 31.2719 32.2291 32.2004L23.6535 35.5337L25.5929 29.7169ZM16.9162 27.9669C17.7344 28.2168 18.6012 28.3533 19.5 28.3533C20.3988 28.3533 21.2656 28.2168 22.0837 27.9669L19.5 29.9038L16.9162 27.9669ZM18.151 31.1071L16.3419 32.9146L15.1683 29.3961L15.733 29.2942L18.151 31.1071ZM23.267 29.2951L23.8317 29.397L22.6581 32.9155L20.849 31.108L23.267 29.2951ZM28.3636 19.2465V16.195C28.891 16.5025 29.25 17.0678 29.25 17.7208C29.25 18.3738 28.891 18.9391 28.3636 19.2465ZM10.6364 19.2465C10.109 18.9391 9.75 18.3738 9.75 17.7208C9.75 17.0678 10.109 16.5025 10.6364 16.195V19.2465ZM10.6364 13.2906V14.3024C10.3208 14.3848 10.0248 14.5089 9.75 14.6693V10.9098C9.75 5.87178 13.8503 1.77208 18.8911 1.77208C21.3321 1.77208 23.6287 2.7228 25.3553 4.4488L26.1371 5.23118L26.3755 5.28965C28.0685 5.71229 29.25 7.22565 29.25 8.96937V14.6693C28.9752 14.5089 28.6792 14.384 28.3636 14.3024V13.2906H25.553C23.1509 13.2906 20.8552 12.1441 19.4149 10.224L18.7103 9.28303L16.949 11.0445C15.499 12.4932 13.572 13.2906 11.5227 13.2906H10.6364ZM12.4091 19.4929V15.0219C14.5975 14.819 16.6282 13.8701 18.2024 12.2973L18.5472 11.9527C20.3243 13.9135 22.8841 15.0627 25.553 15.0627H26.5909V19.4929C26.5909 23.4012 23.4097 26.5812 19.5 26.5812C15.5903 26.5812 12.4091 23.4012 12.4091 19.4929ZM9.56918 30.4142L13.4071 29.7169L15.3465 35.5337L6.76916 32.1996C7.43659 31.2701 8.43907 30.6197 9.56918 30.4142ZM1.77273 42.5299V38.9857C1.77273 38.4966 2.1707 38.0997 2.65909 38.0997C4.12514 38.0997 5.31818 39.2923 5.31818 40.7578C5.31818 42.2233 4.12514 43.4159 2.65909 43.4159C2.1707 43.4159 1.77273 43.019 1.77273 42.5299ZM18.6136 52.753L4.43182 47.241V44.8123C5.99448 44.1265 7.09091 42.5698 7.09091 40.7578C7.09091 38.9459 5.99448 37.3891 4.43182 36.7033V33.1928L18.6136 38.7057V52.753ZM15.982 35.7818L19.5 32.2642L23.018 35.7809L19.5 37.149L15.982 35.7818ZM34.5682 47.2401L20.3864 52.7521V38.7057L34.5682 33.1928V36.7033C33.0055 37.3891 31.9091 38.9459 31.9091 40.7578C31.9091 42.5698 33.0055 44.1265 34.5682 44.8123V47.2401ZM37.2273 42.5299C37.2273 43.019 36.8293 43.4159 36.3409 43.4159C34.8749 43.4159 33.6818 42.2233 33.6818 40.7578C33.6818 39.2923 34.8749 38.0997 36.3409 38.0997C36.8293 38.0997 37.2273 38.4966 37.2273 38.9857V42.5299Z"
+                                            fill="currentcolor" />
+                                    </svg>
+                                </span>
+                            </div>
+                            <div class="it-funfact-content">
+                                <h6 class="it-funfact-number"><i class="purecounter" data-purecounter-duration="1"
+                                        data-purecounter-end="6000">0</i>+</h6>
+                                <span>Total Students Enrolled</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
             </div>
-         </div>
-      </div>
-   </section>
-   <!-- about-area-end -->
+        </div>
+    </section>
+    <!-- funfact-area-end -->
 
+    <!-- about-area-start -->
+    <section class="it-about-2-area it-about-2-style-5 it-about-2-style-4 fix z-index-1 pt-130 pb-130">
 
-   <!-- categories-area-start -->
-   <section class="it-categories-area it-categories-style-2 z-index-1 pt-130 pb-130">
-      <div class="container">
-         <div class="row align-items-center">
-            <div class="col-12">
-               <div class="it-categories-section-title-box text-center mb-65">
-                  <span class="it-section-subtitle">categories</span>
-                  <h4 class="it-section-title">Master Your MBA Journey <span class="z-index-1">With Expert Coaching</span> <br> For Top Entrance Exams</h4>
-               </div>
-            </div>
-         </div>
-         <div class="it-categories-wrap">
-            <div class="row gx-0 row-cols-xxl-4 row-cols-xl-4 row-cols-lg-3 row-cols-md-2 row-cols-sm-2 row-cols-1">
-               <div class="col">
-                  <div class="it-categories-item item-style-1 text-center custom-icon ">
-                     <span>
-                        <i class="fas fa-chart-line"></i>
-                     </span>
-                     <h6 class="mb-0">CAT (Common Admission Test)</h6>
-                  </div>
-               </div>
-               <div class="col">
-                  <div class="it-categories-item item-style-2 text-center custom-icon ">
-                     <span>
-                        <i class="fas fa-university"></i>
-                     </span>
-                     <h6 class="mb-0">CMAT (Common Management Admission Test)</h6>
-                  </div>
-               </div>
-               <div class="col">
-                  <div class="it-categories-item item-style-3 text-center custom-icon ">
-                     <span>
-                        <i class="fas fa-user-graduate"></i>
-                     </span>
-                     <h6 class="mb-0">IPMAT (Integrated Program in Management Aptitude Test)</h6>
-                  </div>
-               </div>
-               <div class="col">
-                  <div class="it-categories-item item-style-4 text-center custom-icon ">
-                     <span>
-                        <i class="fas fa-book-open"></i>
-                     </span>
-                     <h6 class="mb-0">CUET (Common University Entrance Test)</h6>
-                  </div>
-               </div>
-               <div class="col">
-                  <div class="it-categories-item item-style-5 text-center custom-icon ">
-                     <span>
-                        <i class="fas fa-calculator"></i>
-                     </span>
-                     <h6 class="mb-0">Quantitative Aptitude</h6>
-                  </div>
-               </div>
-               <div class="col">
-                  <div class="it-categories-item item-style-6 text-center custom-icon ">
-                     <span>
-                        <i class="fas fa-book-reader"></i>
-                     </span>
-                     <h6 class="mb-0">Verbal Ability & Reading Comprehension</h6>
-                  </div>
-               </div>
-               <div class="col">
-                  <div class="it-categories-item item-style-7 text-center custom-icon ">
-                     <span>
-                        <i class="fas fa-brain"></i>
-                     </span>
-                     <h6 class="mb-0">Data Interpretation & Logical Reasoning</h6>
-                  </div>
-               </div>
-               <div class="col">
-                  <div class="it-categories-item item-style-8 text-center custom-icon ">
-                     <span>
-                        <i class="fas fa-clipboard-check"></i>
-                     </span>
-                     <h6 class="mb-0">Mock Test Series & Analysis</h6>
-                  </div>
-               </div>
-            </div>
-         </div>
-      </div>
-   </section>
-   <!-- categories-area-end -->
-
-
-   <!-- course-area-start -->
-   <section class="it-course-area it-course-style-2 z-index-1 gray-bg pt-130 pb-130">
-      <div class="container">
-         <div class="mb-65">
+        <div class="container">
             <div class="row align-items-center">
-               <div class="col-xl-5 col-lg-6">
-                  <div class="it-course-section-title-box">
-                     <span class="it-section-subtitle">course</span>
-                     <h4 class="it-section-title">Highly Rated
-                        <span class="z-index-1">
-                           Learning
-
-                        </span>
-                        <br>
-                        Programs Today
-                     </h4>
-                  </div>
-               </div>
-               <div class="col-xl-7 col-lg-6">
-                  <div class="it-course-tab-btn mt-45">
-                     <ul class="nav nav-tab justify-content-lg-end" id="myTab" role="tablist">
-                        <li class="nav-item" role="presentation">
-                           <button class="nav-link active" id="all-tab" data-bs-toggle="tab" data-bs-target="#all" type="button" role="tab" aria-controls="all" aria-selected="true">
-                              All Courses
-                              <span>
-                                 <svg width="123" height="9" viewBox="0 0 123 9" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                    <path d="M2.09002 0.500314C2.7682 0.384879 3.66028 0.481577 4.34058 0.623294C4.55365 0.667213 4.44966 0.880993 4.5969 0.920856C4.88485 0.998549 5.15009 0.890162 5.43482 0.983677C5.5292 1.01571 5.41796 1.35345 5.51679 1.37935C6.05851 1.51885 6.56613 1.4249 7.11434 1.48724C9.80953 1.79499 12.4593 1.87731 15.1823 1.98539C16.0834 2.02069 17.179 2.30745 18.1031 2.15888C18.2114 2.14123 18.1418 1.84754 18.1621 1.8229C18.4797 1.44564 18.3819 2.04248 18.5945 2.11805C19.4391 2.41636 20.366 2.42822 21.172 2.30114C21.5147 2.24621 21.1607 1.66643 21.5118 1.98934C21.5362 2.01115 21.4543 2.3256 21.549 2.35743C21.7638 2.429 22.1675 2.36637 22.333 2.38845C22.6521 2.43258 22.7046 2.42857 23.0053 2.42718C23.4154 2.42802 23.9093 2.57551 24.3507 2.49729C24.4449 2.47967 24.3146 2.16085 24.4643 2.10377C24.6142 2.04677 25.0129 2.06741 25.1483 2.14084C25.2837 2.21431 25.2307 2.46745 25.2554 2.52487C25.4589 3.00957 25.9073 2.32623 25.9661 2.30854C27.0416 2.00599 27.979 2.37561 28.9882 2.3579C29.7609 2.34353 30.5836 2.20287 31.3139 2.20829C32.1836 2.21599 32.9343 2.37757 33.7782 2.33381C33.8674 2.32956 33.7566 1.954 33.8655 1.94804C35.023 1.88511 36.1829 1.9072 37.3394 2.14298C37.4563 2.16694 37.3116 2.50065 37.4287 2.5444C38.1467 2.80491 39.2773 3.44049 39.6716 1.99143C40.1553 2.03983 40.7421 2.08842 41.176 2.37211C41.4559 2.55469 41.1931 2.91994 41.5303 2.7604C41.6063 2.72484 41.5016 2.41045 41.6159 2.38102C42.0957 2.25744 42.6286 2.35147 43.1077 2.18031C43.2049 2.14475 43.1736 1.86202 43.2004 1.81058C43.4266 1.39381 43.8243 2.07013 43.9091 2.11836C44.5551 2.4778 45.0192 2.32461 45.6215 2.3238C45.7607 2.32379 45.59 1.94612 45.7237 1.93244C46.4197 1.86654 47.1239 1.88774 47.8129 2.04532C47.9651 2.08131 47.831 2.40758 47.904 2.44135C48.2257 2.58632 48.2864 1.97323 48.5936 2.10047C48.6583 2.12651 48.6266 2.40447 48.6388 2.43474C48.8301 2.90993 48.978 2.22979 49.0248 2.21406C49.6154 1.99999 50.0074 2.70112 50.5865 2.59151C50.6555 2.57769 50.4937 2.22928 50.6881 2.21188C51.9738 2.09404 53.3546 2.16804 54.6248 2.42822C54.8255 2.46815 54.687 2.7341 54.7 2.7664C54.9143 3.27086 55.0361 2.58831 55.1009 2.56163C55.6129 2.36884 56.0991 2.9317 56.4314 2.11571C58.6105 2.36174 60.7404 1.87217 62.9129 2.5635C62.9402 2.57148 62.8968 2.90735 62.9513 2.92182C63.608 3.09948 63.4656 2.58083 63.897 1.9368C64.0052 1.77508 64.3524 2.53873 64.3827 2.59462C64.4937 2.80062 64.39 3.30094 64.4267 3.34059C64.7297 3.65172 64.6553 2.0038 65.0547 1.99688C65.0672 1.99943 65.0197 2.30373 65.0536 2.33336C65.1592 2.42643 65.2602 2.3042 65.3632 2.40704C65.5999 2.64503 65.6901 3.4449 66.0468 2.97284C66.0914 2.9116 66.0073 1.9775 66.3685 2.01593C66.5132 2.03203 67.1441 2.00593 67.3198 2.06375C67.496 2.1215 67.3805 2.42478 67.3932 2.43763C67.8715 2.82862 67.6911 2.9967 67.943 3.58283C68.1942 4.16674 68.1047 2.76594 68.2006 2.60791C68.2968 2.45031 68.6532 2.77353 68.7406 2.88647C68.8283 2.99946 68.7243 3.19266 68.8016 3.25615C69.3131 3.67092 69.012 2.5568 69.1744 2.33166C69.5555 1.79865 69.8745 2.83349 70.2421 2.92956C70.3408 2.95552 70.2569 2.72001 70.3439 2.69648C70.688 2.60645 70.8997 2.92758 71.2819 2.62403C71.3464 2.57453 71.6399 1.94469 71.8598 2.40005C71.8902 2.46573 71.8109 2.72612 71.9602 2.78181C72.1834 2.86541 72.5801 2.91581 72.8123 2.82554C72.9839 2.75875 72.7796 2.33496 72.9985 2.46417C73.0956 2.52188 72.9213 2.77441 73.1033 2.86199C73.2825 2.94958 73.7448 2.93136 73.9256 2.9199C74.1035 2.9083 74.0009 2.58601 74.015 2.56397C74.1003 2.43763 74.4369 2.27619 74.4664 2.27611C75.8836 2.21634 77.2483 2.68771 78.6123 2.55886C78.6848 2.55226 78.7572 2.5441 78.8295 2.53424C78.9465 2.51874 78.8632 2.17846 78.881 2.17257C79.2784 2.02338 78.9778 2.9361 79.26 3.23574C79.2092 2.5434 79.3756 2.66636 79.6496 2.58616C79.7814 2.54696 79.7052 2.27974 79.7169 2.25209C79.9067 1.84156 80.0492 2.36591 80.0856 2.47307C80.2194 2.86724 80.3635 2.3969 80.4571 2.66032C80.5518 2.92173 80.3493 3.31448 80.6189 3.3054C80.6905 3.0562 80.4812 2.41099 80.6836 2.30284C81.4367 1.89392 82.8567 2.38142 83.4848 2.42505C84.1005 2.4688 84.281 2.42041 84.6511 2.5047C85.3005 2.65744 85.0561 2.17992 85.4455 1.95415C85.8477 1.72824 85.6684 2.91442 85.7302 3.16798C85.7915 3.42144 85.8505 3.15879 85.9236 3.29757C85.9963 3.43632 85.8457 3.61146 86.0127 3.66158C86.1809 3.71163 86.618 3.25303 86.6698 2.98627C86.7886 2.42097 86.5742 1.83237 87.0214 2.03403C87.047 2.04601 86.9689 2.35831 87.0665 2.38842C87.827 2.61751 88.616 2.62176 89.3939 2.82372C89.498 2.85202 89.4098 3.19936 89.4703 3.21975C90.0985 3.43325 89.8784 2.85227 90.2165 2.1996C90.1519 3.06341 90.339 3.58903 90.8286 3.58832C91.1223 3.58823 91.0666 3.21197 91.2491 2.94422C91.3036 2.86351 91.5061 3.12002 91.5458 2.94233C91.6634 2.3616 91.4654 1.7151 91.9655 1.96794C91.9872 1.97998 91.922 2.29785 91.9967 2.31626C92.4775 2.43691 92.5418 1.83015 93.0643 1.7518C93.4821 1.69023 94.2128 2.05381 94.6896 2.11119C94.6787 3.08142 95.1365 2.8567 95.3042 2.18718C95.6175 2.21329 95.9471 2.17472 96.2385 2.26723C96.3381 2.29878 96.2727 2.57966 96.2851 2.61002C96.4892 3.08622 96.6177 2.4358 96.6819 2.41046C97.4097 2.16514 97.9799 2.6629 98.6866 2.20214C98.7127 2.18568 98.7706 1.51285 98.9453 2.01187C98.9552 2.04626 98.7158 2.34367 99.0393 2.38022C99.2255 2.4014 99.4976 2.53699 99.7806 2.60261C99.9942 2.65244 100.218 2.65947 100.422 2.53862C100.534 2.47138 100.849 1.94609 101.037 2.38917C101.061 2.44926 101.015 2.63956 101.048 2.75C101.157 3.10202 101.286 2.42881 101.399 3.01807C101.514 3.60745 101.81 4.06542 102.29 3.70323C102.305 3.69279 102.453 3.16303 102.594 3.18288C102.817 3.21482 103.128 3.35252 103.363 3.36767C103.475 3.3747 103.43 3.0348 103.45 3.03023C104.221 2.90282 104.733 3.24268 105.534 3.4312C105.68 3.46642 106.139 3.04084 106.401 3.42084C106.69 3.83679 106.254 5.4579 107.013 5.11424C107.321 4.97669 107.815 2.91549 108.279 4.02494C109.316 3.81394 110.239 4.40934 111.281 4.05793C111.325 4.04322 111.473 3.5251 111.58 3.47818C111.587 3.4755 111.593 3.47437 111.599 3.47497C111.764 3.49258 111.841 3.76802 111.955 3.7905C112.433 3.89204 112.889 3.68838 113.353 3.7677C113.529 3.79769 113.438 4.07146 113.646 4.10895C113.848 4.14638 114.035 3.79414 114.296 4.00948C114.494 4.17395 114.59 4.95393 114.844 5.08556C114.976 4.34996 115.164 4.39497 115.542 4.26646C115.615 4.24152 115.593 3.9723 115.631 3.94744C115.787 3.84108 115.862 4.07624 116.013 3.95878C116.05 3.93062 116.104 3.68107 116.137 3.64405C116.427 3.32056 116.645 3.96028 116.676 4.07062C116.81 4.49242 116.988 4.19439 117.121 4.3811C117.253 4.56763 116.957 4.68708 117.131 4.82369C117.487 5.10321 118.017 5.20102 118.462 5.27787L118.431 5.27202C118.433 5.2725 118.435 5.27299 118.437 5.27348C118.596 5.31496 118.568 4.95758 118.592 4.9558C118.957 4.95526 119.186 5.40001 119.573 4.80891C119.278 6.55728 119.827 4.70569 120.201 5.2088C120.23 5.24953 119.991 6.04545 119.815 6.11235C119.641 6.17981 119.516 5.86359 119.268 5.98544C119.207 6.01228 118.734 6.68302 118.692 6.7205C118.338 7.00322 118.618 5.79647 118.618 5.72573C118.626 5.39059 118.521 5.34714 118.399 5.40833L118.441 5.41647C118.279 5.50377 118.085 5.74468 118.024 5.76538C117.514 5.93265 117.205 5.66981 116.823 5.77163C116.575 5.83665 116.362 6.62114 116.204 6.55753C115.687 6.35143 115.716 5.19808 115.017 6.06667C114.87 6.25357 114.825 7.14545 114.563 6.3932C114.547 6.34562 114.354 5.66837 114.127 6.0454C114.099 6.09292 114.064 6.3494 114.034 6.36718C113.834 6.48211 113.738 6.26213 113.524 6.33738C113.314 6.41318 113.058 6.53606 112.838 6.43033C112.703 6.36651 112.56 5.87328 112.496 5.75093C112.324 5.39888 112.084 5.94516 111.984 5.52858C111.876 5.10981 112.152 4.4916 111.827 4.21118C111.79 4.88277 111.738 5.5716 111.696 6.24688C111.633 6.24254 111.57 6.23674 111.505 6.22986C110.813 6.16041 110.137 5.95843 109.443 5.95369C109.349 5.95369 109.429 6.31931 109.327 6.32858C108.894 6.36582 108.533 6.08915 108.084 6.1668C107.735 6.22817 107.338 6.58779 106.971 6.6611C106.801 5.87938 106.253 6.1051 105.873 6.00776C105.74 5.97406 105.764 5.7697 105.673 5.69601C105.329 5.42279 105.45 6.11316 105.343 6.21276C104.884 6.63715 104.962 5.09954 104.462 5.09965C104.435 5.09917 104.05 5.89239 104.001 5.9398C103.694 6.25 103.977 5.65148 103.805 5.57728C103.491 5.44152 103.285 5.22862 102.888 5.43804C102.774 5.50032 102.469 5.98897 102.287 5.57764C102.263 5.52377 102.301 5.25468 102.279 5.23705C101.893 4.94061 101.816 5.78933 101.56 6.05855C101.307 6.32789 100.995 5.71366 100.935 5.53906C100.779 5.08719 101.095 5.36338 101.11 5.32138C101.271 4.82017 101.001 4.88761 100.807 4.82941C100.84 3.99401 100.558 4.02306 100.603 4.77241C100.608 4.85426 100.769 4.78825 100.807 4.82941C100.568 5.63337 100.261 5.71545 99.9784 4.92752C99.862 4.5977 99.9885 4.23688 99.6696 4.2499C99.6328 4.25155 99.5898 4.25855 99.5391 4.27165C99.3254 4.32789 99.3694 4.90676 99.1832 5.05385C98.7584 5.3896 98.2318 4.83906 97.7791 4.91737C97.6133 4.94576 97.7674 5.26281 97.659 5.2932C97.3668 5.37494 97.1038 5.13677 96.8105 5.25662C96.783 5.26788 96.8489 5.59777 96.7545 5.60162C96.0504 5.63765 95.4394 5.42865 94.6973 5.42711C94.3434 5.42644 93.6876 5.61335 93.3299 5.58008C92.6791 5.52445 91.8913 5.05345 91.3335 5.1763C90.9804 5.2549 91.0601 5.58374 90.9079 5.81019C90.5985 6.24929 90.0884 5.4755 90.007 5.35573C90.0056 5.35175 90.3155 5.27019 90.1476 5.103C90.0467 4.75155 90.0105 5.35416 90.007 5.35573C89.9521 5.27836 89.3438 5.21119 89.2192 5.27586C89.1525 5.31117 89.1941 5.62305 89.1592 5.63555C88.3301 5.92586 87.5177 6.01629 86.6599 5.88219C86.6454 5.87608 86.6622 5.52638 86.6282 5.51638C86.1541 5.36764 85.8336 5.79969 85.4383 6.05915C85.0505 6.3184 84.7277 6.23811 84.4763 5.64184C84.1687 5.72184 83.7475 5.46279 83.4895 5.30566C83.2347 5.14848 83.208 5.82914 83.1859 5.84291C82.5146 6.28328 82.103 5.90006 81.3947 5.85012C81.0674 5.82506 80.3782 5.93417 80.02 6.01401C79.7371 6.07824 79.5614 5.92151 79.2953 6.02751C79.2592 6.04168 79.3005 6.34393 79.2896 6.35576C78.9951 6.72265 79.1278 5.98017 79.0637 5.8489C78.9197 5.55402 78.8092 5.34441 78.6541 5.282C78.5628 5.24331 78.4553 5.26096 78.313 5.34962C78.2273 5.40275 77.9898 6.47256 77.83 6.53737C77.6222 6.61969 77.6955 6.2364 77.4766 6.33235C77.4578 6.34021 77.4656 6.57585 77.3288 6.56757C76.6957 6.5322 76.033 6.4053 75.3652 6.43934C75.2775 6.44303 75.3954 6.81514 75.2697 6.82661C74.6827 6.88009 74.0108 6.87676 73.4218 6.71097C73.2791 6.66895 73.364 6.40578 73.3319 6.32854C73.1352 5.86123 72.8748 6.5488 72.83 6.56253C71.75 6.90795 70.9431 6.30215 69.8338 6.61422C69.7759 6.63242 69.3352 7.37211 69.1211 6.74711C69.1066 6.70554 68.895 6.06599 68.7226 6.5083C68.7119 6.53597 68.8436 6.86485 68.6224 6.83463C68.4025 6.80447 68.0431 7.03121 67.7374 6.67242C67.6411 6.55939 67.4077 5.92179 67.1315 6.43741C67.1139 6.47338 66.6922 7.63606 66.5209 6.84124C66.493 6.7104 66.5071 5.86619 66.1701 6.3043C66.1057 6.38922 66.2282 6.57551 66.0566 6.6958C65.7887 6.88126 65.4485 6.66065 65.1313 7.04169C65.0763 7.10913 64.8465 7.68566 64.6467 7.25406C64.6154 7.18647 64.6683 6.90386 64.566 6.87396C64.0785 6.73051 63.5695 6.92715 63.0826 6.74001C62.9086 6.6743 62.9898 6.21749 62.8072 6.09836C62.6247 5.97926 62.2571 5.86778 62.0694 6.07896C61.8817 6.29022 62.1023 7.01265 61.8166 7.07534C60.5946 7.34729 59.3491 6.9415 58.1256 6.89898C57.9424 6.89263 58.0986 7.14988 57.8283 7.15918C56.8237 7.19474 55.1225 7.46587 54.2507 6.92803C53.5561 6.49719 54.416 6.14664 53.8874 5.97531C53.6322 5.89363 53.3699 6.74191 53.3087 6.76947C52.7113 7.04909 52.2814 6.6822 51.7486 6.80557C51.6379 6.83118 51.7524 7.1714 51.6581 7.18942C51.3358 7.25398 50.9923 7.10688 50.6814 7.13987C50.542 7.15546 50.572 7.41624 50.443 7.39818C50.1341 7.35797 49.8587 7.25262 49.5595 7.01261C49.5321 6.99075 49.7092 6.66284 49.4838 6.65443C49.1188 6.64173 48.6604 6.40763 48.241 6.66394C48.1166 6.74102 48.1215 7.33808 47.8441 6.93021C47.7859 6.84503 47.8469 6.127 47.5411 6.75154C47.4873 6.85537 46.9804 7.6993 46.7132 7.16501C46.6429 7.02438 46.4597 6.44062 46.3108 6.53526C46.2906 6.55031 46.3776 6.86963 46.2534 6.90295C45.8157 7.01478 45.3516 6.98814 44.899 7.096C44.7796 7.12541 44.9635 7.45431 44.7854 7.48755C44.2958 7.57945 43.6781 7.50504 43.1914 7.40912C43.0119 7.37312 43.131 7.09623 43.1175 7.06653C42.9003 6.58342 42.787 7.24216 42.718 7.28159C42.2857 7.51802 41.9604 7.21478 41.5645 7.30292C41.4556 7.3264 41.5382 7.63826 41.5169 7.66654C41.2957 7.94304 41.4546 7.37795 41.3107 7.3183C40.9073 7.14935 40.4598 7.18185 40.0527 7.22855C39.9031 7.24616 40.0774 7.60648 39.9431 7.61809C39.1549 7.69359 38.3354 7.67228 37.5558 7.48486C37.4091 7.44891 37.4965 7.16782 37.465 7.10446C37.2468 6.66116 36.9523 7.27554 36.8832 7.33474C36.5688 7.60502 36.4406 7.35982 36.1591 7.4106C34.7776 7.66311 33.0768 7.52727 31.7643 7.44767C30.0694 7.34531 28.7411 7.10113 27.1228 7.19687C27.0197 7.20261 27.1299 7.57283 27.0411 7.58255C25.892 7.69116 24.7694 7.56429 23.6169 7.69074C23.5231 7.70045 23.6643 8.0508 23.514 8.07823C23.2056 8.13696 22.813 8.12427 22.4975 8.01686C22.3437 7.96513 22.5439 7.6592 22.3891 7.61332C22.0287 7.5058 21.6435 7.48703 21.2752 7.54965C21.1185 7.57706 21.3616 7.93376 21.1574 7.94129C19.7729 7.99991 18.4043 8.08462 16.9985 7.64073C16.9018 7.61025 16.8054 6.87874 16.6033 7.02266C16.5912 7.22632 16.596 7.46556 16.5929 7.68308C14.5715 7.83359 12.5692 7.61252 10.5428 7.60671C10.4573 7.60655 10.6114 7.99243 10.4459 7.9941C9.48671 8.00421 8.56141 8.1271 7.57501 7.75732C7.47718 7.72118 7.51578 7.03719 7.231 7.14525C7.18086 7.16494 6.75054 7.26318 6.64174 7.41332C6.62698 7.43594 6.71087 7.75352 6.57217 7.7651C5.76602 7.82686 4.91855 7.76805 4.10886 7.58655C3.97817 7.55665 4.11117 7.21478 4.01803 7.19054C3.35778 7.02114 2.64729 7.29109 2.01405 6.99316C1.59018 6.79251 1.73614 6.20296 1.50317 5.62886C1.47022 5.54787 1.20965 5.53925 1.19063 5.20331C1.14209 4.35855 1.2529 3.43084 1.18626 2.53066C1.17212 2.33676 0.826889 2.55156 1.02558 2.07915C1.03949 2.04752 1.28971 1.88769 1.34935 1.72756C1.39088 1.61685 1.30711 1.27626 1.39323 1.13398C1.47935 0.991846 1.58127 1.27682 1.72516 1.10896C1.86896 0.939057 1.79809 0.551192 2.09002 0.500314ZM82.355 4.60317C82.1184 4.28001 82.1018 5.47677 82.3485 5.18682C82.3603 5.17139 82.3672 4.61901 82.355 4.60317ZM110.249 5.05497C109.964 4.51566 109.723 5.28164 109.922 5.69802C110.122 6.11387 110.336 5.21843 110.249 5.05497ZM113.348 4.8222C113.04 4.37571 112.851 6.06256 113.23 5.75263C113.251 5.73523 113.365 4.84814 113.348 4.8222ZM2.53651 5.44721C2.53305 5.43138 2.34566 5.41899 2.34145 5.43481C2.24808 5.81637 2.62279 5.84088 2.53651 5.44721ZM116.399 4.90247C116.343 4.65329 115.979 4.84413 116.05 5.15208C116.104 5.39885 116.464 5.21076 116.399 4.90247ZM70.2612 3.51332C70.2573 3.49555 70.1214 3.48165 70.1257 3.58237C70.1402 3.90675 70.3272 3.81218 70.2612 3.51332ZM121.483 6.3383C120.588 6.04304 120.915 4.57941 121.456 4.97894C121.569 5.0481 121.053 5.31036 121.163 5.48413C121.422 5.81857 121.827 5.00239 122.074 5.5249C122.129 5.62357 121.541 6.36164 121.481 6.33988C121.481 6.33935 121.482 6.33882 121.483 6.3383ZM82.2001 3.16831C82.1954 3.15256 82.0078 3.14036 82.0033 3.15611C81.9075 3.53741 82.2855 3.5622 82.2001 3.16831ZM62.4217 2.89858C62.4112 2.86503 61.9777 2.84047 61.9638 2.87176C61.7478 3.49641 62.6245 3.54791 62.4217 2.89858ZM94.697 2.13702C94.8916 1.75374 95.1486 1.70748 95.3033 2.1867C95.1112 2.162 94.8932 2.15936 94.697 2.13702Z" fill="currentcolor" />
-                                 </svg>
-                              </span>
-                           </button>
-                        </li>
-                        <li class="nav-item" role="presentation">
-                           <button class="nav-link" id="trending-tab" data-bs-toggle="tab" data-bs-target="#trending" type="button" role="tab" aria-controls="trending" aria-selected="false">
-                              Trending
-                              <span>
-                                 <svg width="123" height="9" viewBox="0 0 123 9" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                    <path d="M2.09002 0.500314C2.7682 0.384879 3.66028 0.481577 4.34058 0.623294C4.55365 0.667213 4.44966 0.880993 4.5969 0.920856C4.88485 0.998549 5.15009 0.890162 5.43482 0.983677C5.5292 1.01571 5.41796 1.35345 5.51679 1.37935C6.05851 1.51885 6.56613 1.4249 7.11434 1.48724C9.80953 1.79499 12.4593 1.87731 15.1823 1.98539C16.0834 2.02069 17.179 2.30745 18.1031 2.15888C18.2114 2.14123 18.1418 1.84754 18.1621 1.8229C18.4797 1.44564 18.3819 2.04248 18.5945 2.11805C19.4391 2.41636 20.366 2.42822 21.172 2.30114C21.5147 2.24621 21.1607 1.66643 21.5118 1.98934C21.5362 2.01115 21.4543 2.3256 21.549 2.35743C21.7638 2.429 22.1675 2.36637 22.333 2.38845C22.6521 2.43258 22.7046 2.42857 23.0053 2.42718C23.4154 2.42802 23.9093 2.57551 24.3507 2.49729C24.4449 2.47967 24.3146 2.16085 24.4643 2.10377C24.6142 2.04677 25.0129 2.06741 25.1483 2.14084C25.2837 2.21431 25.2307 2.46745 25.2554 2.52487C25.4589 3.00957 25.9073 2.32623 25.9661 2.30854C27.0416 2.00599 27.979 2.37561 28.9882 2.3579C29.7609 2.34353 30.5836 2.20287 31.3139 2.20829C32.1836 2.21599 32.9343 2.37757 33.7782 2.33381C33.8674 2.32956 33.7566 1.954 33.8655 1.94804C35.023 1.88511 36.1829 1.9072 37.3394 2.14298C37.4563 2.16694 37.3116 2.50065 37.4287 2.5444C38.1467 2.80491 39.2773 3.44049 39.6716 1.99143C40.1553 2.03983 40.7421 2.08842 41.176 2.37211C41.4559 2.55469 41.1931 2.91994 41.5303 2.7604C41.6063 2.72484 41.5016 2.41045 41.6159 2.38102C42.0957 2.25744 42.6286 2.35147 43.1077 2.18031C43.2049 2.14475 43.1736 1.86202 43.2004 1.81058C43.4266 1.39381 43.8243 2.07013 43.9091 2.11836C44.5551 2.4778 45.0192 2.32461 45.6215 2.3238C45.7607 2.32379 45.59 1.94612 45.7237 1.93244C46.4197 1.86654 47.1239 1.88774 47.8129 2.04532C47.9651 2.08131 47.831 2.40758 47.904 2.44135C48.2257 2.58632 48.2864 1.97323 48.5936 2.10047C48.6583 2.12651 48.6266 2.40447 48.6388 2.43474C48.8301 2.90993 48.978 2.22979 49.0248 2.21406C49.6154 1.99999 50.0074 2.70112 50.5865 2.59151C50.6555 2.57769 50.4937 2.22928 50.6881 2.21188C51.9738 2.09404 53.3546 2.16804 54.6248 2.42822C54.8255 2.46815 54.687 2.7341 54.7 2.7664C54.9143 3.27086 55.0361 2.58831 55.1009 2.56163C55.6129 2.36884 56.0991 2.9317 56.4314 2.11571C58.6105 2.36174 60.7404 1.87217 62.9129 2.5635C62.9402 2.57148 62.8968 2.90735 62.9513 2.92182C63.608 3.09948 63.4656 2.58083 63.897 1.9368C64.0052 1.77508 64.3524 2.53873 64.3827 2.59462C64.4937 2.80062 64.39 3.30094 64.4267 3.34059C64.7297 3.65172 64.6553 2.0038 65.0547 1.99688C65.0672 1.99943 65.0197 2.30373 65.0536 2.33336C65.1592 2.42643 65.2602 2.3042 65.3632 2.40704C65.5999 2.64503 65.6901 3.4449 66.0468 2.97284C66.0914 2.9116 66.0073 1.9775 66.3685 2.01593C66.5132 2.03203 67.1441 2.00593 67.3198 2.06375C67.496 2.1215 67.3805 2.42478 67.3932 2.43763C67.8715 2.82862 67.6911 2.9967 67.943 3.58283C68.1942 4.16674 68.1047 2.76594 68.2006 2.60791C68.2968 2.45031 68.6532 2.77353 68.7406 2.88647C68.8283 2.99946 68.7243 3.19266 68.8016 3.25615C69.3131 3.67092 69.012 2.5568 69.1744 2.33166C69.5555 1.79865 69.8745 2.83349 70.2421 2.92956C70.3408 2.95552 70.2569 2.72001 70.3439 2.69648C70.688 2.60645 70.8997 2.92758 71.2819 2.62403C71.3464 2.57453 71.6399 1.94469 71.8598 2.40005C71.8902 2.46573 71.8109 2.72612 71.9602 2.78181C72.1834 2.86541 72.5801 2.91581 72.8123 2.82554C72.9839 2.75875 72.7796 2.33496 72.9985 2.46417C73.0956 2.52188 72.9213 2.77441 73.1033 2.86199C73.2825 2.94958 73.7448 2.93136 73.9256 2.9199C74.1035 2.9083 74.0009 2.58601 74.015 2.56397C74.1003 2.43763 74.4369 2.27619 74.4664 2.27611C75.8836 2.21634 77.2483 2.68771 78.6123 2.55886C78.6848 2.55226 78.7572 2.5441 78.8295 2.53424C78.9465 2.51874 78.8632 2.17846 78.881 2.17257C79.2784 2.02338 78.9778 2.9361 79.26 3.23574C79.2092 2.5434 79.3756 2.66636 79.6496 2.58616C79.7814 2.54696 79.7052 2.27974 79.7169 2.25209C79.9067 1.84156 80.0492 2.36591 80.0856 2.47307C80.2194 2.86724 80.3635 2.3969 80.4571 2.66032C80.5518 2.92173 80.3493 3.31448 80.6189 3.3054C80.6905 3.0562 80.4812 2.41099 80.6836 2.30284C81.4367 1.89392 82.8567 2.38142 83.4848 2.42505C84.1005 2.4688 84.281 2.42041 84.6511 2.5047C85.3005 2.65744 85.0561 2.17992 85.4455 1.95415C85.8477 1.72824 85.6684 2.91442 85.7302 3.16798C85.7915 3.42144 85.8505 3.15879 85.9236 3.29757C85.9963 3.43632 85.8457 3.61146 86.0127 3.66158C86.1809 3.71163 86.618 3.25303 86.6698 2.98627C86.7886 2.42097 86.5742 1.83237 87.0214 2.03403C87.047 2.04601 86.9689 2.35831 87.0665 2.38842C87.827 2.61751 88.616 2.62176 89.3939 2.82372C89.498 2.85202 89.4098 3.19936 89.4703 3.21975C90.0985 3.43325 89.8784 2.85227 90.2165 2.1996C90.1519 3.06341 90.339 3.58903 90.8286 3.58832C91.1223 3.58823 91.0666 3.21197 91.2491 2.94422C91.3036 2.86351 91.5061 3.12002 91.5458 2.94233C91.6634 2.3616 91.4654 1.7151 91.9655 1.96794C91.9872 1.97998 91.922 2.29785 91.9967 2.31626C92.4775 2.43691 92.5418 1.83015 93.0643 1.7518C93.4821 1.69023 94.2128 2.05381 94.6896 2.11119C94.6787 3.08142 95.1365 2.8567 95.3042 2.18718C95.6175 2.21329 95.9471 2.17472 96.2385 2.26723C96.3381 2.29878 96.2727 2.57966 96.2851 2.61002C96.4892 3.08622 96.6177 2.4358 96.6819 2.41046C97.4097 2.16514 97.9799 2.6629 98.6866 2.20214C98.7127 2.18568 98.7706 1.51285 98.9453 2.01187C98.9552 2.04626 98.7158 2.34367 99.0393 2.38022C99.2255 2.4014 99.4976 2.53699 99.7806 2.60261C99.9942 2.65244 100.218 2.65947 100.422 2.53862C100.534 2.47138 100.849 1.94609 101.037 2.38917C101.061 2.44926 101.015 2.63956 101.048 2.75C101.157 3.10202 101.286 2.42881 101.399 3.01807C101.514 3.60745 101.81 4.06542 102.29 3.70323C102.305 3.69279 102.453 3.16303 102.594 3.18288C102.817 3.21482 103.128 3.35252 103.363 3.36767C103.475 3.3747 103.43 3.0348 103.45 3.03023C104.221 2.90282 104.733 3.24268 105.534 3.4312C105.68 3.46642 106.139 3.04084 106.401 3.42084C106.69 3.83679 106.254 5.4579 107.013 5.11424C107.321 4.97669 107.815 2.91549 108.279 4.02494C109.316 3.81394 110.239 4.40934 111.281 4.05793C111.325 4.04322 111.473 3.5251 111.58 3.47818C111.587 3.4755 111.593 3.47437 111.599 3.47497C111.764 3.49258 111.841 3.76802 111.955 3.7905C112.433 3.89204 112.889 3.68838 113.353 3.7677C113.529 3.79769 113.438 4.07146 113.646 4.10895C113.848 4.14638 114.035 3.79414 114.296 4.00948C114.494 4.17395 114.59 4.95393 114.844 5.08556C114.976 4.34996 115.164 4.39497 115.542 4.26646C115.615 4.24152 115.593 3.9723 115.631 3.94744C115.787 3.84108 115.862 4.07624 116.013 3.95878C116.05 3.93062 116.104 3.68107 116.137 3.64405C116.427 3.32056 116.645 3.96028 116.676 4.07062C116.81 4.49242 116.988 4.19439 117.121 4.3811C117.253 4.56763 116.957 4.68708 117.131 4.82369C117.487 5.10321 118.017 5.20102 118.462 5.27787L118.431 5.27202C118.433 5.2725 118.435 5.27299 118.437 5.27348C118.596 5.31496 118.568 4.95758 118.592 4.9558C118.957 4.95526 119.186 5.40001 119.573 4.80891C119.278 6.55728 119.827 4.70569 120.201 5.2088C120.23 5.24953 119.991 6.04545 119.815 6.11235C119.641 6.17981 119.516 5.86359 119.268 5.98544C119.207 6.01228 118.734 6.68302 118.692 6.7205C118.338 7.00322 118.618 5.79647 118.618 5.72573C118.626 5.39059 118.521 5.34714 118.399 5.40833L118.441 5.41647C118.279 5.50377 118.085 5.74468 118.024 5.76538C117.514 5.93265 117.205 5.66981 116.823 5.77163C116.575 5.83665 116.362 6.62114 116.204 6.55753C115.687 6.35143 115.716 5.19808 115.017 6.06667C114.87 6.25357 114.825 7.14545 114.563 6.3932C114.547 6.34562 114.354 5.66837 114.127 6.0454C114.099 6.09292 114.064 6.3494 114.034 6.36718C113.834 6.48211 113.738 6.26213 113.524 6.33738C113.314 6.41318 113.058 6.53606 112.838 6.43033C112.703 6.36651 112.56 5.87328 112.496 5.75093C112.324 5.39888 112.084 5.94516 111.984 5.52858C111.876 5.10981 112.152 4.4916 111.827 4.21118C111.79 4.88277 111.738 5.5716 111.696 6.24688C111.633 6.24254 111.57 6.23674 111.505 6.22986C110.813 6.16041 110.137 5.95843 109.443 5.95369C109.349 5.95369 109.429 6.31931 109.327 6.32858C108.894 6.36582 108.533 6.08915 108.084 6.1668C107.735 6.22817 107.338 6.58779 106.971 6.6611C106.801 5.87938 106.253 6.1051 105.873 6.00776C105.74 5.97406 105.764 5.7697 105.673 5.69601C105.329 5.42279 105.45 6.11316 105.343 6.21276C104.884 6.63715 104.962 5.09954 104.462 5.09965C104.435 5.09917 104.05 5.89239 104.001 5.9398C103.694 6.25 103.977 5.65148 103.805 5.57728C103.491 5.44152 103.285 5.22862 102.888 5.43804C102.774 5.50032 102.469 5.98897 102.287 5.57764C102.263 5.52377 102.301 5.25468 102.279 5.23705C101.893 4.94061 101.816 5.78933 101.56 6.05855C101.307 6.32789 100.995 5.71366 100.935 5.53906C100.779 5.08719 101.095 5.36338 101.11 5.32138C101.271 4.82017 101.001 4.88761 100.807 4.82941C100.84 3.99401 100.558 4.02306 100.603 4.77241C100.608 4.85426 100.769 4.78825 100.807 4.82941C100.568 5.63337 100.261 5.71545 99.9784 4.92752C99.862 4.5977 99.9885 4.23688 99.6696 4.2499C99.6328 4.25155 99.5898 4.25855 99.5391 4.27165C99.3254 4.32789 99.3694 4.90676 99.1832 5.05385C98.7584 5.3896 98.2318 4.83906 97.7791 4.91737C97.6133 4.94576 97.7674 5.26281 97.659 5.2932C97.3668 5.37494 97.1038 5.13677 96.8105 5.25662C96.783 5.26788 96.8489 5.59777 96.7545 5.60162C96.0504 5.63765 95.4394 5.42865 94.6973 5.42711C94.3434 5.42644 93.6876 5.61335 93.3299 5.58008C92.6791 5.52445 91.8913 5.05345 91.3335 5.1763C90.9804 5.2549 91.0601 5.58374 90.9079 5.81019C90.5985 6.24929 90.0884 5.4755 90.007 5.35573C90.0056 5.35175 90.3155 5.27019 90.1476 5.103C90.0467 4.75155 90.0105 5.35416 90.007 5.35573C89.9521 5.27836 89.3438 5.21119 89.2192 5.27586C89.1525 5.31117 89.1941 5.62305 89.1592 5.63555C88.3301 5.92586 87.5177 6.01629 86.6599 5.88219C86.6454 5.87608 86.6622 5.52638 86.6282 5.51638C86.1541 5.36764 85.8336 5.79969 85.4383 6.05915C85.0505 6.3184 84.7277 6.23811 84.4763 5.64184C84.1687 5.72184 83.7475 5.46279 83.4895 5.30566C83.2347 5.14848 83.208 5.82914 83.1859 5.84291C82.5146 6.28328 82.103 5.90006 81.3947 5.85012C81.0674 5.82506 80.3782 5.93417 80.02 6.01401C79.7371 6.07824 79.5614 5.92151 79.2953 6.02751C79.2592 6.04168 79.3005 6.34393 79.2896 6.35576C78.9951 6.72265 79.1278 5.98017 79.0637 5.8489C78.9197 5.55402 78.8092 5.34441 78.6541 5.282C78.5628 5.24331 78.4553 5.26096 78.313 5.34962C78.2273 5.40275 77.9898 6.47256 77.83 6.53737C77.6222 6.61969 77.6955 6.2364 77.4766 6.33235C77.4578 6.34021 77.4656 6.57585 77.3288 6.56757C76.6957 6.5322 76.033 6.4053 75.3652 6.43934C75.2775 6.44303 75.3954 6.81514 75.2697 6.82661C74.6827 6.88009 74.0108 6.87676 73.4218 6.71097C73.2791 6.66895 73.364 6.40578 73.3319 6.32854C73.1352 5.86123 72.8748 6.5488 72.83 6.56253C71.75 6.90795 70.9431 6.30215 69.8338 6.61422C69.7759 6.63242 69.3352 7.37211 69.1211 6.74711C69.1066 6.70554 68.895 6.06599 68.7226 6.5083C68.7119 6.53597 68.8436 6.86485 68.6224 6.83463C68.4025 6.80447 68.0431 7.03121 67.7374 6.67242C67.6411 6.55939 67.4077 5.92179 67.1315 6.43741C67.1139 6.47338 66.6922 7.63606 66.5209 6.84124C66.493 6.7104 66.5071 5.86619 66.1701 6.3043C66.1057 6.38922 66.2282 6.57551 66.0566 6.6958C65.7887 6.88126 65.4485 6.66065 65.1313 7.04169C65.0763 7.10913 64.8465 7.68566 64.6467 7.25406C64.6154 7.18647 64.6683 6.90386 64.566 6.87396C64.0785 6.73051 63.5695 6.92715 63.0826 6.74001C62.9086 6.6743 62.9898 6.21749 62.8072 6.09836C62.6247 5.97926 62.2571 5.86778 62.0694 6.07896C61.8817 6.29022 62.1023 7.01265 61.8166 7.07534C60.5946 7.34729 59.3491 6.9415 58.1256 6.89898C57.9424 6.89263 58.0986 7.14988 57.8283 7.15918C56.8237 7.19474 55.1225 7.46587 54.2507 6.92803C53.5561 6.49719 54.416 6.14664 53.8874 5.97531C53.6322 5.89363 53.3699 6.74191 53.3087 6.76947C52.7113 7.04909 52.2814 6.6822 51.7486 6.80557C51.6379 6.83118 51.7524 7.1714 51.6581 7.18942C51.3358 7.25398 50.9923 7.10688 50.6814 7.13987C50.542 7.15546 50.572 7.41624 50.443 7.39818C50.1341 7.35797 49.8587 7.25262 49.5595 7.01261C49.5321 6.99075 49.7092 6.66284 49.4838 6.65443C49.1188 6.64173 48.6604 6.40763 48.241 6.66394C48.1166 6.74102 48.1215 7.33808 47.8441 6.93021C47.7859 6.84503 47.8469 6.127 47.5411 6.75154C47.4873 6.85537 46.9804 7.6993 46.7132 7.16501C46.6429 7.02438 46.4597 6.44062 46.3108 6.53526C46.2906 6.55031 46.3776 6.86963 46.2534 6.90295C45.8157 7.01478 45.3516 6.98814 44.899 7.096C44.7796 7.12541 44.9635 7.45431 44.7854 7.48755C44.2958 7.57945 43.6781 7.50504 43.1914 7.40912C43.0119 7.37312 43.131 7.09623 43.1175 7.06653C42.9003 6.58342 42.787 7.24216 42.718 7.28159C42.2857 7.51802 41.9604 7.21478 41.5645 7.30292C41.4556 7.3264 41.5382 7.63826 41.5169 7.66654C41.2957 7.94304 41.4546 7.37795 41.3107 7.3183C40.9073 7.14935 40.4598 7.18185 40.0527 7.22855C39.9031 7.24616 40.0774 7.60648 39.9431 7.61809C39.1549 7.69359 38.3354 7.67228 37.5558 7.48486C37.4091 7.44891 37.4965 7.16782 37.465 7.10446C37.2468 6.66116 36.9523 7.27554 36.8832 7.33474C36.5688 7.60502 36.4406 7.35982 36.1591 7.4106C34.7776 7.66311 33.0768 7.52727 31.7643 7.44767C30.0694 7.34531 28.7411 7.10113 27.1228 7.19687C27.0197 7.20261 27.1299 7.57283 27.0411 7.58255C25.892 7.69116 24.7694 7.56429 23.6169 7.69074C23.5231 7.70045 23.6643 8.0508 23.514 8.07823C23.2056 8.13696 22.813 8.12427 22.4975 8.01686C22.3437 7.96513 22.5439 7.6592 22.3891 7.61332C22.0287 7.5058 21.6435 7.48703 21.2752 7.54965C21.1185 7.57706 21.3616 7.93376 21.1574 7.94129C19.7729 7.99991 18.4043 8.08462 16.9985 7.64073C16.9018 7.61025 16.8054 6.87874 16.6033 7.02266C16.5912 7.22632 16.596 7.46556 16.5929 7.68308C14.5715 7.83359 12.5692 7.61252 10.5428 7.60671C10.4573 7.60655 10.6114 7.99243 10.4459 7.9941C9.48671 8.00421 8.56141 8.1271 7.57501 7.75732C7.47718 7.72118 7.51578 7.03719 7.231 7.14525C7.18086 7.16494 6.75054 7.26318 6.64174 7.41332C6.62698 7.43594 6.71087 7.75352 6.57217 7.7651C5.76602 7.82686 4.91855 7.76805 4.10886 7.58655C3.97817 7.55665 4.11117 7.21478 4.01803 7.19054C3.35778 7.02114 2.64729 7.29109 2.01405 6.99316C1.59018 6.79251 1.73614 6.20296 1.50317 5.62886C1.47022 5.54787 1.20965 5.53925 1.19063 5.20331C1.14209 4.35855 1.2529 3.43084 1.18626 2.53066C1.17212 2.33676 0.826889 2.55156 1.02558 2.07915C1.03949 2.04752 1.28971 1.88769 1.34935 1.72756C1.39088 1.61685 1.30711 1.27626 1.39323 1.13398C1.47935 0.991846 1.58127 1.27682 1.72516 1.10896C1.86896 0.939057 1.79809 0.551192 2.09002 0.500314ZM82.355 4.60317C82.1184 4.28001 82.1018 5.47677 82.3485 5.18682C82.3603 5.17139 82.3672 4.61901 82.355 4.60317ZM110.249 5.05497C109.964 4.51566 109.723 5.28164 109.922 5.69802C110.122 6.11387 110.336 5.21843 110.249 5.05497ZM113.348 4.8222C113.04 4.37571 112.851 6.06256 113.23 5.75263C113.251 5.73523 113.365 4.84814 113.348 4.8222ZM2.53651 5.44721C2.53305 5.43138 2.34566 5.41899 2.34145 5.43481C2.24808 5.81637 2.62279 5.84088 2.53651 5.44721ZM116.399 4.90247C116.343 4.65329 115.979 4.84413 116.05 5.15208C116.104 5.39885 116.464 5.21076 116.399 4.90247ZM70.2612 3.51332C70.2573 3.49555 70.1214 3.48165 70.1257 3.58237C70.1402 3.90675 70.3272 3.81218 70.2612 3.51332ZM121.483 6.3383C120.588 6.04304 120.915 4.57941 121.456 4.97894C121.569 5.0481 121.053 5.31036 121.163 5.48413C121.422 5.81857 121.827 5.00239 122.074 5.5249C122.129 5.62357 121.541 6.36164 121.481 6.33988C121.481 6.33935 121.482 6.33882 121.483 6.3383ZM82.2001 3.16831C82.1954 3.15256 82.0078 3.14036 82.0033 3.15611C81.9075 3.53741 82.2855 3.5622 82.2001 3.16831ZM62.4217 2.89858C62.4112 2.86503 61.9777 2.84047 61.9638 2.87176C61.7478 3.49641 62.6245 3.54791 62.4217 2.89858ZM94.697 2.13702C94.8916 1.75374 95.1486 1.70748 95.3033 2.1867C95.1112 2.162 94.8932 2.15936 94.697 2.13702Z" fill="currentcolor" />
-                                 </svg>
-                              </span>
-                           </button>
-                        </li>
-                        <li class="nav-item" role="presentation">
-                           <button class="nav-link" id="popularity-tab" data-bs-toggle="tab" data-bs-target="#popularity" type="button" role="tab" aria-controls="popularity" aria-selected="false">
-                              Popularity
-                              <span>
-                                 <svg width="123" height="9" viewBox="0 0 123 9" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                    <path d="M2.09002 0.500314C2.7682 0.384879 3.66028 0.481577 4.34058 0.623294C4.55365 0.667213 4.44966 0.880993 4.5969 0.920856C4.88485 0.998549 5.15009 0.890162 5.43482 0.983677C5.5292 1.01571 5.41796 1.35345 5.51679 1.37935C6.05851 1.51885 6.56613 1.4249 7.11434 1.48724C9.80953 1.79499 12.4593 1.87731 15.1823 1.98539C16.0834 2.02069 17.179 2.30745 18.1031 2.15888C18.2114 2.14123 18.1418 1.84754 18.1621 1.8229C18.4797 1.44564 18.3819 2.04248 18.5945 2.11805C19.4391 2.41636 20.366 2.42822 21.172 2.30114C21.5147 2.24621 21.1607 1.66643 21.5118 1.98934C21.5362 2.01115 21.4543 2.3256 21.549 2.35743C21.7638 2.429 22.1675 2.36637 22.333 2.38845C22.6521 2.43258 22.7046 2.42857 23.0053 2.42718C23.4154 2.42802 23.9093 2.57551 24.3507 2.49729C24.4449 2.47967 24.3146 2.16085 24.4643 2.10377C24.6142 2.04677 25.0129 2.06741 25.1483 2.14084C25.2837 2.21431 25.2307 2.46745 25.2554 2.52487C25.4589 3.00957 25.9073 2.32623 25.9661 2.30854C27.0416 2.00599 27.979 2.37561 28.9882 2.3579C29.7609 2.34353 30.5836 2.20287 31.3139 2.20829C32.1836 2.21599 32.9343 2.37757 33.7782 2.33381C33.8674 2.32956 33.7566 1.954 33.8655 1.94804C35.023 1.88511 36.1829 1.9072 37.3394 2.14298C37.4563 2.16694 37.3116 2.50065 37.4287 2.5444C38.1467 2.80491 39.2773 3.44049 39.6716 1.99143C40.1553 2.03983 40.7421 2.08842 41.176 2.37211C41.4559 2.55469 41.1931 2.91994 41.5303 2.7604C41.6063 2.72484 41.5016 2.41045 41.6159 2.38102C42.0957 2.25744 42.6286 2.35147 43.1077 2.18031C43.2049 2.14475 43.1736 1.86202 43.2004 1.81058C43.4266 1.39381 43.8243 2.07013 43.9091 2.11836C44.5551 2.4778 45.0192 2.32461 45.6215 2.3238C45.7607 2.32379 45.59 1.94612 45.7237 1.93244C46.4197 1.86654 47.1239 1.88774 47.8129 2.04532C47.9651 2.08131 47.831 2.40758 47.904 2.44135C48.2257 2.58632 48.2864 1.97323 48.5936 2.10047C48.6583 2.12651 48.6266 2.40447 48.6388 2.43474C48.8301 2.90993 48.978 2.22979 49.0248 2.21406C49.6154 1.99999 50.0074 2.70112 50.5865 2.59151C50.6555 2.57769 50.4937 2.22928 50.6881 2.21188C51.9738 2.09404 53.3546 2.16804 54.6248 2.42822C54.8255 2.46815 54.687 2.7341 54.7 2.7664C54.9143 3.27086 55.0361 2.58831 55.1009 2.56163C55.6129 2.36884 56.0991 2.9317 56.4314 2.11571C58.6105 2.36174 60.7404 1.87217 62.9129 2.5635C62.9402 2.57148 62.8968 2.90735 62.9513 2.92182C63.608 3.09948 63.4656 2.58083 63.897 1.9368C64.0052 1.77508 64.3524 2.53873 64.3827 2.59462C64.4937 2.80062 64.39 3.30094 64.4267 3.34059C64.7297 3.65172 64.6553 2.0038 65.0547 1.99688C65.0672 1.99943 65.0197 2.30373 65.0536 2.33336C65.1592 2.42643 65.2602 2.3042 65.3632 2.40704C65.5999 2.64503 65.6901 3.4449 66.0468 2.97284C66.0914 2.9116 66.0073 1.9775 66.3685 2.01593C66.5132 2.03203 67.1441 2.00593 67.3198 2.06375C67.496 2.1215 67.3805 2.42478 67.3932 2.43763C67.8715 2.82862 67.6911 2.9967 67.943 3.58283C68.1942 4.16674 68.1047 2.76594 68.2006 2.60791C68.2968 2.45031 68.6532 2.77353 68.7406 2.88647C68.8283 2.99946 68.7243 3.19266 68.8016 3.25615C69.3131 3.67092 69.012 2.5568 69.1744 2.33166C69.5555 1.79865 69.8745 2.83349 70.2421 2.92956C70.3408 2.95552 70.2569 2.72001 70.3439 2.69648C70.688 2.60645 70.8997 2.92758 71.2819 2.62403C71.3464 2.57453 71.6399 1.94469 71.8598 2.40005C71.8902 2.46573 71.8109 2.72612 71.9602 2.78181C72.1834 2.86541 72.5801 2.91581 72.8123 2.82554C72.9839 2.75875 72.7796 2.33496 72.9985 2.46417C73.0956 2.52188 72.9213 2.77441 73.1033 2.86199C73.2825 2.94958 73.7448 2.93136 73.9256 2.9199C74.1035 2.9083 74.0009 2.58601 74.015 2.56397C74.1003 2.43763 74.4369 2.27619 74.4664 2.27611C75.8836 2.21634 77.2483 2.68771 78.6123 2.55886C78.6848 2.55226 78.7572 2.5441 78.8295 2.53424C78.9465 2.51874 78.8632 2.17846 78.881 2.17257C79.2784 2.02338 78.9778 2.9361 79.26 3.23574C79.2092 2.5434 79.3756 2.66636 79.6496 2.58616C79.7814 2.54696 79.7052 2.27974 79.7169 2.25209C79.9067 1.84156 80.0492 2.36591 80.0856 2.47307C80.2194 2.86724 80.3635 2.3969 80.4571 2.66032C80.5518 2.92173 80.3493 3.31448 80.6189 3.3054C80.6905 3.0562 80.4812 2.41099 80.6836 2.30284C81.4367 1.89392 82.8567 2.38142 83.4848 2.42505C84.1005 2.4688 84.281 2.42041 84.6511 2.5047C85.3005 2.65744 85.0561 2.17992 85.4455 1.95415C85.8477 1.72824 85.6684 2.91442 85.7302 3.16798C85.7915 3.42144 85.8505 3.15879 85.9236 3.29757C85.9963 3.43632 85.8457 3.61146 86.0127 3.66158C86.1809 3.71163 86.618 3.25303 86.6698 2.98627C86.7886 2.42097 86.5742 1.83237 87.0214 2.03403C87.047 2.04601 86.9689 2.35831 87.0665 2.38842C87.827 2.61751 88.616 2.62176 89.3939 2.82372C89.498 2.85202 89.4098 3.19936 89.4703 3.21975C90.0985 3.43325 89.8784 2.85227 90.2165 2.1996C90.1519 3.06341 90.339 3.58903 90.8286 3.58832C91.1223 3.58823 91.0666 3.21197 91.2491 2.94422C91.3036 2.86351 91.5061 3.12002 91.5458 2.94233C91.6634 2.3616 91.4654 1.7151 91.9655 1.96794C91.9872 1.97998 91.922 2.29785 91.9967 2.31626C92.4775 2.43691 92.5418 1.83015 93.0643 1.7518C93.4821 1.69023 94.2128 2.05381 94.6896 2.11119C94.6787 3.08142 95.1365 2.8567 95.3042 2.18718C95.6175 2.21329 95.9471 2.17472 96.2385 2.26723C96.3381 2.29878 96.2727 2.57966 96.2851 2.61002C96.4892 3.08622 96.6177 2.4358 96.6819 2.41046C97.4097 2.16514 97.9799 2.6629 98.6866 2.20214C98.7127 2.18568 98.7706 1.51285 98.9453 2.01187C98.9552 2.04626 98.7158 2.34367 99.0393 2.38022C99.2255 2.4014 99.4976 2.53699 99.7806 2.60261C99.9942 2.65244 100.218 2.65947 100.422 2.53862C100.534 2.47138 100.849 1.94609 101.037 2.38917C101.061 2.44926 101.015 2.63956 101.048 2.75C101.157 3.10202 101.286 2.42881 101.399 3.01807C101.514 3.60745 101.81 4.06542 102.29 3.70323C102.305 3.69279 102.453 3.16303 102.594 3.18288C102.817 3.21482 103.128 3.35252 103.363 3.36767C103.475 3.3747 103.43 3.0348 103.45 3.03023C104.221 2.90282 104.733 3.24268 105.534 3.4312C105.68 3.46642 106.139 3.04084 106.401 3.42084C106.69 3.83679 106.254 5.4579 107.013 5.11424C107.321 4.97669 107.815 2.91549 108.279 4.02494C109.316 3.81394 110.239 4.40934 111.281 4.05793C111.325 4.04322 111.473 3.5251 111.58 3.47818C111.587 3.4755 111.593 3.47437 111.599 3.47497C111.764 3.49258 111.841 3.76802 111.955 3.7905C112.433 3.89204 112.889 3.68838 113.353 3.7677C113.529 3.79769 113.438 4.07146 113.646 4.10895C113.848 4.14638 114.035 3.79414 114.296 4.00948C114.494 4.17395 114.59 4.95393 114.844 5.08556C114.976 4.34996 115.164 4.39497 115.542 4.26646C115.615 4.24152 115.593 3.9723 115.631 3.94744C115.787 3.84108 115.862 4.07624 116.013 3.95878C116.05 3.93062 116.104 3.68107 116.137 3.64405C116.427 3.32056 116.645 3.96028 116.676 4.07062C116.81 4.49242 116.988 4.19439 117.121 4.3811C117.253 4.56763 116.957 4.68708 117.131 4.82369C117.487 5.10321 118.017 5.20102 118.462 5.27787L118.431 5.27202C118.433 5.2725 118.435 5.27299 118.437 5.27348C118.596 5.31496 118.568 4.95758 118.592 4.9558C118.957 4.95526 119.186 5.40001 119.573 4.80891C119.278 6.55728 119.827 4.70569 120.201 5.2088C120.23 5.24953 119.991 6.04545 119.815 6.11235C119.641 6.17981 119.516 5.86359 119.268 5.98544C119.207 6.01228 118.734 6.68302 118.692 6.7205C118.338 7.00322 118.618 5.79647 118.618 5.72573C118.626 5.39059 118.521 5.34714 118.399 5.40833L118.441 5.41647C118.279 5.50377 118.085 5.74468 118.024 5.76538C117.514 5.93265 117.205 5.66981 116.823 5.77163C116.575 5.83665 116.362 6.62114 116.204 6.55753C115.687 6.35143 115.716 5.19808 115.017 6.06667C114.87 6.25357 114.825 7.14545 114.563 6.3932C114.547 6.34562 114.354 5.66837 114.127 6.0454C114.099 6.09292 114.064 6.3494 114.034 6.36718C113.834 6.48211 113.738 6.26213 113.524 6.33738C113.314 6.41318 113.058 6.53606 112.838 6.43033C112.703 6.36651 112.56 5.87328 112.496 5.75093C112.324 5.39888 112.084 5.94516 111.984 5.52858C111.876 5.10981 112.152 4.4916 111.827 4.21118C111.79 4.88277 111.738 5.5716 111.696 6.24688C111.633 6.24254 111.57 6.23674 111.505 6.22986C110.813 6.16041 110.137 5.95843 109.443 5.95369C109.349 5.95369 109.429 6.31931 109.327 6.32858C108.894 6.36582 108.533 6.08915 108.084 6.1668C107.735 6.22817 107.338 6.58779 106.971 6.6611C106.801 5.87938 106.253 6.1051 105.873 6.00776C105.74 5.97406 105.764 5.7697 105.673 5.69601C105.329 5.42279 105.45 6.11316 105.343 6.21276C104.884 6.63715 104.962 5.09954 104.462 5.09965C104.435 5.09917 104.05 5.89239 104.001 5.9398C103.694 6.25 103.977 5.65148 103.805 5.57728C103.491 5.44152 103.285 5.22862 102.888 5.43804C102.774 5.50032 102.469 5.98897 102.287 5.57764C102.263 5.52377 102.301 5.25468 102.279 5.23705C101.893 4.94061 101.816 5.78933 101.56 6.05855C101.307 6.32789 100.995 5.71366 100.935 5.53906C100.779 5.08719 101.095 5.36338 101.11 5.32138C101.271 4.82017 101.001 4.88761 100.807 4.82941C100.84 3.99401 100.558 4.02306 100.603 4.77241C100.608 4.85426 100.769 4.78825 100.807 4.82941C100.568 5.63337 100.261 5.71545 99.9784 4.92752C99.862 4.5977 99.9885 4.23688 99.6696 4.2499C99.6328 4.25155 99.5898 4.25855 99.5391 4.27165C99.3254 4.32789 99.3694 4.90676 99.1832 5.05385C98.7584 5.3896 98.2318 4.83906 97.7791 4.91737C97.6133 4.94576 97.7674 5.26281 97.659 5.2932C97.3668 5.37494 97.1038 5.13677 96.8105 5.25662C96.783 5.26788 96.8489 5.59777 96.7545 5.60162C96.0504 5.63765 95.4394 5.42865 94.6973 5.42711C94.3434 5.42644 93.6876 5.61335 93.3299 5.58008C92.6791 5.52445 91.8913 5.05345 91.3335 5.1763C90.9804 5.2549 91.0601 5.58374 90.9079 5.81019C90.5985 6.24929 90.0884 5.4755 90.007 5.35573C90.0056 5.35175 90.3155 5.27019 90.1476 5.103C90.0467 4.75155 90.0105 5.35416 90.007 5.35573C89.9521 5.27836 89.3438 5.21119 89.2192 5.27586C89.1525 5.31117 89.1941 5.62305 89.1592 5.63555C88.3301 5.92586 87.5177 6.01629 86.6599 5.88219C86.6454 5.87608 86.6622 5.52638 86.6282 5.51638C86.1541 5.36764 85.8336 5.79969 85.4383 6.05915C85.0505 6.3184 84.7277 6.23811 84.4763 5.64184C84.1687 5.72184 83.7475 5.46279 83.4895 5.30566C83.2347 5.14848 83.208 5.82914 83.1859 5.84291C82.5146 6.28328 82.103 5.90006 81.3947 5.85012C81.0674 5.82506 80.3782 5.93417 80.02 6.01401C79.7371 6.07824 79.5614 5.92151 79.2953 6.02751C79.2592 6.04168 79.3005 6.34393 79.2896 6.35576C78.9951 6.72265 79.1278 5.98017 79.0637 5.8489C78.9197 5.55402 78.8092 5.34441 78.6541 5.282C78.5628 5.24331 78.4553 5.26096 78.313 5.34962C78.2273 5.40275 77.9898 6.47256 77.83 6.53737C77.6222 6.61969 77.6955 6.2364 77.4766 6.33235C77.4578 6.34021 77.4656 6.57585 77.3288 6.56757C76.6957 6.5322 76.033 6.4053 75.3652 6.43934C75.2775 6.44303 75.3954 6.81514 75.2697 6.82661C74.6827 6.88009 74.0108 6.87676 73.4218 6.71097C73.2791 6.66895 73.364 6.40578 73.3319 6.32854C73.1352 5.86123 72.8748 6.5488 72.83 6.56253C71.75 6.90795 70.9431 6.30215 69.8338 6.61422C69.7759 6.63242 69.3352 7.37211 69.1211 6.74711C69.1066 6.70554 68.895 6.06599 68.7226 6.5083C68.7119 6.53597 68.8436 6.86485 68.6224 6.83463C68.4025 6.80447 68.0431 7.03121 67.7374 6.67242C67.6411 6.55939 67.4077 5.92179 67.1315 6.43741C67.1139 6.47338 66.6922 7.63606 66.5209 6.84124C66.493 6.7104 66.5071 5.86619 66.1701 6.3043C66.1057 6.38922 66.2282 6.57551 66.0566 6.6958C65.7887 6.88126 65.4485 6.66065 65.1313 7.04169C65.0763 7.10913 64.8465 7.68566 64.6467 7.25406C64.6154 7.18647 64.6683 6.90386 64.566 6.87396C64.0785 6.73051 63.5695 6.92715 63.0826 6.74001C62.9086 6.6743 62.9898 6.21749 62.8072 6.09836C62.6247 5.97926 62.2571 5.86778 62.0694 6.07896C61.8817 6.29022 62.1023 7.01265 61.8166 7.07534C60.5946 7.34729 59.3491 6.9415 58.1256 6.89898C57.9424 6.89263 58.0986 7.14988 57.8283 7.15918C56.8237 7.19474 55.1225 7.46587 54.2507 6.92803C53.5561 6.49719 54.416 6.14664 53.8874 5.97531C53.6322 5.89363 53.3699 6.74191 53.3087 6.76947C52.7113 7.04909 52.2814 6.6822 51.7486 6.80557C51.6379 6.83118 51.7524 7.1714 51.6581 7.18942C51.3358 7.25398 50.9923 7.10688 50.6814 7.13987C50.542 7.15546 50.572 7.41624 50.443 7.39818C50.1341 7.35797 49.8587 7.25262 49.5595 7.01261C49.5321 6.99075 49.7092 6.66284 49.4838 6.65443C49.1188 6.64173 48.6604 6.40763 48.241 6.66394C48.1166 6.74102 48.1215 7.33808 47.8441 6.93021C47.7859 6.84503 47.8469 6.127 47.5411 6.75154C47.4873 6.85537 46.9804 7.6993 46.7132 7.16501C46.6429 7.02438 46.4597 6.44062 46.3108 6.53526C46.2906 6.55031 46.3776 6.86963 46.2534 6.90295C45.8157 7.01478 45.3516 6.98814 44.899 7.096C44.7796 7.12541 44.9635 7.45431 44.7854 7.48755C44.2958 7.57945 43.6781 7.50504 43.1914 7.40912C43.0119 7.37312 43.131 7.09623 43.1175 7.06653C42.9003 6.58342 42.787 7.24216 42.718 7.28159C42.2857 7.51802 41.9604 7.21478 41.5645 7.30292C41.4556 7.3264 41.5382 7.63826 41.5169 7.66654C41.2957 7.94304 41.4546 7.37795 41.3107 7.3183C40.9073 7.14935 40.4598 7.18185 40.0527 7.22855C39.9031 7.24616 40.0774 7.60648 39.9431 7.61809C39.1549 7.69359 38.3354 7.67228 37.5558 7.48486C37.4091 7.44891 37.4965 7.16782 37.465 7.10446C37.2468 6.66116 36.9523 7.27554 36.8832 7.33474C36.5688 7.60502 36.4406 7.35982 36.1591 7.4106C34.7776 7.66311 33.0768 7.52727 31.7643 7.44767C30.0694 7.34531 28.7411 7.10113 27.1228 7.19687C27.0197 7.20261 27.1299 7.57283 27.0411 7.58255C25.892 7.69116 24.7694 7.56429 23.6169 7.69074C23.5231 7.70045 23.6643 8.0508 23.514 8.07823C23.2056 8.13696 22.813 8.12427 22.4975 8.01686C22.3437 7.96513 22.5439 7.6592 22.3891 7.61332C22.0287 7.5058 21.6435 7.48703 21.2752 7.54965C21.1185 7.57706 21.3616 7.93376 21.1574 7.94129C19.7729 7.99991 18.4043 8.08462 16.9985 7.64073C16.9018 7.61025 16.8054 6.87874 16.6033 7.02266C16.5912 7.22632 16.596 7.46556 16.5929 7.68308C14.5715 7.83359 12.5692 7.61252 10.5428 7.60671C10.4573 7.60655 10.6114 7.99243 10.4459 7.9941C9.48671 8.00421 8.56141 8.1271 7.57501 7.75732C7.47718 7.72118 7.51578 7.03719 7.231 7.14525C7.18086 7.16494 6.75054 7.26318 6.64174 7.41332C6.62698 7.43594 6.71087 7.75352 6.57217 7.7651C5.76602 7.82686 4.91855 7.76805 4.10886 7.58655C3.97817 7.55665 4.11117 7.21478 4.01803 7.19054C3.35778 7.02114 2.64729 7.29109 2.01405 6.99316C1.59018 6.79251 1.73614 6.20296 1.50317 5.62886C1.47022 5.54787 1.20965 5.53925 1.19063 5.20331C1.14209 4.35855 1.2529 3.43084 1.18626 2.53066C1.17212 2.33676 0.826889 2.55156 1.02558 2.07915C1.03949 2.04752 1.28971 1.88769 1.34935 1.72756C1.39088 1.61685 1.30711 1.27626 1.39323 1.13398C1.47935 0.991846 1.58127 1.27682 1.72516 1.10896C1.86896 0.939057 1.79809 0.551192 2.09002 0.500314ZM82.355 4.60317C82.1184 4.28001 82.1018 5.47677 82.3485 5.18682C82.3603 5.17139 82.3672 4.61901 82.355 4.60317ZM110.249 5.05497C109.964 4.51566 109.723 5.28164 109.922 5.69802C110.122 6.11387 110.336 5.21843 110.249 5.05497ZM113.348 4.8222C113.04 4.37571 112.851 6.06256 113.23 5.75263C113.251 5.73523 113.365 4.84814 113.348 4.8222ZM2.53651 5.44721C2.53305 5.43138 2.34566 5.41899 2.34145 5.43481C2.24808 5.81637 2.62279 5.84088 2.53651 5.44721ZM116.399 4.90247C116.343 4.65329 115.979 4.84413 116.05 5.15208C116.104 5.39885 116.464 5.21076 116.399 4.90247ZM70.2612 3.51332C70.2573 3.49555 70.1214 3.48165 70.1257 3.58237C70.1402 3.90675 70.3272 3.81218 70.2612 3.51332ZM121.483 6.3383C120.588 6.04304 120.915 4.57941 121.456 4.97894C121.569 5.0481 121.053 5.31036 121.163 5.48413C121.422 5.81857 121.827 5.00239 122.074 5.5249C122.129 5.62357 121.541 6.36164 121.481 6.33988C121.481 6.33935 121.482 6.33882 121.483 6.3383ZM82.2001 3.16831C82.1954 3.15256 82.0078 3.14036 82.0033 3.15611C81.9075 3.53741 82.2855 3.5622 82.2001 3.16831ZM62.4217 2.89858C62.4112 2.86503 61.9777 2.84047 61.9638 2.87176C61.7478 3.49641 62.6245 3.54791 62.4217 2.89858ZM94.697 2.13702C94.8916 1.75374 95.1486 1.70748 95.3033 2.1867C95.1112 2.162 94.8932 2.15936 94.697 2.13702Z" fill="currentcolor" />
-                                 </svg>
-                              </span>
-                           </button>
-                        </li>
-                        <li class="nav-item" role="presentation">
-                           <button class="nav-link" id="featured-tab" data-bs-toggle="tab" data-bs-target="#featured" type="button" role="tab" aria-controls="featured" aria-selected="false">
-                              Featured
-                              <span>
-                                 <svg width="123" height="9" viewBox="0 0 123 9" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                    <path d="M2.09002 0.500314C2.7682 0.384879 3.66028 0.481577 4.34058 0.623294C4.55365 0.667213 4.44966 0.880993 4.5969 0.920856C4.88485 0.998549 5.15009 0.890162 5.43482 0.983677C5.5292 1.01571 5.41796 1.35345 5.51679 1.37935C6.05851 1.51885 6.56613 1.4249 7.11434 1.48724C9.80953 1.79499 12.4593 1.87731 15.1823 1.98539C16.0834 2.02069 17.179 2.30745 18.1031 2.15888C18.2114 2.14123 18.1418 1.84754 18.1621 1.8229C18.4797 1.44564 18.3819 2.04248 18.5945 2.11805C19.4391 2.41636 20.366 2.42822 21.172 2.30114C21.5147 2.24621 21.1607 1.66643 21.5118 1.98934C21.5362 2.01115 21.4543 2.3256 21.549 2.35743C21.7638 2.429 22.1675 2.36637 22.333 2.38845C22.6521 2.43258 22.7046 2.42857 23.0053 2.42718C23.4154 2.42802 23.9093 2.57551 24.3507 2.49729C24.4449 2.47967 24.3146 2.16085 24.4643 2.10377C24.6142 2.04677 25.0129 2.06741 25.1483 2.14084C25.2837 2.21431 25.2307 2.46745 25.2554 2.52487C25.4589 3.00957 25.9073 2.32623 25.9661 2.30854C27.0416 2.00599 27.979 2.37561 28.9882 2.3579C29.7609 2.34353 30.5836 2.20287 31.3139 2.20829C32.1836 2.21599 32.9343 2.37757 33.7782 2.33381C33.8674 2.32956 33.7566 1.954 33.8655 1.94804C35.023 1.88511 36.1829 1.9072 37.3394 2.14298C37.4563 2.16694 37.3116 2.50065 37.4287 2.5444C38.1467 2.80491 39.2773 3.44049 39.6716 1.99143C40.1553 2.03983 40.7421 2.08842 41.176 2.37211C41.4559 2.55469 41.1931 2.91994 41.5303 2.7604C41.6063 2.72484 41.5016 2.41045 41.6159 2.38102C42.0957 2.25744 42.6286 2.35147 43.1077 2.18031C43.2049 2.14475 43.1736 1.86202 43.2004 1.81058C43.4266 1.39381 43.8243 2.07013 43.9091 2.11836C44.5551 2.4778 45.0192 2.32461 45.6215 2.3238C45.7607 2.32379 45.59 1.94612 45.7237 1.93244C46.4197 1.86654 47.1239 1.88774 47.8129 2.04532C47.9651 2.08131 47.831 2.40758 47.904 2.44135C48.2257 2.58632 48.2864 1.97323 48.5936 2.10047C48.6583 2.12651 48.6266 2.40447 48.6388 2.43474C48.8301 2.90993 48.978 2.22979 49.0248 2.21406C49.6154 1.99999 50.0074 2.70112 50.5865 2.59151C50.6555 2.57769 50.4937 2.22928 50.6881 2.21188C51.9738 2.09404 53.3546 2.16804 54.6248 2.42822C54.8255 2.46815 54.687 2.7341 54.7 2.7664C54.9143 3.27086 55.0361 2.58831 55.1009 2.56163C55.6129 2.36884 56.0991 2.9317 56.4314 2.11571C58.6105 2.36174 60.7404 1.87217 62.9129 2.5635C62.9402 2.57148 62.8968 2.90735 62.9513 2.92182C63.608 3.09948 63.4656 2.58083 63.897 1.9368C64.0052 1.77508 64.3524 2.53873 64.3827 2.59462C64.4937 2.80062 64.39 3.30094 64.4267 3.34059C64.7297 3.65172 64.6553 2.0038 65.0547 1.99688C65.0672 1.99943 65.0197 2.30373 65.0536 2.33336C65.1592 2.42643 65.2602 2.3042 65.3632 2.40704C65.5999 2.64503 65.6901 3.4449 66.0468 2.97284C66.0914 2.9116 66.0073 1.9775 66.3685 2.01593C66.5132 2.03203 67.1441 2.00593 67.3198 2.06375C67.496 2.1215 67.3805 2.42478 67.3932 2.43763C67.8715 2.82862 67.6911 2.9967 67.943 3.58283C68.1942 4.16674 68.1047 2.76594 68.2006 2.60791C68.2968 2.45031 68.6532 2.77353 68.7406 2.88647C68.8283 2.99946 68.7243 3.19266 68.8016 3.25615C69.3131 3.67092 69.012 2.5568 69.1744 2.33166C69.5555 1.79865 69.8745 2.83349 70.2421 2.92956C70.3408 2.95552 70.2569 2.72001 70.3439 2.69648C70.688 2.60645 70.8997 2.92758 71.2819 2.62403C71.3464 2.57453 71.6399 1.94469 71.8598 2.40005C71.8902 2.46573 71.8109 2.72612 71.9602 2.78181C72.1834 2.86541 72.5801 2.91581 72.8123 2.82554C72.9839 2.75875 72.7796 2.33496 72.9985 2.46417C73.0956 2.52188 72.9213 2.77441 73.1033 2.86199C73.2825 2.94958 73.7448 2.93136 73.9256 2.9199C74.1035 2.9083 74.0009 2.58601 74.015 2.56397C74.1003 2.43763 74.4369 2.27619 74.4664 2.27611C75.8836 2.21634 77.2483 2.68771 78.6123 2.55886C78.6848 2.55226 78.7572 2.5441 78.8295 2.53424C78.9465 2.51874 78.8632 2.17846 78.881 2.17257C79.2784 2.02338 78.9778 2.9361 79.26 3.23574C79.2092 2.5434 79.3756 2.66636 79.6496 2.58616C79.7814 2.54696 79.7052 2.27974 79.7169 2.25209C79.9067 1.84156 80.0492 2.36591 80.0856 2.47307C80.2194 2.86724 80.3635 2.3969 80.4571 2.66032C80.5518 2.92173 80.3493 3.31448 80.6189 3.3054C80.6905 3.0562 80.4812 2.41099 80.6836 2.30284C81.4367 1.89392 82.8567 2.38142 83.4848 2.42505C84.1005 2.4688 84.281 2.42041 84.6511 2.5047C85.3005 2.65744 85.0561 2.17992 85.4455 1.95415C85.8477 1.72824 85.6684 2.91442 85.7302 3.16798C85.7915 3.42144 85.8505 3.15879 85.9236 3.29757C85.9963 3.43632 85.8457 3.61146 86.0127 3.66158C86.1809 3.71163 86.618 3.25303 86.6698 2.98627C86.7886 2.42097 86.5742 1.83237 87.0214 2.03403C87.047 2.04601 86.9689 2.35831 87.0665 2.38842C87.827 2.61751 88.616 2.62176 89.3939 2.82372C89.498 2.85202 89.4098 3.19936 89.4703 3.21975C90.0985 3.43325 89.8784 2.85227 90.2165 2.1996C90.1519 3.06341 90.339 3.58903 90.8286 3.58832C91.1223 3.58823 91.0666 3.21197 91.2491 2.94422C91.3036 2.86351 91.5061 3.12002 91.5458 2.94233C91.6634 2.3616 91.4654 1.7151 91.9655 1.96794C91.9872 1.97998 91.922 2.29785 91.9967 2.31626C92.4775 2.43691 92.5418 1.83015 93.0643 1.7518C93.4821 1.69023 94.2128 2.05381 94.6896 2.11119C94.6787 3.08142 95.1365 2.8567 95.3042 2.18718C95.6175 2.21329 95.9471 2.17472 96.2385 2.26723C96.3381 2.29878 96.2727 2.57966 96.2851 2.61002C96.4892 3.08622 96.6177 2.4358 96.6819 2.41046C97.4097 2.16514 97.9799 2.6629 98.6866 2.20214C98.7127 2.18568 98.7706 1.51285 98.9453 2.01187C98.9552 2.04626 98.7158 2.34367 99.0393 2.38022C99.2255 2.4014 99.4976 2.53699 99.7806 2.60261C99.9942 2.65244 100.218 2.65947 100.422 2.53862C100.534 2.47138 100.849 1.94609 101.037 2.38917C101.061 2.44926 101.015 2.63956 101.048 2.75C101.157 3.10202 101.286 2.42881 101.399 3.01807C101.514 3.60745 101.81 4.06542 102.29 3.70323C102.305 3.69279 102.453 3.16303 102.594 3.18288C102.817 3.21482 103.128 3.35252 103.363 3.36767C103.475 3.3747 103.43 3.0348 103.45 3.03023C104.221 2.90282 104.733 3.24268 105.534 3.4312C105.68 3.46642 106.139 3.04084 106.401 3.42084C106.69 3.83679 106.254 5.4579 107.013 5.11424C107.321 4.97669 107.815 2.91549 108.279 4.02494C109.316 3.81394 110.239 4.40934 111.281 4.05793C111.325 4.04322 111.473 3.5251 111.58 3.47818C111.587 3.4755 111.593 3.47437 111.599 3.47497C111.764 3.49258 111.841 3.76802 111.955 3.7905C112.433 3.89204 112.889 3.68838 113.353 3.7677C113.529 3.79769 113.438 4.07146 113.646 4.10895C113.848 4.14638 114.035 3.79414 114.296 4.00948C114.494 4.17395 114.59 4.95393 114.844 5.08556C114.976 4.34996 115.164 4.39497 115.542 4.26646C115.615 4.24152 115.593 3.9723 115.631 3.94744C115.787 3.84108 115.862 4.07624 116.013 3.95878C116.05 3.93062 116.104 3.68107 116.137 3.64405C116.427 3.32056 116.645 3.96028 116.676 4.07062C116.81 4.49242 116.988 4.19439 117.121 4.3811C117.253 4.56763 116.957 4.68708 117.131 4.82369C117.487 5.10321 118.017 5.20102 118.462 5.27787L118.431 5.27202C118.433 5.2725 118.435 5.27299 118.437 5.27348C118.596 5.31496 118.568 4.95758 118.592 4.9558C118.957 4.95526 119.186 5.40001 119.573 4.80891C119.278 6.55728 119.827 4.70569 120.201 5.2088C120.23 5.24953 119.991 6.04545 119.815 6.11235C119.641 6.17981 119.516 5.86359 119.268 5.98544C119.207 6.01228 118.734 6.68302 118.692 6.7205C118.338 7.00322 118.618 5.79647 118.618 5.72573C118.626 5.39059 118.521 5.34714 118.399 5.40833L118.441 5.41647C118.279 5.50377 118.085 5.74468 118.024 5.76538C117.514 5.93265 117.205 5.66981 116.823 5.77163C116.575 5.83665 116.362 6.62114 116.204 6.55753C115.687 6.35143 115.716 5.19808 115.017 6.06667C114.87 6.25357 114.825 7.14545 114.563 6.3932C114.547 6.34562 114.354 5.66837 114.127 6.0454C114.099 6.09292 114.064 6.3494 114.034 6.36718C113.834 6.48211 113.738 6.26213 113.524 6.33738C113.314 6.41318 113.058 6.53606 112.838 6.43033C112.703 6.36651 112.56 5.87328 112.496 5.75093C112.324 5.39888 112.084 5.94516 111.984 5.52858C111.876 5.10981 112.152 4.4916 111.827 4.21118C111.79 4.88277 111.738 5.5716 111.696 6.24688C111.633 6.24254 111.57 6.23674 111.505 6.22986C110.813 6.16041 110.137 5.95843 109.443 5.95369C109.349 5.95369 109.429 6.31931 109.327 6.32858C108.894 6.36582 108.533 6.08915 108.084 6.1668C107.735 6.22817 107.338 6.58779 106.971 6.6611C106.801 5.87938 106.253 6.1051 105.873 6.00776C105.74 5.97406 105.764 5.7697 105.673 5.69601C105.329 5.42279 105.45 6.11316 105.343 6.21276C104.884 6.63715 104.962 5.09954 104.462 5.09965C104.435 5.09917 104.05 5.89239 104.001 5.9398C103.694 6.25 103.977 5.65148 103.805 5.57728C103.491 5.44152 103.285 5.22862 102.888 5.43804C102.774 5.50032 102.469 5.98897 102.287 5.57764C102.263 5.52377 102.301 5.25468 102.279 5.23705C101.893 4.94061 101.816 5.78933 101.56 6.05855C101.307 6.32789 100.995 5.71366 100.935 5.53906C100.779 5.08719 101.095 5.36338 101.11 5.32138C101.271 4.82017 101.001 4.88761 100.807 4.82941C100.84 3.99401 100.558 4.02306 100.603 4.77241C100.608 4.85426 100.769 4.78825 100.807 4.82941C100.568 5.63337 100.261 5.71545 99.9784 4.92752C99.862 4.5977 99.9885 4.23688 99.6696 4.2499C99.6328 4.25155 99.5898 4.25855 99.5391 4.27165C99.3254 4.32789 99.3694 4.90676 99.1832 5.05385C98.7584 5.3896 98.2318 4.83906 97.7791 4.91737C97.6133 4.94576 97.7674 5.26281 97.659 5.2932C97.3668 5.37494 97.1038 5.13677 96.8105 5.25662C96.783 5.26788 96.8489 5.59777 96.7545 5.60162C96.0504 5.63765 95.4394 5.42865 94.6973 5.42711C94.3434 5.42644 93.6876 5.61335 93.3299 5.58008C92.6791 5.52445 91.8913 5.05345 91.3335 5.1763C90.9804 5.2549 91.0601 5.58374 90.9079 5.81019C90.5985 6.24929 90.0884 5.4755 90.007 5.35573C90.0056 5.35175 90.3155 5.27019 90.1476 5.103C90.0467 4.75155 90.0105 5.35416 90.007 5.35573C89.9521 5.27836 89.3438 5.21119 89.2192 5.27586C89.1525 5.31117 89.1941 5.62305 89.1592 5.63555C88.3301 5.92586 87.5177 6.01629 86.6599 5.88219C86.6454 5.87608 86.6622 5.52638 86.6282 5.51638C86.1541 5.36764 85.8336 5.79969 85.4383 6.05915C85.0505 6.3184 84.7277 6.23811 84.4763 5.64184C84.1687 5.72184 83.7475 5.46279 83.4895 5.30566C83.2347 5.14848 83.208 5.82914 83.1859 5.84291C82.5146 6.28328 82.103 5.90006 81.3947 5.85012C81.0674 5.82506 80.3782 5.93417 80.02 6.01401C79.7371 6.07824 79.5614 5.92151 79.2953 6.02751C79.2592 6.04168 79.3005 6.34393 79.2896 6.35576C78.9951 6.72265 79.1278 5.98017 79.0637 5.8489C78.9197 5.55402 78.8092 5.34441 78.6541 5.282C78.5628 5.24331 78.4553 5.26096 78.313 5.34962C78.2273 5.40275 77.9898 6.47256 77.83 6.53737C77.6222 6.61969 77.6955 6.2364 77.4766 6.33235C77.4578 6.34021 77.4656 6.57585 77.3288 6.56757C76.6957 6.5322 76.033 6.4053 75.3652 6.43934C75.2775 6.44303 75.3954 6.81514 75.2697 6.82661C74.6827 6.88009 74.0108 6.87676 73.4218 6.71097C73.2791 6.66895 73.364 6.40578 73.3319 6.32854C73.1352 5.86123 72.8748 6.5488 72.83 6.56253C71.75 6.90795 70.9431 6.30215 69.8338 6.61422C69.7759 6.63242 69.3352 7.37211 69.1211 6.74711C69.1066 6.70554 68.895 6.06599 68.7226 6.5083C68.7119 6.53597 68.8436 6.86485 68.6224 6.83463C68.4025 6.80447 68.0431 7.03121 67.7374 6.67242C67.6411 6.55939 67.4077 5.92179 67.1315 6.43741C67.1139 6.47338 66.6922 7.63606 66.5209 6.84124C66.493 6.7104 66.5071 5.86619 66.1701 6.3043C66.1057 6.38922 66.2282 6.57551 66.0566 6.6958C65.7887 6.88126 65.4485 6.66065 65.1313 7.04169C65.0763 7.10913 64.8465 7.68566 64.6467 7.25406C64.6154 7.18647 64.6683 6.90386 64.566 6.87396C64.0785 6.73051 63.5695 6.92715 63.0826 6.74001C62.9086 6.6743 62.9898 6.21749 62.8072 6.09836C62.6247 5.97926 62.2571 5.86778 62.0694 6.07896C61.8817 6.29022 62.1023 7.01265 61.8166 7.07534C60.5946 7.34729 59.3491 6.9415 58.1256 6.89898C57.9424 6.89263 58.0986 7.14988 57.8283 7.15918C56.8237 7.19474 55.1225 7.46587 54.2507 6.92803C53.5561 6.49719 54.416 6.14664 53.8874 5.97531C53.6322 5.89363 53.3699 6.74191 53.3087 6.76947C52.7113 7.04909 52.2814 6.6822 51.7486 6.80557C51.6379 6.83118 51.7524 7.1714 51.6581 7.18942C51.3358 7.25398 50.9923 7.10688 50.6814 7.13987C50.542 7.15546 50.572 7.41624 50.443 7.39818C50.1341 7.35797 49.8587 7.25262 49.5595 7.01261C49.5321 6.99075 49.7092 6.66284 49.4838 6.65443C49.1188 6.64173 48.6604 6.40763 48.241 6.66394C48.1166 6.74102 48.1215 7.33808 47.8441 6.93021C47.7859 6.84503 47.8469 6.127 47.5411 6.75154C47.4873 6.85537 46.9804 7.6993 46.7132 7.16501C46.6429 7.02438 46.4597 6.44062 46.3108 6.53526C46.2906 6.55031 46.3776 6.86963 46.2534 6.90295C45.8157 7.01478 45.3516 6.98814 44.899 7.096C44.7796 7.12541 44.9635 7.45431 44.7854 7.48755C44.2958 7.57945 43.6781 7.50504 43.1914 7.40912C43.0119 7.37312 43.131 7.09623 43.1175 7.06653C42.9003 6.58342 42.787 7.24216 42.718 7.28159C42.2857 7.51802 41.9604 7.21478 41.5645 7.30292C41.4556 7.3264 41.5382 7.63826 41.5169 7.66654C41.2957 7.94304 41.4546 7.37795 41.3107 7.3183C40.9073 7.14935 40.4598 7.18185 40.0527 7.22855C39.9031 7.24616 40.0774 7.60648 39.9431 7.61809C39.1549 7.69359 38.3354 7.67228 37.5558 7.48486C37.4091 7.44891 37.4965 7.16782 37.465 7.10446C37.2468 6.66116 36.9523 7.27554 36.8832 7.33474C36.5688 7.60502 36.4406 7.35982 36.1591 7.4106C34.7776 7.66311 33.0768 7.52727 31.7643 7.44767C30.0694 7.34531 28.7411 7.10113 27.1228 7.19687C27.0197 7.20261 27.1299 7.57283 27.0411 7.58255C25.892 7.69116 24.7694 7.56429 23.6169 7.69074C23.5231 7.70045 23.6643 8.0508 23.514 8.07823C23.2056 8.13696 22.813 8.12427 22.4975 8.01686C22.3437 7.96513 22.5439 7.6592 22.3891 7.61332C22.0287 7.5058 21.6435 7.48703 21.2752 7.54965C21.1185 7.57706 21.3616 7.93376 21.1574 7.94129C19.7729 7.99991 18.4043 8.08462 16.9985 7.64073C16.9018 7.61025 16.8054 6.87874 16.6033 7.02266C16.5912 7.22632 16.596 7.46556 16.5929 7.68308C14.5715 7.83359 12.5692 7.61252 10.5428 7.60671C10.4573 7.60655 10.6114 7.99243 10.4459 7.9941C9.48671 8.00421 8.56141 8.1271 7.57501 7.75732C7.47718 7.72118 7.51578 7.03719 7.231 7.14525C7.18086 7.16494 6.75054 7.26318 6.64174 7.41332C6.62698 7.43594 6.71087 7.75352 6.57217 7.7651C5.76602 7.82686 4.91855 7.76805 4.10886 7.58655C3.97817 7.55665 4.11117 7.21478 4.01803 7.19054C3.35778 7.02114 2.64729 7.29109 2.01405 6.99316C1.59018 6.79251 1.73614 6.20296 1.50317 5.62886C1.47022 5.54787 1.20965 5.53925 1.19063 5.20331C1.14209 4.35855 1.2529 3.43084 1.18626 2.53066C1.17212 2.33676 0.826889 2.55156 1.02558 2.07915C1.03949 2.04752 1.28971 1.88769 1.34935 1.72756C1.39088 1.61685 1.30711 1.27626 1.39323 1.13398C1.47935 0.991846 1.58127 1.27682 1.72516 1.10896C1.86896 0.939057 1.79809 0.551192 2.09002 0.500314ZM82.355 4.60317C82.1184 4.28001 82.1018 5.47677 82.3485 5.18682C82.3603 5.17139 82.3672 4.61901 82.355 4.60317ZM110.249 5.05497C109.964 4.51566 109.723 5.28164 109.922 5.69802C110.122 6.11387 110.336 5.21843 110.249 5.05497ZM113.348 4.8222C113.04 4.37571 112.851 6.06256 113.23 5.75263C113.251 5.73523 113.365 4.84814 113.348 4.8222ZM2.53651 5.44721C2.53305 5.43138 2.34566 5.41899 2.34145 5.43481C2.24808 5.81637 2.62279 5.84088 2.53651 5.44721ZM116.399 4.90247C116.343 4.65329 115.979 4.84413 116.05 5.15208C116.104 5.39885 116.464 5.21076 116.399 4.90247ZM70.2612 3.51332C70.2573 3.49555 70.1214 3.48165 70.1257 3.58237C70.1402 3.90675 70.3272 3.81218 70.2612 3.51332ZM121.483 6.3383C120.588 6.04304 120.915 4.57941 121.456 4.97894C121.569 5.0481 121.053 5.31036 121.163 5.48413C121.422 5.81857 121.827 5.00239 122.074 5.5249C122.129 5.62357 121.541 6.36164 121.481 6.33988C121.481 6.33935 121.482 6.33882 121.483 6.3383ZM82.2001 3.16831C82.1954 3.15256 82.0078 3.14036 82.0033 3.15611C81.9075 3.53741 82.2855 3.5622 82.2001 3.16831ZM62.4217 2.89858C62.4112 2.86503 61.9777 2.84047 61.9638 2.87176C61.7478 3.49641 62.6245 3.54791 62.4217 2.89858ZM94.697 2.13702C94.8916 1.75374 95.1486 1.70748 95.3033 2.1867C95.1112 2.162 94.8932 2.15936 94.697 2.13702Z" fill="currentcolor" />
-                                 </svg>
-                              </span>
-                           </button>
-                        </li>
-                     </ul>
-                  </div>
-               </div>
+                <div class="col-xl-6 col-lg-6 wow itfadeLeft" data-wow-duration=".9s" data-wow-delay=".5s">
+                    <div class="it-about-2-left z-index-1">
+                        <div class="it-about-2-thumb border-radius-20">
+                            <img src="{{ asset('assets/img/about-3.webp') }}" alt="about">
+                        </div>
+                        <div class="it-about-2-thumb-sm thumb-overlay border-radius-20 z-index-1">
+                            <img src="{{ asset('assets/img/about-5.webp') }}" alt="">
+                            <a class="it-about-thumb-icon pulse-white d-none" href="#">
+                                <svg width="11" height="14" viewBox="0 0 11 14" fill="none"
+                                    xmlns="http://www.w3.org/2000/svg">
+                                    <path
+                                        d="M10.5 7.93782C11.1667 7.55292 11.1667 6.59067 10.5 6.20577L1.5 1.00962C0.833333 0.624718 0 1.10584 0 1.87564V12.2679C0 13.0378 0.833333 13.5189 1.5 13.134L10.5 7.93782Z"
+                                        fill="#F8C62F" />
+                                </svg>
+                            </a>
+                        </div>
+                        <img class="it-about-2-shape-7 d-none d-xl-block"
+                            src="{{ asset('assets/img/shape/about-8-1.png') }}" alt="">
+                    </div>
+                </div>
+                <div class="col-xl-6 col-lg-6 wow itfadeRight" data-wow-duration=".9s" data-wow-delay=".7s">
+                    <div class="it-about-2-right">
+                        <div class="it-about-section-title-box mb-25">
+                            <span class="it-section-subtitle">Who we are</span>
+                            <h4 class="it-section-title">Empowering Minds Through Skill Development & Distant Learning
+                            </h4>
+                        </div>
+                        <div class="it-about-text">
+                            <p>At KYMS Academy, we believe skill development is the key to unlocking career
+                                opportunities and personal growth. Our mission is to make professional education
+                                engaging, accessible, and effective for everyone regardless of age, background, or
+                                career goals</p>
+                        </div>
+                        <div class="it-about-list-wrap">
+                            <div class="row">
+                                <div class="col-md-6 col-sm-6">
+                                    <div class="it-about-list-box">
+                                        <ul>
+                                            <li>
+                                                <span>
+                                                    <svg width="30" height="24" viewBox="0 0 30 24" fill="none"
+                                                        xmlns="http://www.w3.org/2000/svg">
+                                                        <path fill-rule="evenodd" clip-rule="evenodd"
+                                                            d="M8.56793 23.8839C8.37951 23.8839 8.22245 23.7608 8.15964 23.6069C8.12828 23.5453 5.42699 16.7109 1.24953 14.1249C0.432876 13.6324 -0.195186 13.109 0.056039 11.9391C0.307264 10.8 1.09256 10.1535 2.50593 9.84567C5.01862 9.32229 7.71982 13.1397 8.72499 14.7098C12.2428 9.69181 19.2785 1.81065 29.5179 0.887097C30.0119 0.830341 30.1945 1.548 29.7378 1.74909C29.5807 1.81065 14.9439 8.36808 9.00757 23.6377C8.91341 23.7915 8.75635 23.8839 8.56793 23.8839Z"
+                                                            fill="currentcolor" />
+                                                    </svg>
+                                                    Flexible Classes
+                                                </span>
+                                            </li>
+                                            <li>
+                                                <span>
+                                                    <svg width="30" height="24" viewBox="0 0 30 24" fill="none"
+                                                        xmlns="http://www.w3.org/2000/svg">
+                                                        <path fill-rule="evenodd" clip-rule="evenodd"
+                                                            d="M8.56793 23.8839C8.37951 23.8839 8.22245 23.7608 8.15964 23.6069C8.12828 23.5453 5.42699 16.7109 1.24953 14.1249C0.432876 13.6324 -0.195186 13.109 0.056039 11.9391C0.307264 10.8 1.09256 10.1535 2.50593 9.84567C5.01862 9.32229 7.71982 13.1397 8.72499 14.7098C12.2428 9.69181 19.2785 1.81065 29.5179 0.887097C30.0119 0.830341 30.1945 1.548 29.7378 1.74909C29.5807 1.81065 14.9439 8.36808 9.00757 23.6377C8.91341 23.7915 8.75635 23.8839 8.56793 23.8839Z"
+                                                            fill="currentcolor" />
+                                                    </svg>
+                                                    Lifetime Access
+                                                </span>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="col-md-6 col-sm-6">
+                                    <div class="it-about-list-box">
+                                        <ul>
+                                            <li>
+                                                <span>
+                                                    <svg width="30" height="24" viewBox="0 0 30 24" fill="none"
+                                                        xmlns="http://www.w3.org/2000/svg">
+                                                        <path fill-rule="evenodd" clip-rule="evenodd"
+                                                            d="M8.56793 23.8839C8.37951 23.8839 8.22245 23.7608 8.15964 23.6069C8.12828 23.5453 5.42699 16.7109 1.24953 14.1249C0.432876 13.6324 -0.195186 13.109 0.056039 11.9391C0.307264 10.8 1.09256 10.1535 2.50593 9.84567C5.01862 9.32229 7.71982 13.1397 8.72499 14.7098C12.2428 9.69181 19.2785 1.81065 29.5179 0.887097C30.0119 0.830341 30.1945 1.548 29.7378 1.74909C29.5807 1.81065 14.9439 8.36808 9.00757 23.6377C8.91341 23.7915 8.75635 23.8839 8.56793 23.8839Z"
+                                                            fill="currentcolor" />
+                                                    </svg>
+                                                    Expert Trainers
+                                                </span>
+                                            </li>
+                                            <li>
+                                                <span>
+                                                    <svg width="30" height="24" viewBox="0 0 30 24" fill="none"
+                                                        xmlns="http://www.w3.org/2000/svg">
+                                                        <path fill-rule="evenodd" clip-rule="evenodd"
+                                                            d="M8.56793 23.8839C8.37951 23.8839 8.22245 23.7608 8.15964 23.6069C8.12828 23.5453 5.42699 16.7109 1.24953 14.1249C0.432876 13.6324 -0.195186 13.109 0.056039 11.9391C0.307264 10.8 1.09256 10.1535 2.50593 9.84567C5.01862 9.32229 7.71982 13.1397 8.72499 14.7098C12.2428 9.69181 19.2785 1.81065 29.5179 0.887097C30.0119 0.830341 30.1945 1.548 29.7378 1.74909C29.5807 1.81065 14.9439 8.36808 9.00757 23.6377C8.91341 23.7915 8.75635 23.8839 8.56793 23.8839Z"
+                                                            fill="currentcolor" />
+                                                    </svg>
+                                                    Learn Anywhere
+                                                </span>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <a href="#" class="it-btn-yellow theme-bg">
+                            <span>
+                                <span class="text-1">More About Us</span>
+                                <span class="text-2">More About Us</span>
+                            </span>
+                            <i>
+                                <svg width="16" height="15" viewBox="0 0 16 15" fill="none"
+                                    xmlns="http://www.w3.org/2000/svg">
+                                    <path
+                                        d="M15.0544 8.1364C15.4058 7.78492 15.4058 7.21508 15.0544 6.8636L9.3268 1.13604C8.97533 0.784567 8.40548 0.784567 8.05401 1.13604C7.70254 1.48751 7.70254 2.05736 8.05401 2.40883L13.1452 7.5L8.05401 12.5912C7.70254 12.9426 7.70254 13.5125 8.05401 13.864C8.40548 14.2154 8.97533 14.2154 9.3268 13.864L15.0544 8.1364ZM0.417969 7.5V8.4H14.418V7.5V6.6H0.417969V7.5Z"
+                                        fill="currentcolor" />
+                                </svg>
+                            </i>
+                        </a>
+                    </div>
+                </div>
             </div>
-         </div>
-         <div class="it-course-tab-content mb-45">
-            <div class="tab-content" id="myTabContent">
-               <div class="tab-pane fade show active" id="all" role="tabpanel" aria-labelledby="all-tab">
-                  <div class="row gx-35">
-                     <div class="col-xl-6 col-lg-6 col-md-6">
-                        <div class="it-course-item mb-35">
-                           <div class="row gx-0">
-                              <div class="col-xl-5 col-lg-12 col-md-12 col-sm-5">
-                                 <div class="it-course-thumb z-index-1 border-radius-20">
-                                    <a href="#"><img class="w-100" src="assets/img/course/course-2-1.jpg" alt=""></a>
-                                    <span class="course-category">MBA Entrance</span>
-                                    <button class="wishlist-btn">
-                                       <i class="far fa-heart"></i>
-                                    </button>
-                                 </div>
-                              </div>
-                              <div class="col-xl-7 col-lg-12 col-md-12 col-sm-7">
-                                 <div class="it-course-content p-relative">
-                                    <div class="d-flex justify-content-between align-items-center mb-20">
-                                       <div class="it-course-author">
-                                          <img src="assets/img/avatar/avatar-1-1.jpg" alt="">
-                                          <span>anjali</span>
-                                       </div>
-                                       <!-- Price removed as requested -->
-                                    </div>
-                                    <h5 class="it-course-title mb-20"><a class="border-line" href="#">CAT Preparation</a></h5>
-                                    <div class="it-course-rating mb-10">
-                                       <div>
-                                          <i class="fa-sharp fa-solid fa-star"></i>
-                                          <i class="fa-sharp fa-solid fa-star"></i>
-                                          <i class="fa-sharp fa-solid fa-star"></i>
-                                          <i class="fa-sharp fa-solid fa-star"></i>
-                                          <i class="fa-sharp fa-regular fa-star"></i>
-                                          <span>(4.7/5 Customer Rating)</span>
-                                       </div>
-                                    </div>
-                                    <div class="it-course-meta d-flex justify-content-between">
-                                       <span>
-                                          <i class="fas fa-book"></i>
-                                          40 Lessons
-                                       </span>
-                                       <span>
-                                          <i class="fas fa-users"></i>
-                                          50 Students
-                                       </span>
-                                    </div>
-                                 </div>
-                              </div>
-                           </div>
-                        </div>
-                     </div>
-                     <div class="col-xl-6 col-lg-6 col-md-6">
-                        <div class="it-course-item mb-35">
-                           <div class="row gx-0">
-                              <div class="col-xl-5 col-lg-12 col-md-12 col-sm-5">
-                                 <div class="it-course-thumb z-index-1 border-radius-20">
-                                    <a href="#"><img class="w-100" src="assets/img/course/course-2-2.jpg" alt=""></a>
-                                    <span class="course-category">UG Entrance</span>
-                                    <button class="wishlist-btn">
-                                       <i class="far fa-heart"></i>
-                                    </button>
-                                 </div>
-                              </div>
-                              <div class="col-xl-7 col-lg-12 col-md-12 col-sm-7">
-                                 <div class="it-course-content p-relative">
-                                    <div class="d-flex justify-content-between align-items-center mb-20">
-                                       <div class="it-course-author">
-                                          <img src="assets/img/avatar/avatar-1-2.png" alt="">
-                                          <span>Vishwas</span>
-                                       </div>
-                                       <!-- Price removed as requested -->
-                                    </div>
-                                    <h5 class="it-course-title mb-20"><a class="border-line" href="#">CUET Preparation</a></h5>
-                                    <div class="it-course-rating mb-10">
-                                       <div>
-                                          <i class="fa-sharp fa-solid fa-star"></i>
-                                          <i class="fa-sharp fa-solid fa-star"></i>
-                                          <i class="fa-sharp fa-solid fa-star"></i>
-                                          <i class="fa-sharp fa-solid fa-star"></i>
-                                          <i class="fa-sharp fa-regular fa-star"></i>
-                                          <span>(4.7/5 Customer Rating)</span>
-                                       </div>
-                                    </div>
-                                    <div class="it-course-meta d-flex justify-content-between">
-                                       <span>
-                                          <i class="fas fa-book"></i>
-                                          35 Lessons
-                                       </span>
-                                       <span>
-                                          <i class="fas fa-users"></i>
-                                          45 Students
-                                       </span>
-                                    </div>
-                                 </div>
-                              </div>
-                           </div>
-                        </div>
-                     </div>
-                     <div class="col-xl-6 col-lg-6 col-md-6">
-                        <div class="it-course-item mb-35">
-                           <div class="row gx-0">
-                              <div class="col-xl-5 col-lg-12 col-md-12 col-sm-5">
-                                 <div class="it-course-thumb z-index-1 border-radius-20">
-                                    <a href="#"><img class="w-100" src="assets/img/course/course-2-3.jpg" alt=""></a>
-                                    <span class="course-category">Special Courses</span>
-                                    <button class="wishlist-btn">
-                                       <i class="far fa-heart"></i>
-                                    </button>
-                                 </div>
-                              </div>
-                              <div class="col-xl-7 col-lg-12 col-md-12 col-sm-7">
-                                 <div class="it-course-content p-relative">
-                                    <div class="d-flex justify-content-between align-items-center mb-20">
-                                       <div class="it-course-author">
-                                          <img src="assets/img/avatar/avatar-1-3.png" alt="">
-                                          <span>Chirag</span>
-                                       </div>
-                                       <!-- Price removed as requested -->
-                                    </div>
-                                    <h5 class="it-course-title mb-20"><a class="border-line" href="#">Quant Mastery</a></h5>
-                                    <div class="it-course-rating mb-10">
-                                       <div>
-                                          <i class="fa-sharp fa-solid fa-star"></i>
-                                          <i class="fa-sharp fa-solid fa-star"></i>
-                                          <i class="fa-sharp fa-solid fa-star"></i>
-                                          <i class="fa-sharp fa-solid fa-star"></i>
-                                          <i class="fa-sharp fa-regular fa-star"></i>
-                                          <span>(4.7/5 Customer Rating)</span>
-                                       </div>
-                                    </div>
-                                    <div class="it-course-meta d-flex justify-content-between">
-                                       <span>
-                                          <i class="fas fa-book"></i>
-                                          30 Lessons
-                                       </span>
-                                       <span>
-                                          <i class="fas fa-users"></i>
-                                          40 Students
-                                       </span>
-                                    </div>
-                                 </div>
-                              </div>
-                           </div>
-                        </div>
-                     </div>
-                     <div class="col-xl-6 col-lg-6 col-md-6">
-                        <div class="it-course-item mb-35">
-                           <div class="row gx-0">
-                              <div class="col-xl-5 col-lg-12 col-md-12 col-sm-5">
-                                 <div class="it-course-thumb z-index-1 border-radius-20">
-                                    <a href="#"><img class="w-100" src="assets/img/course/course-2-4.jpg" alt=""></a>
-                                    <span class="course-category">UG Entrance</span>
-                                    <button class="wishlist-btn">
-                                       <i class="far fa-heart"></i>
-                                    </button>
-                                 </div>
-                              </div>
-                              <div class="col-xl-7 col-lg-12 col-md-12 col-sm-7">
-                                 <div class="it-course-content p-relative">
-                                    <div class="d-flex justify-content-between align-items-center mb-20">
-                                       <div class="it-course-author">
-                                          <img src="assets/img/avatar/avatar-1-5.png" alt="">
-                                          <span>Ayushi</span>
-                                       </div>
+        </div>
+    </section>
+    <!-- about-area-end -->
 
-                                    </div>
-                                    <h5 class="it-course-title mb-20"><a class="border-line" href="#">CLAT Preparation</a></h5>
-                                    <div class="it-course-rating mb-10">
-                                       <div>
-                                          <i class="fa-sharp fa-solid fa-star"></i>
-                                          <i class="fa-sharp fa-solid fa-star"></i>
-                                          <i class="fa-sharp fa-solid fa-star"></i>
-                                          <i class="fa-sharp fa-solid fa-star"></i>
-                                          <i class="fa-sharp fa-regular fa-star"></i>
-                                          <span>(4.7/5 Customer Rating)</span>
-                                       </div>
-                                    </div>
-                                    <div class="it-course-meta d-flex justify-content-between">
-                                       <span>
-                                          <i class="fas fa-book"></i>
-                                          45 Lessons
-                                       </span>
-                                       <span>
-                                          <i class="fas fa-users"></i>
-                                          55 Students
-                                       </span>
-                                    </div>
-                                 </div>
-                              </div>
-                           </div>
+
+    <!-- categories-area-start -->
+    <section class="it-categories-area it-categories-style-2 z-index-1 pt-130 pb-130">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-12">
+                    <div class="it-categories-section-title-box text-center mb-65">
+                        <span class="it-section-subtitle">categories</span>
+                        <h4 class="it-section-title">Master Your MBA Journey <span class="z-index-1">With Expert
+                                Coaching</span> <br> For Top Entrance Exams</h4>
+                    </div>
+                </div>
+            </div>
+            <div class="it-categories-wrap">
+                <div class="row gx-0 row-cols-xxl-4 row-cols-xl-4 row-cols-lg-3 row-cols-md-2 row-cols-sm-2 row-cols-1">
+                    <div class="col">
+                        <div class="it-categories-item item-style-1 text-center custom-icon ">
+                            <span>
+                                <i class="fas fa-chart-line"></i>
+                            </span>
+                            <h6 class="mb-0">CAT (Common Admission Test)</h6>
                         </div>
-                     </div>
-                  </div>
-               </div>
-               <div class="tab-pane fade" id="trending" role="tabpanel" aria-labelledby="trending-tab">
-                  <div class="row gx-35">
-                     <div class="col-xl-6 col-lg-6 col-md-6">
-                        <div class="it-course-item mb-35">
-                           <div class="row gx-0">
-                              <div class="col-xl-5 col-lg-12 col-md-12 col-sm-5">
-                                 <div class="it-course-thumb z-index-1 border-radius-20">
-                                    <a href="#"><img class="w-100" src="assets/img/course/course-2-1.jpg" alt=""></a>
-                                    <span class="course-category">MBA Entrance</span>
-                                    <button class="wishlist-btn">
-                                       <i class="far fa-heart"></i>
+                    </div>
+                    <div class="col">
+                        <div class="it-categories-item item-style-2 text-center custom-icon ">
+                            <span>
+                                <i class="fas fa-university"></i>
+                            </span>
+                            <h6 class="mb-0">CMAT (Common Management Admission Test)</h6>
+                        </div>
+                    </div>
+                    <div class="col">
+                        <div class="it-categories-item item-style-3 text-center custom-icon ">
+                            <span>
+                                <i class="fas fa-user-graduate"></i>
+                            </span>
+                            <h6 class="mb-0">IPMAT (Integrated Program in Management Aptitude Test)</h6>
+                        </div>
+                    </div>
+                    <div class="col">
+                        <div class="it-categories-item item-style-4 text-center custom-icon ">
+                            <span>
+                                <i class="fas fa-book-open"></i>
+                            </span>
+                            <h6 class="mb-0">CUET (Common University Entrance Test)</h6>
+                        </div>
+                    </div>
+                    <div class="col">
+                        <div class="it-categories-item item-style-5 text-center custom-icon ">
+                            <span>
+                                <i class="fas fa-calculator"></i>
+                            </span>
+                            <h6 class="mb-0">Quantitative Aptitude</h6>
+                        </div>
+                    </div>
+                    <div class="col">
+                        <div class="it-categories-item item-style-6 text-center custom-icon ">
+                            <span>
+                                <i class="fas fa-book-reader"></i>
+                            </span>
+                            <h6 class="mb-0">Verbal Ability & Reading Comprehension</h6>
+                        </div>
+                    </div>
+                    <div class="col">
+                        <div class="it-categories-item item-style-7 text-center custom-icon ">
+                            <span>
+                                <i class="fas fa-brain"></i>
+                            </span>
+                            <h6 class="mb-0">Data Interpretation & Logical Reasoning</h6>
+                        </div>
+                    </div>
+                    <div class="col">
+                        <div class="it-categories-item item-style-8 text-center custom-icon ">
+                            <span>
+                                <i class="fas fa-clipboard-check"></i>
+                            </span>
+                            <h6 class="mb-0">Mock Test Series & Analysis</h6>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- categories-area-end -->
+
+
+    <!-- course-area-start -->
+    <section class="it-course-area it-course-style-2 z-index-1 gray-bg pt-130 pb-130">
+        <div class="container">
+            <div class="mb-65">
+                <div class="row align-items-center">
+                    <div class="col-xl-5 col-lg-6">
+                        <div class="it-course-section-title-box">
+                            <span class="it-section-subtitle">course</span>
+                            <h4 class="it-section-title">Highly Rated
+                                <span class="z-index-1">
+                                    Learning
+
+                                </span>
+                                <br>
+                                Programs Today
+                            </h4>
+                        </div>
+                    </div>
+                    <div class="col-xl-7 col-lg-6">
+                        <div class="it-course-tab-btn mt-45">
+                            <ul class="nav nav-tab justify-content-lg-end" id="myTab" role="tablist">
+                                <li class="nav-item" role="presentation">
+                                    <button class="nav-link active" id="all-tab" data-bs-toggle="tab"
+                                        data-bs-target="#all" type="button" role="tab" aria-controls="all"
+                                        aria-selected="true">
+                                        All Courses
+                                        <span>
+                                            <svg width="123" height="9" viewBox="0 0 123 9" fill="none"
+                                                xmlns="http://www.w3.org/2000/svg">
+                                                <path
+                                                    d="M2.09002 0.500314C2.7682 0.384879 3.66028 0.481577 4.34058 0.623294C4.55365 0.667213 4.44966 0.880993 4.5969 0.920856C4.88485 0.998549 5.15009 0.890162 5.43482 0.983677C5.5292 1.01571 5.41796 1.35345 5.51679 1.37935C6.05851 1.51885 6.56613 1.4249 7.11434 1.48724C9.80953 1.79499 12.4593 1.87731 15.1823 1.98539C16.0834 2.02069 17.179 2.30745 18.1031 2.15888C18.2114 2.14123 18.1418 1.84754 18.1621 1.8229C18.4797 1.44564 18.3819 2.04248 18.5945 2.11805C19.4391 2.41636 20.366 2.42822 21.172 2.30114C21.5147 2.24621 21.1607 1.66643 21.5118 1.98934C21.5362 2.01115 21.4543 2.3256 21.549 2.35743C21.7638 2.429 22.1675 2.36637 22.333 2.38845C22.6521 2.43258 22.7046 2.42857 23.0053 2.42718C23.4154 2.42802 23.9093 2.57551 24.3507 2.49729C24.4449 2.47967 24.3146 2.16085 24.4643 2.10377C24.6142 2.04677 25.0129 2.06741 25.1483 2.14084C25.2837 2.21431 25.2307 2.46745 25.2554 2.52487C25.4589 3.00957 25.9073 2.32623 25.9661 2.30854C27.0416 2.00599 27.979 2.37561 28.9882 2.3579C29.7609 2.34353 30.5836 2.20287 31.3139 2.20829C32.1836 2.21599 32.9343 2.37757 33.7782 2.33381C33.8674 2.32956 33.7566 1.954 33.8655 1.94804C35.023 1.88511 36.1829 1.9072 37.3394 2.14298C37.4563 2.16694 37.3116 2.50065 37.4287 2.5444C38.1467 2.80491 39.2773 3.44049 39.6716 1.99143C40.1553 2.03983 40.7421 2.08842 41.176 2.37211C41.4559 2.55469 41.1931 2.91994 41.5303 2.7604C41.6063 2.72484 41.5016 2.41045 41.6159 2.38102C42.0957 2.25744 42.6286 2.35147 43.1077 2.18031C43.2049 2.14475 43.1736 1.86202 43.2004 1.81058C43.4266 1.39381 43.8243 2.07013 43.9091 2.11836C44.5551 2.4778 45.0192 2.32461 45.6215 2.3238C45.7607 2.32379 45.59 1.94612 45.7237 1.93244C46.4197 1.86654 47.1239 1.88774 47.8129 2.04532C47.9651 2.08131 47.831 2.40758 47.904 2.44135C48.2257 2.58632 48.2864 1.97323 48.5936 2.10047C48.6583 2.12651 48.6266 2.40447 48.6388 2.43474C48.8301 2.90993 48.978 2.22979 49.0248 2.21406C49.6154 1.99999 50.0074 2.70112 50.5865 2.59151C50.6555 2.57769 50.4937 2.22928 50.6881 2.21188C51.9738 2.09404 53.3546 2.16804 54.6248 2.42822C54.8255 2.46815 54.687 2.7341 54.7 2.7664C54.9143 3.27086 55.0361 2.58831 55.1009 2.56163C55.6129 2.36884 56.0991 2.9317 56.4314 2.11571C58.6105 2.36174 60.7404 1.87217 62.9129 2.5635C62.9402 2.57148 62.8968 2.90735 62.9513 2.92182C63.608 3.09948 63.4656 2.58083 63.897 1.9368C64.0052 1.77508 64.3524 2.53873 64.3827 2.59462C64.4937 2.80062 64.39 3.30094 64.4267 3.34059C64.7297 3.65172 64.6553 2.0038 65.0547 1.99688C65.0672 1.99943 65.0197 2.30373 65.0536 2.33336C65.1592 2.42643 65.2602 2.3042 65.3632 2.40704C65.5999 2.64503 65.6901 3.4449 66.0468 2.97284C66.0914 2.9116 66.0073 1.9775 66.3685 2.01593C66.5132 2.03203 67.1441 2.00593 67.3198 2.06375C67.496 2.1215 67.3805 2.42478 67.3932 2.43763C67.8715 2.82862 67.6911 2.9967 67.943 3.58283C68.1942 4.16674 68.1047 2.76594 68.2006 2.60791C68.2968 2.45031 68.6532 2.77353 68.7406 2.88647C68.8283 2.99946 68.7243 3.19266 68.8016 3.25615C69.3131 3.67092 69.012 2.5568 69.1744 2.33166C69.5555 1.79865 69.8745 2.83349 70.2421 2.92956C70.3408 2.95552 70.2569 2.72001 70.3439 2.69648C70.688 2.60645 70.8997 2.92758 71.2819 2.62403C71.3464 2.57453 71.6399 1.94469 71.8598 2.40005C71.8902 2.46573 71.8109 2.72612 71.9602 2.78181C72.1834 2.86541 72.5801 2.91581 72.8123 2.82554C72.9839 2.75875 72.7796 2.33496 72.9985 2.46417C73.0956 2.52188 72.9213 2.77441 73.1033 2.86199C73.2825 2.94958 73.7448 2.93136 73.9256 2.9199C74.1035 2.9083 74.0009 2.58601 74.015 2.56397C74.1003 2.43763 74.4369 2.27619 74.4664 2.27611C75.8836 2.21634 77.2483 2.68771 78.6123 2.55886C78.6848 2.55226 78.7572 2.5441 78.8295 2.53424C78.9465 2.51874 78.8632 2.17846 78.881 2.17257C79.2784 2.02338 78.9778 2.9361 79.26 3.23574C79.2092 2.5434 79.3756 2.66636 79.6496 2.58616C79.7814 2.54696 79.7052 2.27974 79.7169 2.25209C79.9067 1.84156 80.0492 2.36591 80.0856 2.47307C80.2194 2.86724 80.3635 2.3969 80.4571 2.66032C80.5518 2.92173 80.3493 3.31448 80.6189 3.3054C80.6905 3.0562 80.4812 2.41099 80.6836 2.30284C81.4367 1.89392 82.8567 2.38142 83.4848 2.42505C84.1005 2.4688 84.281 2.42041 84.6511 2.5047C85.3005 2.65744 85.0561 2.17992 85.4455 1.95415C85.8477 1.72824 85.6684 2.91442 85.7302 3.16798C85.7915 3.42144 85.8505 3.15879 85.9236 3.29757C85.9963 3.43632 85.8457 3.61146 86.0127 3.66158C86.1809 3.71163 86.618 3.25303 86.6698 2.98627C86.7886 2.42097 86.5742 1.83237 87.0214 2.03403C87.047 2.04601 86.9689 2.35831 87.0665 2.38842C87.827 2.61751 88.616 2.62176 89.3939 2.82372C89.498 2.85202 89.4098 3.19936 89.4703 3.21975C90.0985 3.43325 89.8784 2.85227 90.2165 2.1996C90.1519 3.06341 90.339 3.58903 90.8286 3.58832C91.1223 3.58823 91.0666 3.21197 91.2491 2.94422C91.3036 2.86351 91.5061 3.12002 91.5458 2.94233C91.6634 2.3616 91.4654 1.7151 91.9655 1.96794C91.9872 1.97998 91.922 2.29785 91.9967 2.31626C92.4775 2.43691 92.5418 1.83015 93.0643 1.7518C93.4821 1.69023 94.2128 2.05381 94.6896 2.11119C94.6787 3.08142 95.1365 2.8567 95.3042 2.18718C95.6175 2.21329 95.9471 2.17472 96.2385 2.26723C96.3381 2.29878 96.2727 2.57966 96.2851 2.61002C96.4892 3.08622 96.6177 2.4358 96.6819 2.41046C97.4097 2.16514 97.9799 2.6629 98.6866 2.20214C98.7127 2.18568 98.7706 1.51285 98.9453 2.01187C98.9552 2.04626 98.7158 2.34367 99.0393 2.38022C99.2255 2.4014 99.4976 2.53699 99.7806 2.60261C99.9942 2.65244 100.218 2.65947 100.422 2.53862C100.534 2.47138 100.849 1.94609 101.037 2.38917C101.061 2.44926 101.015 2.63956 101.048 2.75C101.157 3.10202 101.286 2.42881 101.399 3.01807C101.514 3.60745 101.81 4.06542 102.29 3.70323C102.305 3.69279 102.453 3.16303 102.594 3.18288C102.817 3.21482 103.128 3.35252 103.363 3.36767C103.475 3.3747 103.43 3.0348 103.45 3.03023C104.221 2.90282 104.733 3.24268 105.534 3.4312C105.68 3.46642 106.139 3.04084 106.401 3.42084C106.69 3.83679 106.254 5.4579 107.013 5.11424C107.321 4.97669 107.815 2.91549 108.279 4.02494C109.316 3.81394 110.239 4.40934 111.281 4.05793C111.325 4.04322 111.473 3.5251 111.58 3.47818C111.587 3.4755 111.593 3.47437 111.599 3.47497C111.764 3.49258 111.841 3.76802 111.955 3.7905C112.433 3.89204 112.889 3.68838 113.353 3.7677C113.529 3.79769 113.438 4.07146 113.646 4.10895C113.848 4.14638 114.035 3.79414 114.296 4.00948C114.494 4.17395 114.59 4.95393 114.844 5.08556C114.976 4.34996 115.164 4.39497 115.542 4.26646C115.615 4.24152 115.593 3.9723 115.631 3.94744C115.787 3.84108 115.862 4.07624 116.013 3.95878C116.05 3.93062 116.104 3.68107 116.137 3.64405C116.427 3.32056 116.645 3.96028 116.676 4.07062C116.81 4.49242 116.988 4.19439 117.121 4.3811C117.253 4.56763 116.957 4.68708 117.131 4.82369C117.487 5.10321 118.017 5.20102 118.462 5.27787L118.431 5.27202C118.433 5.2725 118.435 5.27299 118.437 5.27348C118.596 5.31496 118.568 4.95758 118.592 4.9558C118.957 4.95526 119.186 5.40001 119.573 4.80891C119.278 6.55728 119.827 4.70569 120.201 5.2088C120.23 5.24953 119.991 6.04545 119.815 6.11235C119.641 6.17981 119.516 5.86359 119.268 5.98544C119.207 6.01228 118.734 6.68302 118.692 6.7205C118.338 7.00322 118.618 5.79647 118.618 5.72573C118.626 5.39059 118.521 5.34714 118.399 5.40833L118.441 5.41647C118.279 5.50377 118.085 5.74468 118.024 5.76538C117.514 5.93265 117.205 5.66981 116.823 5.77163C116.575 5.83665 116.362 6.62114 116.204 6.55753C115.687 6.35143 115.716 5.19808 115.017 6.06667C114.87 6.25357 114.825 7.14545 114.563 6.3932C114.547 6.34562 114.354 5.66837 114.127 6.0454C114.099 6.09292 114.064 6.3494 114.034 6.36718C113.834 6.48211 113.738 6.26213 113.524 6.33738C113.314 6.41318 113.058 6.53606 112.838 6.43033C112.703 6.36651 112.56 5.87328 112.496 5.75093C112.324 5.39888 112.084 5.94516 111.984 5.52858C111.876 5.10981 112.152 4.4916 111.827 4.21118C111.79 4.88277 111.738 5.5716 111.696 6.24688C111.633 6.24254 111.57 6.23674 111.505 6.22986C110.813 6.16041 110.137 5.95843 109.443 5.95369C109.349 5.95369 109.429 6.31931 109.327 6.32858C108.894 6.36582 108.533 6.08915 108.084 6.1668C107.735 6.22817 107.338 6.58779 106.971 6.6611C106.801 5.87938 106.253 6.1051 105.873 6.00776C105.74 5.97406 105.764 5.7697 105.673 5.69601C105.329 5.42279 105.45 6.11316 105.343 6.21276C104.884 6.63715 104.962 5.09954 104.462 5.09965C104.435 5.09917 104.05 5.89239 104.001 5.9398C103.694 6.25 103.977 5.65148 103.805 5.57728C103.491 5.44152 103.285 5.22862 102.888 5.43804C102.774 5.50032 102.469 5.98897 102.287 5.57764C102.263 5.52377 102.301 5.25468 102.279 5.23705C101.893 4.94061 101.816 5.78933 101.56 6.05855C101.307 6.32789 100.995 5.71366 100.935 5.53906C100.779 5.08719 101.095 5.36338 101.11 5.32138C101.271 4.82017 101.001 4.88761 100.807 4.82941C100.84 3.99401 100.558 4.02306 100.603 4.77241C100.608 4.85426 100.769 4.78825 100.807 4.82941C100.568 5.63337 100.261 5.71545 99.9784 4.92752C99.862 4.5977 99.9885 4.23688 99.6696 4.2499C99.6328 4.25155 99.5898 4.25855 99.5391 4.27165C99.3254 4.32789 99.3694 4.90676 99.1832 5.05385C98.7584 5.3896 98.2318 4.83906 97.7791 4.91737C97.6133 4.94576 97.7674 5.26281 97.659 5.2932C97.3668 5.37494 97.1038 5.13677 96.8105 5.25662C96.783 5.26788 96.8489 5.59777 96.7545 5.60162C96.0504 5.63765 95.4394 5.42865 94.6973 5.42711C94.3434 5.42644 93.6876 5.61335 93.3299 5.58008C92.6791 5.52445 91.8913 5.05345 91.3335 5.1763C90.9804 5.2549 91.0601 5.58374 90.9079 5.81019C90.5985 6.24929 90.0884 5.4755 90.007 5.35573C90.0056 5.35175 90.3155 5.27019 90.1476 5.103C90.0467 4.75155 90.0105 5.35416 90.007 5.35573C89.9521 5.27836 89.3438 5.21119 89.2192 5.27586C89.1525 5.31117 89.1941 5.62305 89.1592 5.63555C88.3301 5.92586 87.5177 6.01629 86.6599 5.88219C86.6454 5.87608 86.6622 5.52638 86.6282 5.51638C86.1541 5.36764 85.8336 5.79969 85.4383 6.05915C85.0505 6.3184 84.7277 6.23811 84.4763 5.64184C84.1687 5.72184 83.7475 5.46279 83.4895 5.30566C83.2347 5.14848 83.208 5.82914 83.1859 5.84291C82.5146 6.28328 82.103 5.90006 81.3947 5.85012C81.0674 5.82506 80.3782 5.93417 80.02 6.01401C79.7371 6.07824 79.5614 5.92151 79.2953 6.02751C79.2592 6.04168 79.3005 6.34393 79.2896 6.35576C78.9951 6.72265 79.1278 5.98017 79.0637 5.8489C78.9197 5.55402 78.8092 5.34441 78.6541 5.282C78.5628 5.24331 78.4553 5.26096 78.313 5.34962C78.2273 5.40275 77.9898 6.47256 77.83 6.53737C77.6222 6.61969 77.6955 6.2364 77.4766 6.33235C77.4578 6.34021 77.4656 6.57585 77.3288 6.56757C76.6957 6.5322 76.033 6.4053 75.3652 6.43934C75.2775 6.44303 75.3954 6.81514 75.2697 6.82661C74.6827 6.88009 74.0108 6.87676 73.4218 6.71097C73.2791 6.66895 73.364 6.40578 73.3319 6.32854C73.1352 5.86123 72.8748 6.5488 72.83 6.56253C71.75 6.90795 70.9431 6.30215 69.8338 6.61422C69.7759 6.63242 69.3352 7.37211 69.1211 6.74711C69.1066 6.70554 68.895 6.06599 68.7226 6.5083C68.7119 6.53597 68.8436 6.86485 68.6224 6.83463C68.4025 6.80447 68.0431 7.03121 67.7374 6.67242C67.6411 6.55939 67.4077 5.92179 67.1315 6.43741C67.1139 6.47338 66.6922 7.63606 66.5209 6.84124C66.493 6.7104 66.5071 5.86619 66.1701 6.3043C66.1057 6.38922 66.2282 6.57551 66.0566 6.6958C65.7887 6.88126 65.4485 6.66065 65.1313 7.04169C65.0763 7.10913 64.8465 7.68566 64.6467 7.25406C64.6154 7.18647 64.6683 6.90386 64.566 6.87396C64.0785 6.73051 63.5695 6.92715 63.0826 6.74001C62.9086 6.6743 62.9898 6.21749 62.8072 6.09836C62.6247 5.97926 62.2571 5.86778 62.0694 6.07896C61.8817 6.29022 62.1023 7.01265 61.8166 7.07534C60.5946 7.34729 59.3491 6.9415 58.1256 6.89898C57.9424 6.89263 58.0986 7.14988 57.8283 7.15918C56.8237 7.19474 55.1225 7.46587 54.2507 6.92803C53.5561 6.49719 54.416 6.14664 53.8874 5.97531C53.6322 5.89363 53.3699 6.74191 53.3087 6.76947C52.7113 7.04909 52.2814 6.6822 51.7486 6.80557C51.6379 6.83118 51.7524 7.1714 51.6581 7.18942C51.3358 7.25398 50.9923 7.10688 50.6814 7.13987C50.542 7.15546 50.572 7.41624 50.443 7.39818C50.1341 7.35797 49.8587 7.25262 49.5595 7.01261C49.5321 6.99075 49.7092 6.66284 49.4838 6.65443C49.1188 6.64173 48.6604 6.40763 48.241 6.66394C48.1166 6.74102 48.1215 7.33808 47.8441 6.93021C47.7859 6.84503 47.8469 6.127 47.5411 6.75154C47.4873 6.85537 46.9804 7.6993 46.7132 7.16501C46.6429 7.02438 46.4597 6.44062 46.3108 6.53526C46.2906 6.55031 46.3776 6.86963 46.2534 6.90295C45.8157 7.01478 45.3516 6.98814 44.899 7.096C44.7796 7.12541 44.9635 7.45431 44.7854 7.48755C44.2958 7.57945 43.6781 7.50504 43.1914 7.40912C43.0119 7.37312 43.131 7.09623 43.1175 7.06653C42.9003 6.58342 42.787 7.24216 42.718 7.28159C42.2857 7.51802 41.9604 7.21478 41.5645 7.30292C41.4556 7.3264 41.5382 7.63826 41.5169 7.66654C41.2957 7.94304 41.4546 7.37795 41.3107 7.3183C40.9073 7.14935 40.4598 7.18185 40.0527 7.22855C39.9031 7.24616 40.0774 7.60648 39.9431 7.61809C39.1549 7.69359 38.3354 7.67228 37.5558 7.48486C37.4091 7.44891 37.4965 7.16782 37.465 7.10446C37.2468 6.66116 36.9523 7.27554 36.8832 7.33474C36.5688 7.60502 36.4406 7.35982 36.1591 7.4106C34.7776 7.66311 33.0768 7.52727 31.7643 7.44767C30.0694 7.34531 28.7411 7.10113 27.1228 7.19687C27.0197 7.20261 27.1299 7.57283 27.0411 7.58255C25.892 7.69116 24.7694 7.56429 23.6169 7.69074C23.5231 7.70045 23.6643 8.0508 23.514 8.07823C23.2056 8.13696 22.813 8.12427 22.4975 8.01686C22.3437 7.96513 22.5439 7.6592 22.3891 7.61332C22.0287 7.5058 21.6435 7.48703 21.2752 7.54965C21.1185 7.57706 21.3616 7.93376 21.1574 7.94129C19.7729 7.99991 18.4043 8.08462 16.9985 7.64073C16.9018 7.61025 16.8054 6.87874 16.6033 7.02266C16.5912 7.22632 16.596 7.46556 16.5929 7.68308C14.5715 7.83359 12.5692 7.61252 10.5428 7.60671C10.4573 7.60655 10.6114 7.99243 10.4459 7.9941C9.48671 8.00421 8.56141 8.1271 7.57501 7.75732C7.47718 7.72118 7.51578 7.03719 7.231 7.14525C7.18086 7.16494 6.75054 7.26318 6.64174 7.41332C6.62698 7.43594 6.71087 7.75352 6.57217 7.7651C5.76602 7.82686 4.91855 7.76805 4.10886 7.58655C3.97817 7.55665 4.11117 7.21478 4.01803 7.19054C3.35778 7.02114 2.64729 7.29109 2.01405 6.99316C1.59018 6.79251 1.73614 6.20296 1.50317 5.62886C1.47022 5.54787 1.20965 5.53925 1.19063 5.20331C1.14209 4.35855 1.2529 3.43084 1.18626 2.53066C1.17212 2.33676 0.826889 2.55156 1.02558 2.07915C1.03949 2.04752 1.28971 1.88769 1.34935 1.72756C1.39088 1.61685 1.30711 1.27626 1.39323 1.13398C1.47935 0.991846 1.58127 1.27682 1.72516 1.10896C1.86896 0.939057 1.79809 0.551192 2.09002 0.500314ZM82.355 4.60317C82.1184 4.28001 82.1018 5.47677 82.3485 5.18682C82.3603 5.17139 82.3672 4.61901 82.355 4.60317ZM110.249 5.05497C109.964 4.51566 109.723 5.28164 109.922 5.69802C110.122 6.11387 110.336 5.21843 110.249 5.05497ZM113.348 4.8222C113.04 4.37571 112.851 6.06256 113.23 5.75263C113.251 5.73523 113.365 4.84814 113.348 4.8222ZM2.53651 5.44721C2.53305 5.43138 2.34566 5.41899 2.34145 5.43481C2.24808 5.81637 2.62279 5.84088 2.53651 5.44721ZM116.399 4.90247C116.343 4.65329 115.979 4.84413 116.05 5.15208C116.104 5.39885 116.464 5.21076 116.399 4.90247ZM70.2612 3.51332C70.2573 3.49555 70.1214 3.48165 70.1257 3.58237C70.1402 3.90675 70.3272 3.81218 70.2612 3.51332ZM121.483 6.3383C120.588 6.04304 120.915 4.57941 121.456 4.97894C121.569 5.0481 121.053 5.31036 121.163 5.48413C121.422 5.81857 121.827 5.00239 122.074 5.5249C122.129 5.62357 121.541 6.36164 121.481 6.33988C121.481 6.33935 121.482 6.33882 121.483 6.3383ZM82.2001 3.16831C82.1954 3.15256 82.0078 3.14036 82.0033 3.15611C81.9075 3.53741 82.2855 3.5622 82.2001 3.16831ZM62.4217 2.89858C62.4112 2.86503 61.9777 2.84047 61.9638 2.87176C61.7478 3.49641 62.6245 3.54791 62.4217 2.89858ZM94.697 2.13702C94.8916 1.75374 95.1486 1.70748 95.3033 2.1867C95.1112 2.162 94.8932 2.15936 94.697 2.13702Z"
+                                                    fill="currentcolor" />
+                                            </svg>
+                                        </span>
                                     </button>
-                                 </div>
-                              </div>
-                              <div class="col-xl-7 col-lg-12 col-md-12 col-sm-7">
-                                 <div class="it-course-content p-relative">
-                                    <div class="d-flex justify-content-between align-items-center mb-20">
-                                       <div class="it-course-author">
-                                          <img src="assets/img/avatar/avatar-1-1.jpg" alt="">
-                                          <span>anjali</span>
-                                       </div>
-                                       <!-- Price removed as requested -->
-                                    </div>
-                                    <h5 class="it-course-title mb-20"><a class="border-line" href="#">CAT Preparation</a></h5>
-                                    <div class="it-course-rating mb-10">
-                                       <div>
-                                          <i class="fa-sharp fa-solid fa-star"></i>
-                                          <i class="fa-sharp fa-solid fa-star"></i>
-                                          <i class="fa-sharp fa-solid fa-star"></i>
-                                          <i class="fa-sharp fa-solid fa-star"></i>
-                                          <i class="fa-sharp fa-regular fa-star"></i>
-                                          <span>(4.7/5 Customer Rating)</span>
-                                       </div>
-                                    </div>
-                                    <div class="it-course-meta d-flex justify-content-between">
-                                       <span>
-                                          <i class="fas fa-book"></i>
-                                          40 Lessons
-                                       </span>
-                                       <span>
-                                          <i class="fas fa-users"></i>
-                                          50 Students
-                                       </span>
-                                    </div>
-                                 </div>
-                              </div>
-                           </div>
-                        </div>
-                     </div>
-                     <div class="col-xl-6 col-lg-6 col-md-6">
-                        <div class="it-course-item mb-35">
-                           <div class="row gx-0">
-                              <div class="col-xl-5 col-lg-12 col-md-12 col-sm-5">
-                                 <div class="it-course-thumb z-index-1 border-radius-20">
-                                    <a href="#"><img class="w-100" src="assets/img/course/course-2-2.jpg" alt=""></a>
-                                    <span class="course-category">MBA Entrance</span>
-                                    <button class="wishlist-btn">
-                                       <i class="far fa-heart"></i>
+                                </li>
+                                <li class="nav-item" role="presentation">
+                                    <button class="nav-link" id="trending-tab" data-bs-toggle="tab"
+                                        data-bs-target="#trending" type="button" role="tab" aria-controls="trending"
+                                        aria-selected="false">
+                                        Trending
+                                        <span>
+                                            <svg width="123" height="9" viewBox="0 0 123 9" fill="none"
+                                                xmlns="http://www.w3.org/2000/svg">
+                                                <path
+                                                    d="M2.09002 0.500314C2.7682 0.384879 3.66028 0.481577 4.34058 0.623294C4.55365 0.667213 4.44966 0.880993 4.5969 0.920856C4.88485 0.998549 5.15009 0.890162 5.43482 0.983677C5.5292 1.01571 5.41796 1.35345 5.51679 1.37935C6.05851 1.51885 6.56613 1.4249 7.11434 1.48724C9.80953 1.79499 12.4593 1.87731 15.1823 1.98539C16.0834 2.02069 17.179 2.30745 18.1031 2.15888C18.2114 2.14123 18.1418 1.84754 18.1621 1.8229C18.4797 1.44564 18.3819 2.04248 18.5945 2.11805C19.4391 2.41636 20.366 2.42822 21.172 2.30114C21.5147 2.24621 21.1607 1.66643 21.5118 1.98934C21.5362 2.01115 21.4543 2.3256 21.549 2.35743C21.7638 2.429 22.1675 2.36637 22.333 2.38845C22.6521 2.43258 22.7046 2.42857 23.0053 2.42718C23.4154 2.42802 23.9093 2.57551 24.3507 2.49729C24.4449 2.47967 24.3146 2.16085 24.4643 2.10377C24.6142 2.04677 25.0129 2.06741 25.1483 2.14084C25.2837 2.21431 25.2307 2.46745 25.2554 2.52487C25.4589 3.00957 25.9073 2.32623 25.9661 2.30854C27.0416 2.00599 27.979 2.37561 28.9882 2.3579C29.7609 2.34353 30.5836 2.20287 31.3139 2.20829C32.1836 2.21599 32.9343 2.37757 33.7782 2.33381C33.8674 2.32956 33.7566 1.954 33.8655 1.94804C35.023 1.88511 36.1829 1.9072 37.3394 2.14298C37.4563 2.16694 37.3116 2.50065 37.4287 2.5444C38.1467 2.80491 39.2773 3.44049 39.6716 1.99143C40.1553 2.03983 40.7421 2.08842 41.176 2.37211C41.4559 2.55469 41.1931 2.91994 41.5303 2.7604C41.6063 2.72484 41.5016 2.41045 41.6159 2.38102C42.0957 2.25744 42.6286 2.35147 43.1077 2.18031C43.2049 2.14475 43.1736 1.86202 43.2004 1.81058C43.4266 1.39381 43.8243 2.07013 43.9091 2.11836C44.5551 2.4778 45.0192 2.32461 45.6215 2.3238C45.7607 2.32379 45.59 1.94612 45.7237 1.93244C46.4197 1.86654 47.1239 1.88774 47.8129 2.04532C47.9651 2.08131 47.831 2.40758 47.904 2.44135C48.2257 2.58632 48.2864 1.97323 48.5936 2.10047C48.6583 2.12651 48.6266 2.40447 48.6388 2.43474C48.8301 2.90993 48.978 2.22979 49.0248 2.21406C49.6154 1.99999 50.0074 2.70112 50.5865 2.59151C50.6555 2.57769 50.4937 2.22928 50.6881 2.21188C51.9738 2.09404 53.3546 2.16804 54.6248 2.42822C54.8255 2.46815 54.687 2.7341 54.7 2.7664C54.9143 3.27086 55.0361 2.58831 55.1009 2.56163C55.6129 2.36884 56.0991 2.9317 56.4314 2.11571C58.6105 2.36174 60.7404 1.87217 62.9129 2.5635C62.9402 2.57148 62.8968 2.90735 62.9513 2.92182C63.608 3.09948 63.4656 2.58083 63.897 1.9368C64.0052 1.77508 64.3524 2.53873 64.3827 2.59462C64.4937 2.80062 64.39 3.30094 64.4267 3.34059C64.7297 3.65172 64.6553 2.0038 65.0547 1.99688C65.0672 1.99943 65.0197 2.30373 65.0536 2.33336C65.1592 2.42643 65.2602 2.3042 65.3632 2.40704C65.5999 2.64503 65.6901 3.4449 66.0468 2.97284C66.0914 2.9116 66.0073 1.9775 66.3685 2.01593C66.5132 2.03203 67.1441 2.00593 67.3198 2.06375C67.496 2.1215 67.3805 2.42478 67.3932 2.43763C67.8715 2.82862 67.6911 2.9967 67.943 3.58283C68.1942 4.16674 68.1047 2.76594 68.2006 2.60791C68.2968 2.45031 68.6532 2.77353 68.7406 2.88647C68.8283 2.99946 68.7243 3.19266 68.8016 3.25615C69.3131 3.67092 69.012 2.5568 69.1744 2.33166C69.5555 1.79865 69.8745 2.83349 70.2421 2.92956C70.3408 2.95552 70.2569 2.72001 70.3439 2.69648C70.688 2.60645 70.8997 2.92758 71.2819 2.62403C71.3464 2.57453 71.6399 1.94469 71.8598 2.40005C71.8902 2.46573 71.8109 2.72612 71.9602 2.78181C72.1834 2.86541 72.5801 2.91581 72.8123 2.82554C72.9839 2.75875 72.7796 2.33496 72.9985 2.46417C73.0956 2.52188 72.9213 2.77441 73.1033 2.86199C73.2825 2.94958 73.7448 2.93136 73.9256 2.9199C74.1035 2.9083 74.0009 2.58601 74.015 2.56397C74.1003 2.43763 74.4369 2.27619 74.4664 2.27611C75.8836 2.21634 77.2483 2.68771 78.6123 2.55886C78.6848 2.55226 78.7572 2.5441 78.8295 2.53424C78.9465 2.51874 78.8632 2.17846 78.881 2.17257C79.2784 2.02338 78.9778 2.9361 79.26 3.23574C79.2092 2.5434 79.3756 2.66636 79.6496 2.58616C79.7814 2.54696 79.7052 2.27974 79.7169 2.25209C79.9067 1.84156 80.0492 2.36591 80.0856 2.47307C80.2194 2.86724 80.3635 2.3969 80.4571 2.66032C80.5518 2.92173 80.3493 3.31448 80.6189 3.3054C80.6905 3.0562 80.4812 2.41099 80.6836 2.30284C81.4367 1.89392 82.8567 2.38142 83.4848 2.42505C84.1005 2.4688 84.281 2.42041 84.6511 2.5047C85.3005 2.65744 85.0561 2.17992 85.4455 1.95415C85.8477 1.72824 85.6684 2.91442 85.7302 3.16798C85.7915 3.42144 85.8505 3.15879 85.9236 3.29757C85.9963 3.43632 85.8457 3.61146 86.0127 3.66158C86.1809 3.71163 86.618 3.25303 86.6698 2.98627C86.7886 2.42097 86.5742 1.83237 87.0214 2.03403C87.047 2.04601 86.9689 2.35831 87.0665 2.38842C87.827 2.61751 88.616 2.62176 89.3939 2.82372C89.498 2.85202 89.4098 3.19936 89.4703 3.21975C90.0985 3.43325 89.8784 2.85227 90.2165 2.1996C90.1519 3.06341 90.339 3.58903 90.8286 3.58832C91.1223 3.58823 91.0666 3.21197 91.2491 2.94422C91.3036 2.86351 91.5061 3.12002 91.5458 2.94233C91.6634 2.3616 91.4654 1.7151 91.9655 1.96794C91.9872 1.97998 91.922 2.29785 91.9967 2.31626C92.4775 2.43691 92.5418 1.83015 93.0643 1.7518C93.4821 1.69023 94.2128 2.05381 94.6896 2.11119C94.6787 3.08142 95.1365 2.8567 95.3042 2.18718C95.6175 2.21329 95.9471 2.17472 96.2385 2.26723C96.3381 2.29878 96.2727 2.57966 96.2851 2.61002C96.4892 3.08622 96.6177 2.4358 96.6819 2.41046C97.4097 2.16514 97.9799 2.6629 98.6866 2.20214C98.7127 2.18568 98.7706 1.51285 98.9453 2.01187C98.9552 2.04626 98.7158 2.34367 99.0393 2.38022C99.2255 2.4014 99.4976 2.53699 99.7806 2.60261C99.9942 2.65244 100.218 2.65947 100.422 2.53862C100.534 2.47138 100.849 1.94609 101.037 2.38917C101.061 2.44926 101.015 2.63956 101.048 2.75C101.157 3.10202 101.286 2.42881 101.399 3.01807C101.514 3.60745 101.81 4.06542 102.29 3.70323C102.305 3.69279 102.453 3.16303 102.594 3.18288C102.817 3.21482 103.128 3.35252 103.363 3.36767C103.475 3.3747 103.43 3.0348 103.45 3.03023C104.221 2.90282 104.733 3.24268 105.534 3.4312C105.68 3.46642 106.139 3.04084 106.401 3.42084C106.69 3.83679 106.254 5.4579 107.013 5.11424C107.321 4.97669 107.815 2.91549 108.279 4.02494C109.316 3.81394 110.239 4.40934 111.281 4.05793C111.325 4.04322 111.473 3.5251 111.58 3.47818C111.587 3.4755 111.593 3.47437 111.599 3.47497C111.764 3.49258 111.841 3.76802 111.955 3.7905C112.433 3.89204 112.889 3.68838 113.353 3.7677C113.529 3.79769 113.438 4.07146 113.646 4.10895C113.848 4.14638 114.035 3.79414 114.296 4.00948C114.494 4.17395 114.59 4.95393 114.844 5.08556C114.976 4.34996 115.164 4.39497 115.542 4.26646C115.615 4.24152 115.593 3.9723 115.631 3.94744C115.787 3.84108 115.862 4.07624 116.013 3.95878C116.05 3.93062 116.104 3.68107 116.137 3.64405C116.427 3.32056 116.645 3.96028 116.676 4.07062C116.81 4.49242 116.988 4.19439 117.121 4.3811C117.253 4.56763 116.957 4.68708 117.131 4.82369C117.487 5.10321 118.017 5.20102 118.462 5.27787L118.431 5.27202C118.433 5.2725 118.435 5.27299 118.437 5.27348C118.596 5.31496 118.568 4.95758 118.592 4.9558C118.957 4.95526 119.186 5.40001 119.573 4.80891C119.278 6.55728 119.827 4.70569 120.201 5.2088C120.23 5.24953 119.991 6.04545 119.815 6.11235C119.641 6.17981 119.516 5.86359 119.268 5.98544C119.207 6.01228 118.734 6.68302 118.692 6.7205C118.338 7.00322 118.618 5.79647 118.618 5.72573C118.626 5.39059 118.521 5.34714 118.399 5.40833L118.441 5.41647C118.279 5.50377 118.085 5.74468 118.024 5.76538C117.514 5.93265 117.205 5.66981 116.823 5.77163C116.575 5.83665 116.362 6.62114 116.204 6.55753C115.687 6.35143 115.716 5.19808 115.017 6.06667C114.87 6.25357 114.825 7.14545 114.563 6.3932C114.547 6.34562 114.354 5.66837 114.127 6.0454C114.099 6.09292 114.064 6.3494 114.034 6.36718C113.834 6.48211 113.738 6.26213 113.524 6.33738C113.314 6.41318 113.058 6.53606 112.838 6.43033C112.703 6.36651 112.56 5.87328 112.496 5.75093C112.324 5.39888 112.084 5.94516 111.984 5.52858C111.876 5.10981 112.152 4.4916 111.827 4.21118C111.79 4.88277 111.738 5.5716 111.696 6.24688C111.633 6.24254 111.57 6.23674 111.505 6.22986C110.813 6.16041 110.137 5.95843 109.443 5.95369C109.349 5.95369 109.429 6.31931 109.327 6.32858C108.894 6.36582 108.533 6.08915 108.084 6.1668C107.735 6.22817 107.338 6.58779 106.971 6.6611C106.801 5.87938 106.253 6.1051 105.873 6.00776C105.74 5.97406 105.764 5.7697 105.673 5.69601C105.329 5.42279 105.45 6.11316 105.343 6.21276C104.884 6.63715 104.962 5.09954 104.462 5.09965C104.435 5.09917 104.05 5.89239 104.001 5.9398C103.694 6.25 103.977 5.65148 103.805 5.57728C103.491 5.44152 103.285 5.22862 102.888 5.43804C102.774 5.50032 102.469 5.98897 102.287 5.57764C102.263 5.52377 102.301 5.25468 102.279 5.23705C101.893 4.94061 101.816 5.78933 101.56 6.05855C101.307 6.32789 100.995 5.71366 100.935 5.53906C100.779 5.08719 101.095 5.36338 101.11 5.32138C101.271 4.82017 101.001 4.88761 100.807 4.82941C100.84 3.99401 100.558 4.02306 100.603 4.77241C100.608 4.85426 100.769 4.78825 100.807 4.82941C100.568 5.63337 100.261 5.71545 99.9784 4.92752C99.862 4.5977 99.9885 4.23688 99.6696 4.2499C99.6328 4.25155 99.5898 4.25855 99.5391 4.27165C99.3254 4.32789 99.3694 4.90676 99.1832 5.05385C98.7584 5.3896 98.2318 4.83906 97.7791 4.91737C97.6133 4.94576 97.7674 5.26281 97.659 5.2932C97.3668 5.37494 97.1038 5.13677 96.8105 5.25662C96.783 5.26788 96.8489 5.59777 96.7545 5.60162C96.0504 5.63765 95.4394 5.42865 94.6973 5.42711C94.3434 5.42644 93.6876 5.61335 93.3299 5.58008C92.6791 5.52445 91.8913 5.05345 91.3335 5.1763C90.9804 5.2549 91.0601 5.58374 90.9079 5.81019C90.5985 6.24929 90.0884 5.4755 90.007 5.35573C90.0056 5.35175 90.3155 5.27019 90.1476 5.103C90.0467 4.75155 90.0105 5.35416 90.007 5.35573C89.9521 5.27836 89.3438 5.21119 89.2192 5.27586C89.1525 5.31117 89.1941 5.62305 89.1592 5.63555C88.3301 5.92586 87.5177 6.01629 86.6599 5.88219C86.6454 5.87608 86.6622 5.52638 86.6282 5.51638C86.1541 5.36764 85.8336 5.79969 85.4383 6.05915C85.0505 6.3184 84.7277 6.23811 84.4763 5.64184C84.1687 5.72184 83.7475 5.46279 83.4895 5.30566C83.2347 5.14848 83.208 5.82914 83.1859 5.84291C82.5146 6.28328 82.103 5.90006 81.3947 5.85012C81.0674 5.82506 80.3782 5.93417 80.02 6.01401C79.7371 6.07824 79.5614 5.92151 79.2953 6.02751C79.2592 6.04168 79.3005 6.34393 79.2896 6.35576C78.9951 6.72265 79.1278 5.98017 79.0637 5.8489C78.9197 5.55402 78.8092 5.34441 78.6541 5.282C78.5628 5.24331 78.4553 5.26096 78.313 5.34962C78.2273 5.40275 77.9898 6.47256 77.83 6.53737C77.6222 6.61969 77.6955 6.2364 77.4766 6.33235C77.4578 6.34021 77.4656 6.57585 77.3288 6.56757C76.6957 6.5322 76.033 6.4053 75.3652 6.43934C75.2775 6.44303 75.3954 6.81514 75.2697 6.82661C74.6827 6.88009 74.0108 6.87676 73.4218 6.71097C73.2791 6.66895 73.364 6.40578 73.3319 6.32854C73.1352 5.86123 72.8748 6.5488 72.83 6.56253C71.75 6.90795 70.9431 6.30215 69.8338 6.61422C69.7759 6.63242 69.3352 7.37211 69.1211 6.74711C69.1066 6.70554 68.895 6.06599 68.7226 6.5083C68.7119 6.53597 68.8436 6.86485 68.6224 6.83463C68.4025 6.80447 68.0431 7.03121 67.7374 6.67242C67.6411 6.55939 67.4077 5.92179 67.1315 6.43741C67.1139 6.47338 66.6922 7.63606 66.5209 6.84124C66.493 6.7104 66.5071 5.86619 66.1701 6.3043C66.1057 6.38922 66.2282 6.57551 66.0566 6.6958C65.7887 6.88126 65.4485 6.66065 65.1313 7.04169C65.0763 7.10913 64.8465 7.68566 64.6467 7.25406C64.6154 7.18647 64.6683 6.90386 64.566 6.87396C64.0785 6.73051 63.5695 6.92715 63.0826 6.74001C62.9086 6.6743 62.9898 6.21749 62.8072 6.09836C62.6247 5.97926 62.2571 5.86778 62.0694 6.07896C61.8817 6.29022 62.1023 7.01265 61.8166 7.07534C60.5946 7.34729 59.3491 6.9415 58.1256 6.89898C57.9424 6.89263 58.0986 7.14988 57.8283 7.15918C56.8237 7.19474 55.1225 7.46587 54.2507 6.92803C53.5561 6.49719 54.416 6.14664 53.8874 5.97531C53.6322 5.89363 53.3699 6.74191 53.3087 6.76947C52.7113 7.04909 52.2814 6.6822 51.7486 6.80557C51.6379 6.83118 51.7524 7.1714 51.6581 7.18942C51.3358 7.25398 50.9923 7.10688 50.6814 7.13987C50.542 7.15546 50.572 7.41624 50.443 7.39818C50.1341 7.35797 49.8587 7.25262 49.5595 7.01261C49.5321 6.99075 49.7092 6.66284 49.4838 6.65443C49.1188 6.64173 48.6604 6.40763 48.241 6.66394C48.1166 6.74102 48.1215 7.33808 47.8441 6.93021C47.7859 6.84503 47.8469 6.127 47.5411 6.75154C47.4873 6.85537 46.9804 7.6993 46.7132 7.16501C46.6429 7.02438 46.4597 6.44062 46.3108 6.53526C46.2906 6.55031 46.3776 6.86963 46.2534 6.90295C45.8157 7.01478 45.3516 6.98814 44.899 7.096C44.7796 7.12541 44.9635 7.45431 44.7854 7.48755C44.2958 7.57945 43.6781 7.50504 43.1914 7.40912C43.0119 7.37312 43.131 7.09623 43.1175 7.06653C42.9003 6.58342 42.787 7.24216 42.718 7.28159C42.2857 7.51802 41.9604 7.21478 41.5645 7.30292C41.4556 7.3264 41.5382 7.63826 41.5169 7.66654C41.2957 7.94304 41.4546 7.37795 41.3107 7.3183C40.9073 7.14935 40.4598 7.18185 40.0527 7.22855C39.9031 7.24616 40.0774 7.60648 39.9431 7.61809C39.1549 7.69359 38.3354 7.67228 37.5558 7.48486C37.4091 7.44891 37.4965 7.16782 37.465 7.10446C37.2468 6.66116 36.9523 7.27554 36.8832 7.33474C36.5688 7.60502 36.4406 7.35982 36.1591 7.4106C34.7776 7.66311 33.0768 7.52727 31.7643 7.44767C30.0694 7.34531 28.7411 7.10113 27.1228 7.19687C27.0197 7.20261 27.1299 7.57283 27.0411 7.58255C25.892 7.69116 24.7694 7.56429 23.6169 7.69074C23.5231 7.70045 23.6643 8.0508 23.514 8.07823C23.2056 8.13696 22.813 8.12427 22.4975 8.01686C22.3437 7.96513 22.5439 7.6592 22.3891 7.61332C22.0287 7.5058 21.6435 7.48703 21.2752 7.54965C21.1185 7.57706 21.3616 7.93376 21.1574 7.94129C19.7729 7.99991 18.4043 8.08462 16.9985 7.64073C16.9018 7.61025 16.8054 6.87874 16.6033 7.02266C16.5912 7.22632 16.596 7.46556 16.5929 7.68308C14.5715 7.83359 12.5692 7.61252 10.5428 7.60671C10.4573 7.60655 10.6114 7.99243 10.4459 7.9941C9.48671 8.00421 8.56141 8.1271 7.57501 7.75732C7.47718 7.72118 7.51578 7.03719 7.231 7.14525C7.18086 7.16494 6.75054 7.26318 6.64174 7.41332C6.62698 7.43594 6.71087 7.75352 6.57217 7.7651C5.76602 7.82686 4.91855 7.76805 4.10886 7.58655C3.97817 7.55665 4.11117 7.21478 4.01803 7.19054C3.35778 7.02114 2.64729 7.29109 2.01405 6.99316C1.59018 6.79251 1.73614 6.20296 1.50317 5.62886C1.47022 5.54787 1.20965 5.53925 1.19063 5.20331C1.14209 4.35855 1.2529 3.43084 1.18626 2.53066C1.17212 2.33676 0.826889 2.55156 1.02558 2.07915C1.03949 2.04752 1.28971 1.88769 1.34935 1.72756C1.39088 1.61685 1.30711 1.27626 1.39323 1.13398C1.47935 0.991846 1.58127 1.27682 1.72516 1.10896C1.86896 0.939057 1.79809 0.551192 2.09002 0.500314ZM82.355 4.60317C82.1184 4.28001 82.1018 5.47677 82.3485 5.18682C82.3603 5.17139 82.3672 4.61901 82.355 4.60317ZM110.249 5.05497C109.964 4.51566 109.723 5.28164 109.922 5.69802C110.122 6.11387 110.336 5.21843 110.249 5.05497ZM113.348 4.8222C113.04 4.37571 112.851 6.06256 113.23 5.75263C113.251 5.73523 113.365 4.84814 113.348 4.8222ZM2.53651 5.44721C2.53305 5.43138 2.34566 5.41899 2.34145 5.43481C2.24808 5.81637 2.62279 5.84088 2.53651 5.44721ZM116.399 4.90247C116.343 4.65329 115.979 4.84413 116.05 5.15208C116.104 5.39885 116.464 5.21076 116.399 4.90247ZM70.2612 3.51332C70.2573 3.49555 70.1214 3.48165 70.1257 3.58237C70.1402 3.90675 70.3272 3.81218 70.2612 3.51332ZM121.483 6.3383C120.588 6.04304 120.915 4.57941 121.456 4.97894C121.569 5.0481 121.053 5.31036 121.163 5.48413C121.422 5.81857 121.827 5.00239 122.074 5.5249C122.129 5.62357 121.541 6.36164 121.481 6.33988C121.481 6.33935 121.482 6.33882 121.483 6.3383ZM82.2001 3.16831C82.1954 3.15256 82.0078 3.14036 82.0033 3.15611C81.9075 3.53741 82.2855 3.5622 82.2001 3.16831ZM62.4217 2.89858C62.4112 2.86503 61.9777 2.84047 61.9638 2.87176C61.7478 3.49641 62.6245 3.54791 62.4217 2.89858ZM94.697 2.13702C94.8916 1.75374 95.1486 1.70748 95.3033 2.1867C95.1112 2.162 94.8932 2.15936 94.697 2.13702Z"
+                                                    fill="currentcolor" />
+                                            </svg>
+                                        </span>
                                     </button>
-                                 </div>
-                              </div>
-                              <div class="col-xl-7 col-lg-12 col-md-12 col-sm-7">
-                                 <div class="it-course-content p-relative">
-                                    <div class="d-flex justify-content-between align-items-center mb-20">
-                                       <div class="it-course-author">
-                                          <img src="assets/img/avatar/avatar-1-2.png" alt="">
-                                          <span>Vishwas</span>
-                                       </div>
-                                       <!-- Price removed as requested -->
-                                    </div>
-                                    <h5 class="it-course-title mb-20"><a class="border-line" href="#">GMAT Preparation</a></h5>
-                                    <div class="it-course-rating mb-10">
-                                       <div>
-                                          <i class="fa-sharp fa-solid fa-star"></i>
-                                          <i class="fa-sharp fa-solid fa-star"></i>
-                                          <i class="fa-sharp fa-solid fa-star"></i>
-                                          <i class="fa-sharp fa-solid fa-star"></i>
-                                          <i class="fa-sharp fa-regular fa-star"></i>
-                                          <span>(4.7/5 Customer Rating)</span>
-                                       </div>
-                                    </div>
-                                    <div class="it-course-meta d-flex justify-content-between">
-                                       <span>
-                                          <i class="fas fa-book"></i>
-                                          35 Lessons
-                                       </span>
-                                       <span>
-                                          <i class="fas fa-users"></i>
-                                          45 Students
-                                       </span>
-                                    </div>
-                                 </div>
-                              </div>
-                           </div>
-                        </div>
-                     </div>
-                     <div class="col-xl-6 col-lg-6 col-md-6">
-                        <div class="it-course-item mb-35">
-                           <div class="row gx-0">
-                              <div class="col-xl-5 col-lg-12 col-md-12 col-sm-5">
-                                 <div class="it-course-thumb z-index-1 border-radius-20">
-                                    <a href="#"><img class="w-100" src="assets/img/course/course-2-3.jpg" alt=""></a>
-                                    <span class="course-category">MBA Entrance</span>
-                                    <button class="wishlist-btn">
-                                       <i class="far fa-heart"></i>
+                                </li>
+                                <li class="nav-item" role="presentation">
+                                    <button class="nav-link" id="popularity-tab" data-bs-toggle="tab"
+                                        data-bs-target="#popularity" type="button" role="tab" aria-controls="popularity"
+                                        aria-selected="false">
+                                        Popularity
+                                        <span>
+                                            <svg width="123" height="9" viewBox="0 0 123 9" fill="none"
+                                                xmlns="http://www.w3.org/2000/svg">
+                                                <path
+                                                    d="M2.09002 0.500314C2.7682 0.384879 3.66028 0.481577 4.34058 0.623294C4.55365 0.667213 4.44966 0.880993 4.5969 0.920856C4.88485 0.998549 5.15009 0.890162 5.43482 0.983677C5.5292 1.01571 5.41796 1.35345 5.51679 1.37935C6.05851 1.51885 6.56613 1.4249 7.11434 1.48724C9.80953 1.79499 12.4593 1.87731 15.1823 1.98539C16.0834 2.02069 17.179 2.30745 18.1031 2.15888C18.2114 2.14123 18.1418 1.84754 18.1621 1.8229C18.4797 1.44564 18.3819 2.04248 18.5945 2.11805C19.4391 2.41636 20.366 2.42822 21.172 2.30114C21.5147 2.24621 21.1607 1.66643 21.5118 1.98934C21.5362 2.01115 21.4543 2.3256 21.549 2.35743C21.7638 2.429 22.1675 2.36637 22.333 2.38845C22.6521 2.43258 22.7046 2.42857 23.0053 2.42718C23.4154 2.42802 23.9093 2.57551 24.3507 2.49729C24.4449 2.47967 24.3146 2.16085 24.4643 2.10377C24.6142 2.04677 25.0129 2.06741 25.1483 2.14084C25.2837 2.21431 25.2307 2.46745 25.2554 2.52487C25.4589 3.00957 25.9073 2.32623 25.9661 2.30854C27.0416 2.00599 27.979 2.37561 28.9882 2.3579C29.7609 2.34353 30.5836 2.20287 31.3139 2.20829C32.1836 2.21599 32.9343 2.37757 33.7782 2.33381C33.8674 2.32956 33.7566 1.954 33.8655 1.94804C35.023 1.88511 36.1829 1.9072 37.3394 2.14298C37.4563 2.16694 37.3116 2.50065 37.4287 2.5444C38.1467 2.80491 39.2773 3.44049 39.6716 1.99143C40.1553 2.03983 40.7421 2.08842 41.176 2.37211C41.4559 2.55469 41.1931 2.91994 41.5303 2.7604C41.6063 2.72484 41.5016 2.41045 41.6159 2.38102C42.0957 2.25744 42.6286 2.35147 43.1077 2.18031C43.2049 2.14475 43.1736 1.86202 43.2004 1.81058C43.4266 1.39381 43.8243 2.07013 43.9091 2.11836C44.5551 2.4778 45.0192 2.32461 45.6215 2.3238C45.7607 2.32379 45.59 1.94612 45.7237 1.93244C46.4197 1.86654 47.1239 1.88774 47.8129 2.04532C47.9651 2.08131 47.831 2.40758 47.904 2.44135C48.2257 2.58632 48.2864 1.97323 48.5936 2.10047C48.6583 2.12651 48.6266 2.40447 48.6388 2.43474C48.8301 2.90993 48.978 2.22979 49.0248 2.21406C49.6154 1.99999 50.0074 2.70112 50.5865 2.59151C50.6555 2.57769 50.4937 2.22928 50.6881 2.21188C51.9738 2.09404 53.3546 2.16804 54.6248 2.42822C54.8255 2.46815 54.687 2.7341 54.7 2.7664C54.9143 3.27086 55.0361 2.58831 55.1009 2.56163C55.6129 2.36884 56.0991 2.9317 56.4314 2.11571C58.6105 2.36174 60.7404 1.87217 62.9129 2.5635C62.9402 2.57148 62.8968 2.90735 62.9513 2.92182C63.608 3.09948 63.4656 2.58083 63.897 1.9368C64.0052 1.77508 64.3524 2.53873 64.3827 2.59462C64.4937 2.80062 64.39 3.30094 64.4267 3.34059C64.7297 3.65172 64.6553 2.0038 65.0547 1.99688C65.0672 1.99943 65.0197 2.30373 65.0536 2.33336C65.1592 2.42643 65.2602 2.3042 65.3632 2.40704C65.5999 2.64503 65.6901 3.4449 66.0468 2.97284C66.0914 2.9116 66.0073 1.9775 66.3685 2.01593C66.5132 2.03203 67.1441 2.00593 67.3198 2.06375C67.496 2.1215 67.3805 2.42478 67.3932 2.43763C67.8715 2.82862 67.6911 2.9967 67.943 3.58283C68.1942 4.16674 68.1047 2.76594 68.2006 2.60791C68.2968 2.45031 68.6532 2.77353 68.7406 2.88647C68.8283 2.99946 68.7243 3.19266 68.8016 3.25615C69.3131 3.67092 69.012 2.5568 69.1744 2.33166C69.5555 1.79865 69.8745 2.83349 70.2421 2.92956C70.3408 2.95552 70.2569 2.72001 70.3439 2.69648C70.688 2.60645 70.8997 2.92758 71.2819 2.62403C71.3464 2.57453 71.6399 1.94469 71.8598 2.40005C71.8902 2.46573 71.8109 2.72612 71.9602 2.78181C72.1834 2.86541 72.5801 2.91581 72.8123 2.82554C72.9839 2.75875 72.7796 2.33496 72.9985 2.46417C73.0956 2.52188 72.9213 2.77441 73.1033 2.86199C73.2825 2.94958 73.7448 2.93136 73.9256 2.9199C74.1035 2.9083 74.0009 2.58601 74.015 2.56397C74.1003 2.43763 74.4369 2.27619 74.4664 2.27611C75.8836 2.21634 77.2483 2.68771 78.6123 2.55886C78.6848 2.55226 78.7572 2.5441 78.8295 2.53424C78.9465 2.51874 78.8632 2.17846 78.881 2.17257C79.2784 2.02338 78.9778 2.9361 79.26 3.23574C79.2092 2.5434 79.3756 2.66636 79.6496 2.58616C79.7814 2.54696 79.7052 2.27974 79.7169 2.25209C79.9067 1.84156 80.0492 2.36591 80.0856 2.47307C80.2194 2.86724 80.3635 2.3969 80.4571 2.66032C80.5518 2.92173 80.3493 3.31448 80.6189 3.3054C80.6905 3.0562 80.4812 2.41099 80.6836 2.30284C81.4367 1.89392 82.8567 2.38142 83.4848 2.42505C84.1005 2.4688 84.281 2.42041 84.6511 2.5047C85.3005 2.65744 85.0561 2.17992 85.4455 1.95415C85.8477 1.72824 85.6684 2.91442 85.7302 3.16798C85.7915 3.42144 85.8505 3.15879 85.9236 3.29757C85.9963 3.43632 85.8457 3.61146 86.0127 3.66158C86.1809 3.71163 86.618 3.25303 86.6698 2.98627C86.7886 2.42097 86.5742 1.83237 87.0214 2.03403C87.047 2.04601 86.9689 2.35831 87.0665 2.38842C87.827 2.61751 88.616 2.62176 89.3939 2.82372C89.498 2.85202 89.4098 3.19936 89.4703 3.21975C90.0985 3.43325 89.8784 2.85227 90.2165 2.1996C90.1519 3.06341 90.339 3.58903 90.8286 3.58832C91.1223 3.58823 91.0666 3.21197 91.2491 2.94422C91.3036 2.86351 91.5061 3.12002 91.5458 2.94233C91.6634 2.3616 91.4654 1.7151 91.9655 1.96794C91.9872 1.97998 91.922 2.29785 91.9967 2.31626C92.4775 2.43691 92.5418 1.83015 93.0643 1.7518C93.4821 1.69023 94.2128 2.05381 94.6896 2.11119C94.6787 3.08142 95.1365 2.8567 95.3042 2.18718C95.6175 2.21329 95.9471 2.17472 96.2385 2.26723C96.3381 2.29878 96.2727 2.57966 96.2851 2.61002C96.4892 3.08622 96.6177 2.4358 96.6819 2.41046C97.4097 2.16514 97.9799 2.6629 98.6866 2.20214C98.7127 2.18568 98.7706 1.51285 98.9453 2.01187C98.9552 2.04626 98.7158 2.34367 99.0393 2.38022C99.2255 2.4014 99.4976 2.53699 99.7806 2.60261C99.9942 2.65244 100.218 2.65947 100.422 2.53862C100.534 2.47138 100.849 1.94609 101.037 2.38917C101.061 2.44926 101.015 2.63956 101.048 2.75C101.157 3.10202 101.286 2.42881 101.399 3.01807C101.514 3.60745 101.81 4.06542 102.29 3.70323C102.305 3.69279 102.453 3.16303 102.594 3.18288C102.817 3.21482 103.128 3.35252 103.363 3.36767C103.475 3.3747 103.43 3.0348 103.45 3.03023C104.221 2.90282 104.733 3.24268 105.534 3.4312C105.68 3.46642 106.139 3.04084 106.401 3.42084C106.69 3.83679 106.254 5.4579 107.013 5.11424C107.321 4.97669 107.815 2.91549 108.279 4.02494C109.316 3.81394 110.239 4.40934 111.281 4.05793C111.325 4.04322 111.473 3.5251 111.58 3.47818C111.587 3.4755 111.593 3.47437 111.599 3.47497C111.764 3.49258 111.841 3.76802 111.955 3.7905C112.433 3.89204 112.889 3.68838 113.353 3.7677C113.529 3.79769 113.438 4.07146 113.646 4.10895C113.848 4.14638 114.035 3.79414 114.296 4.00948C114.494 4.17395 114.59 4.95393 114.844 5.08556C114.976 4.34996 115.164 4.39497 115.542 4.26646C115.615 4.24152 115.593 3.9723 115.631 3.94744C115.787 3.84108 115.862 4.07624 116.013 3.95878C116.05 3.93062 116.104 3.68107 116.137 3.64405C116.427 3.32056 116.645 3.96028 116.676 4.07062C116.81 4.49242 116.988 4.19439 117.121 4.3811C117.253 4.56763 116.957 4.68708 117.131 4.82369C117.487 5.10321 118.017 5.20102 118.462 5.27787L118.431 5.27202C118.433 5.2725 118.435 5.27299 118.437 5.27348C118.596 5.31496 118.568 4.95758 118.592 4.9558C118.957 4.95526 119.186 5.40001 119.573 4.80891C119.278 6.55728 119.827 4.70569 120.201 5.2088C120.23 5.24953 119.991 6.04545 119.815 6.11235C119.641 6.17981 119.516 5.86359 119.268 5.98544C119.207 6.01228 118.734 6.68302 118.692 6.7205C118.338 7.00322 118.618 5.79647 118.618 5.72573C118.626 5.39059 118.521 5.34714 118.399 5.40833L118.441 5.41647C118.279 5.50377 118.085 5.74468 118.024 5.76538C117.514 5.93265 117.205 5.66981 116.823 5.77163C116.575 5.83665 116.362 6.62114 116.204 6.55753C115.687 6.35143 115.716 5.19808 115.017 6.06667C114.87 6.25357 114.825 7.14545 114.563 6.3932C114.547 6.34562 114.354 5.66837 114.127 6.0454C114.099 6.09292 114.064 6.3494 114.034 6.36718C113.834 6.48211 113.738 6.26213 113.524 6.33738C113.314 6.41318 113.058 6.53606 112.838 6.43033C112.703 6.36651 112.56 5.87328 112.496 5.75093C112.324 5.39888 112.084 5.94516 111.984 5.52858C111.876 5.10981 112.152 4.4916 111.827 4.21118C111.79 4.88277 111.738 5.5716 111.696 6.24688C111.633 6.24254 111.57 6.23674 111.505 6.22986C110.813 6.16041 110.137 5.95843 109.443 5.95369C109.349 5.95369 109.429 6.31931 109.327 6.32858C108.894 6.36582 108.533 6.08915 108.084 6.1668C107.735 6.22817 107.338 6.58779 106.971 6.6611C106.801 5.87938 106.253 6.1051 105.873 6.00776C105.74 5.97406 105.764 5.7697 105.673 5.69601C105.329 5.42279 105.45 6.11316 105.343 6.21276C104.884 6.63715 104.962 5.09954 104.462 5.09965C104.435 5.09917 104.05 5.89239 104.001 5.9398C103.694 6.25 103.977 5.65148 103.805 5.57728C103.491 5.44152 103.285 5.22862 102.888 5.43804C102.774 5.50032 102.469 5.98897 102.287 5.57764C102.263 5.52377 102.301 5.25468 102.279 5.23705C101.893 4.94061 101.816 5.78933 101.56 6.05855C101.307 6.32789 100.995 5.71366 100.935 5.53906C100.779 5.08719 101.095 5.36338 101.11 5.32138C101.271 4.82017 101.001 4.88761 100.807 4.82941C100.84 3.99401 100.558 4.02306 100.603 4.77241C100.608 4.85426 100.769 4.78825 100.807 4.82941C100.568 5.63337 100.261 5.71545 99.9784 4.92752C99.862 4.5977 99.9885 4.23688 99.6696 4.2499C99.6328 4.25155 99.5898 4.25855 99.5391 4.27165C99.3254 4.32789 99.3694 4.90676 99.1832 5.05385C98.7584 5.3896 98.2318 4.83906 97.7791 4.91737C97.6133 4.94576 97.7674 5.26281 97.659 5.2932C97.3668 5.37494 97.1038 5.13677 96.8105 5.25662C96.783 5.26788 96.8489 5.59777 96.7545 5.60162C96.0504 5.63765 95.4394 5.42865 94.6973 5.42711C94.3434 5.42644 93.6876 5.61335 93.3299 5.58008C92.6791 5.52445 91.8913 5.05345 91.3335 5.1763C90.9804 5.2549 91.0601 5.58374 90.9079 5.81019C90.5985 6.24929 90.0884 5.4755 90.007 5.35573C90.0056 5.35175 90.3155 5.27019 90.1476 5.103C90.0467 4.75155 90.0105 5.35416 90.007 5.35573C89.9521 5.27836 89.3438 5.21119 89.2192 5.27586C89.1525 5.31117 89.1941 5.62305 89.1592 5.63555C88.3301 5.92586 87.5177 6.01629 86.6599 5.88219C86.6454 5.87608 86.6622 5.52638 86.6282 5.51638C86.1541 5.36764 85.8336 5.79969 85.4383 6.05915C85.0505 6.3184 84.7277 6.23811 84.4763 5.64184C84.1687 5.72184 83.7475 5.46279 83.4895 5.30566C83.2347 5.14848 83.208 5.82914 83.1859 5.84291C82.5146 6.28328 82.103 5.90006 81.3947 5.85012C81.0674 5.82506 80.3782 5.93417 80.02 6.01401C79.7371 6.07824 79.5614 5.92151 79.2953 6.02751C79.2592 6.04168 79.3005 6.34393 79.2896 6.35576C78.9951 6.72265 79.1278 5.98017 79.0637 5.8489C78.9197 5.55402 78.8092 5.34441 78.6541 5.282C78.5628 5.24331 78.4553 5.26096 78.313 5.34962C78.2273 5.40275 77.9898 6.47256 77.83 6.53737C77.6222 6.61969 77.6955 6.2364 77.4766 6.33235C77.4578 6.34021 77.4656 6.57585 77.3288 6.56757C76.6957 6.5322 76.033 6.4053 75.3652 6.43934C75.2775 6.44303 75.3954 6.81514 75.2697 6.82661C74.6827 6.88009 74.0108 6.87676 73.4218 6.71097C73.2791 6.66895 73.364 6.40578 73.3319 6.32854C73.1352 5.86123 72.8748 6.5488 72.83 6.56253C71.75 6.90795 70.9431 6.30215 69.8338 6.61422C69.7759 6.63242 69.3352 7.37211 69.1211 6.74711C69.1066 6.70554 68.895 6.06599 68.7226 6.5083C68.7119 6.53597 68.8436 6.86485 68.6224 6.83463C68.4025 6.80447 68.0431 7.03121 67.7374 6.67242C67.6411 6.55939 67.4077 5.92179 67.1315 6.43741C67.1139 6.47338 66.6922 7.63606 66.5209 6.84124C66.493 6.7104 66.5071 5.86619 66.1701 6.3043C66.1057 6.38922 66.2282 6.57551 66.0566 6.6958C65.7887 6.88126 65.4485 6.66065 65.1313 7.04169C65.0763 7.10913 64.8465 7.68566 64.6467 7.25406C64.6154 7.18647 64.6683 6.90386 64.566 6.87396C64.0785 6.73051 63.5695 6.92715 63.0826 6.74001C62.9086 6.6743 62.9898 6.21749 62.8072 6.09836C62.6247 5.97926 62.2571 5.86778 62.0694 6.07896C61.8817 6.29022 62.1023 7.01265 61.8166 7.07534C60.5946 7.34729 59.3491 6.9415 58.1256 6.89898C57.9424 6.89263 58.0986 7.14988 57.8283 7.15918C56.8237 7.19474 55.1225 7.46587 54.2507 6.92803C53.5561 6.49719 54.416 6.14664 53.8874 5.97531C53.6322 5.89363 53.3699 6.74191 53.3087 6.76947C52.7113 7.04909 52.2814 6.6822 51.7486 6.80557C51.6379 6.83118 51.7524 7.1714 51.6581 7.18942C51.3358 7.25398 50.9923 7.10688 50.6814 7.13987C50.542 7.15546 50.572 7.41624 50.443 7.39818C50.1341 7.35797 49.8587 7.25262 49.5595 7.01261C49.5321 6.99075 49.7092 6.66284 49.4838 6.65443C49.1188 6.64173 48.6604 6.40763 48.241 6.66394C48.1166 6.74102 48.1215 7.33808 47.8441 6.93021C47.7859 6.84503 47.8469 6.127 47.5411 6.75154C47.4873 6.85537 46.9804 7.6993 46.7132 7.16501C46.6429 7.02438 46.4597 6.44062 46.3108 6.53526C46.2906 6.55031 46.3776 6.86963 46.2534 6.90295C45.8157 7.01478 45.3516 6.98814 44.899 7.096C44.7796 7.12541 44.9635 7.45431 44.7854 7.48755C44.2958 7.57945 43.6781 7.50504 43.1914 7.40912C43.0119 7.37312 43.131 7.09623 43.1175 7.06653C42.9003 6.58342 42.787 7.24216 42.718 7.28159C42.2857 7.51802 41.9604 7.21478 41.5645 7.30292C41.4556 7.3264 41.5382 7.63826 41.5169 7.66654C41.2957 7.94304 41.4546 7.37795 41.3107 7.3183C40.9073 7.14935 40.4598 7.18185 40.0527 7.22855C39.9031 7.24616 40.0774 7.60648 39.9431 7.61809C39.1549 7.69359 38.3354 7.67228 37.5558 7.48486C37.4091 7.44891 37.4965 7.16782 37.465 7.10446C37.2468 6.66116 36.9523 7.27554 36.8832 7.33474C36.5688 7.60502 36.4406 7.35982 36.1591 7.4106C34.7776 7.66311 33.0768 7.52727 31.7643 7.44767C30.0694 7.34531 28.7411 7.10113 27.1228 7.19687C27.0197 7.20261 27.1299 7.57283 27.0411 7.58255C25.892 7.69116 24.7694 7.56429 23.6169 7.69074C23.5231 7.70045 23.6643 8.0508 23.514 8.07823C23.2056 8.13696 22.813 8.12427 22.4975 8.01686C22.3437 7.96513 22.5439 7.6592 22.3891 7.61332C22.0287 7.5058 21.6435 7.48703 21.2752 7.54965C21.1185 7.57706 21.3616 7.93376 21.1574 7.94129C19.7729 7.99991 18.4043 8.08462 16.9985 7.64073C16.9018 7.61025 16.8054 6.87874 16.6033 7.02266C16.5912 7.22632 16.596 7.46556 16.5929 7.68308C14.5715 7.83359 12.5692 7.61252 10.5428 7.60671C10.4573 7.60655 10.6114 7.99243 10.4459 7.9941C9.48671 8.00421 8.56141 8.1271 7.57501 7.75732C7.47718 7.72118 7.51578 7.03719 7.231 7.14525C7.18086 7.16494 6.75054 7.26318 6.64174 7.41332C6.62698 7.43594 6.71087 7.75352 6.57217 7.7651C5.76602 7.82686 4.91855 7.76805 4.10886 7.58655C3.97817 7.55665 4.11117 7.21478 4.01803 7.19054C3.35778 7.02114 2.64729 7.29109 2.01405 6.99316C1.59018 6.79251 1.73614 6.20296 1.50317 5.62886C1.47022 5.54787 1.20965 5.53925 1.19063 5.20331C1.14209 4.35855 1.2529 3.43084 1.18626 2.53066C1.17212 2.33676 0.826889 2.55156 1.02558 2.07915C1.03949 2.04752 1.28971 1.88769 1.34935 1.72756C1.39088 1.61685 1.30711 1.27626 1.39323 1.13398C1.47935 0.991846 1.58127 1.27682 1.72516 1.10896C1.86896 0.939057 1.79809 0.551192 2.09002 0.500314ZM82.355 4.60317C82.1184 4.28001 82.1018 5.47677 82.3485 5.18682C82.3603 5.17139 82.3672 4.61901 82.355 4.60317ZM110.249 5.05497C109.964 4.51566 109.723 5.28164 109.922 5.69802C110.122 6.11387 110.336 5.21843 110.249 5.05497ZM113.348 4.8222C113.04 4.37571 112.851 6.06256 113.23 5.75263C113.251 5.73523 113.365 4.84814 113.348 4.8222ZM2.53651 5.44721C2.53305 5.43138 2.34566 5.41899 2.34145 5.43481C2.24808 5.81637 2.62279 5.84088 2.53651 5.44721ZM116.399 4.90247C116.343 4.65329 115.979 4.84413 116.05 5.15208C116.104 5.39885 116.464 5.21076 116.399 4.90247ZM70.2612 3.51332C70.2573 3.49555 70.1214 3.48165 70.1257 3.58237C70.1402 3.90675 70.3272 3.81218 70.2612 3.51332ZM121.483 6.3383C120.588 6.04304 120.915 4.57941 121.456 4.97894C121.569 5.0481 121.053 5.31036 121.163 5.48413C121.422 5.81857 121.827 5.00239 122.074 5.5249C122.129 5.62357 121.541 6.36164 121.481 6.33988C121.481 6.33935 121.482 6.33882 121.483 6.3383ZM82.2001 3.16831C82.1954 3.15256 82.0078 3.14036 82.0033 3.15611C81.9075 3.53741 82.2855 3.5622 82.2001 3.16831ZM62.4217 2.89858C62.4112 2.86503 61.9777 2.84047 61.9638 2.87176C61.7478 3.49641 62.6245 3.54791 62.4217 2.89858ZM94.697 2.13702C94.8916 1.75374 95.1486 1.70748 95.3033 2.1867C95.1112 2.162 94.8932 2.15936 94.697 2.13702Z"
+                                                    fill="currentcolor" />
+                                            </svg>
+                                        </span>
                                     </button>
-                                 </div>
-                              </div>
-                              <div class="col-xl-7 col-lg-12 col-md-12 col-sm-7">
-                                 <div class="it-course-content p-relative">
-                                    <div class="d-flex justify-content-between align-items-center mb-20">
-                                       <div class="it-course-author">
-                                          <img src="assets/img/avatar/avatar-1-3.png" alt="">
-                                          <span>Chirag</span>
-                                       </div>
-                                       <!-- Price removed as requested -->
-                                    </div>
-                                    <h5 class="it-course-title mb-20"><a class="border-line" href="#">IPMAT Preparation</a></h5>
-                                    <div class="it-course-rating mb-10">
-                                       <div>
-                                          <i class="fa-sharp fa-solid fa-star"></i>
-                                          <i class="fa-sharp fa-solid fa-star"></i>
-                                          <i class="fa-sharp fa-solid fa-star"></i>
-                                          <i class="fa-sharp fa-solid fa-star"></i>
-                                          <i class="fa-sharp fa-regular fa-star"></i>
-                                          <span>(4.7/5 Customer Rating)</span>
-                                       </div>
-                                    </div>
-                                    <div class="it-course-meta d-flex justify-content-between">
-                                       <span>
-                                          <i class="fas fa-book"></i>
-                                          30 Lessons
-                                       </span>
-                                       <span>
-                                          <i class="fas fa-users"></i>
-                                          40 Students
-                                       </span>
-                                    </div>
-                                 </div>
-                              </div>
-                           </div>
-                        </div>
-                     </div>
-                  </div>
-               </div>
-               <div class="tab-pane fade" id="popularity" role="tabpanel" aria-labelledby="popularity-tab">
-                  <div class="row gx-35">
-                     <div class="col-xl-6 col-lg-6 col-md-6">
-                        <div class="it-course-item mb-35">
-                           <div class="row gx-0">
-                              <div class="col-xl-5 col-lg-12 col-md-12 col-sm-5">
-                                 <div class="it-course-thumb z-index-1 border-radius-20">
-                                    <a href="#"><img class="w-100" src="assets/img/course/course-2-1.jpg" alt=""></a>
-                                    <span class="course-category">UG Entrance</span>
-                                    <button class="wishlist-btn">
-                                       <i class="far fa-heart"></i>
+                                </li>
+                                <li class="nav-item" role="presentation">
+                                    <button class="nav-link" id="featured-tab" data-bs-toggle="tab"
+                                        data-bs-target="#featured" type="button" role="tab" aria-controls="featured"
+                                        aria-selected="false">
+                                        Featured
+                                        <span>
+                                            <svg width="123" height="9" viewBox="0 0 123 9" fill="none"
+                                                xmlns="http://www.w3.org/2000/svg">
+                                                <path
+                                                    d="M2.09002 0.500314C2.7682 0.384879 3.66028 0.481577 4.34058 0.623294C4.55365 0.667213 4.44966 0.880993 4.5969 0.920856C4.88485 0.998549 5.15009 0.890162 5.43482 0.983677C5.5292 1.01571 5.41796 1.35345 5.51679 1.37935C6.05851 1.51885 6.56613 1.4249 7.11434 1.48724C9.80953 1.79499 12.4593 1.87731 15.1823 1.98539C16.0834 2.02069 17.179 2.30745 18.1031 2.15888C18.2114 2.14123 18.1418 1.84754 18.1621 1.8229C18.4797 1.44564 18.3819 2.04248 18.5945 2.11805C19.4391 2.41636 20.366 2.42822 21.172 2.30114C21.5147 2.24621 21.1607 1.66643 21.5118 1.98934C21.5362 2.01115 21.4543 2.3256 21.549 2.35743C21.7638 2.429 22.1675 2.36637 22.333 2.38845C22.6521 2.43258 22.7046 2.42857 23.0053 2.42718C23.4154 2.42802 23.9093 2.57551 24.3507 2.49729C24.4449 2.47967 24.3146 2.16085 24.4643 2.10377C24.6142 2.04677 25.0129 2.06741 25.1483 2.14084C25.2837 2.21431 25.2307 2.46745 25.2554 2.52487C25.4589 3.00957 25.9073 2.32623 25.9661 2.30854C27.0416 2.00599 27.979 2.37561 28.9882 2.3579C29.7609 2.34353 30.5836 2.20287 31.3139 2.20829C32.1836 2.21599 32.9343 2.37757 33.7782 2.33381C33.8674 2.32956 33.7566 1.954 33.8655 1.94804C35.023 1.88511 36.1829 1.9072 37.3394 2.14298C37.4563 2.16694 37.3116 2.50065 37.4287 2.5444C38.1467 2.80491 39.2773 3.44049 39.6716 1.99143C40.1553 2.03983 40.7421 2.08842 41.176 2.37211C41.4559 2.55469 41.1931 2.91994 41.5303 2.7604C41.6063 2.72484 41.5016 2.41045 41.6159 2.38102C42.0957 2.25744 42.6286 2.35147 43.1077 2.18031C43.2049 2.14475 43.1736 1.86202 43.2004 1.81058C43.4266 1.39381 43.8243 2.07013 43.9091 2.11836C44.5551 2.4778 45.0192 2.32461 45.6215 2.3238C45.7607 2.32379 45.59 1.94612 45.7237 1.93244C46.4197 1.86654 47.1239 1.88774 47.8129 2.04532C47.9651 2.08131 47.831 2.40758 47.904 2.44135C48.2257 2.58632 48.2864 1.97323 48.5936 2.10047C48.6583 2.12651 48.6266 2.40447 48.6388 2.43474C48.8301 2.90993 48.978 2.22979 49.0248 2.21406C49.6154 1.99999 50.0074 2.70112 50.5865 2.59151C50.6555 2.57769 50.4937 2.22928 50.6881 2.21188C51.9738 2.09404 53.3546 2.16804 54.6248 2.42822C54.8255 2.46815 54.687 2.7341 54.7 2.7664C54.9143 3.27086 55.0361 2.58831 55.1009 2.56163C55.6129 2.36884 56.0991 2.9317 56.4314 2.11571C58.6105 2.36174 60.7404 1.87217 62.9129 2.5635C62.9402 2.57148 62.8968 2.90735 62.9513 2.92182C63.608 3.09948 63.4656 2.58083 63.897 1.9368C64.0052 1.77508 64.3524 2.53873 64.3827 2.59462C64.4937 2.80062 64.39 3.30094 64.4267 3.34059C64.7297 3.65172 64.6553 2.0038 65.0547 1.99688C65.0672 1.99943 65.0197 2.30373 65.0536 2.33336C65.1592 2.42643 65.2602 2.3042 65.3632 2.40704C65.5999 2.64503 65.6901 3.4449 66.0468 2.97284C66.0914 2.9116 66.0073 1.9775 66.3685 2.01593C66.5132 2.03203 67.1441 2.00593 67.3198 2.06375C67.496 2.1215 67.3805 2.42478 67.3932 2.43763C67.8715 2.82862 67.6911 2.9967 67.943 3.58283C68.1942 4.16674 68.1047 2.76594 68.2006 2.60791C68.2968 2.45031 68.6532 2.77353 68.7406 2.88647C68.8283 2.99946 68.7243 3.19266 68.8016 3.25615C69.3131 3.67092 69.012 2.5568 69.1744 2.33166C69.5555 1.79865 69.8745 2.83349 70.2421 2.92956C70.3408 2.95552 70.2569 2.72001 70.3439 2.69648C70.688 2.60645 70.8997 2.92758 71.2819 2.62403C71.3464 2.57453 71.6399 1.94469 71.8598 2.40005C71.8902 2.46573 71.8109 2.72612 71.9602 2.78181C72.1834 2.86541 72.5801 2.91581 72.8123 2.82554C72.9839 2.75875 72.7796 2.33496 72.9985 2.46417C73.0956 2.52188 72.9213 2.77441 73.1033 2.86199C73.2825 2.94958 73.7448 2.93136 73.9256 2.9199C74.1035 2.9083 74.0009 2.58601 74.015 2.56397C74.1003 2.43763 74.4369 2.27619 74.4664 2.27611C75.8836 2.21634 77.2483 2.68771 78.6123 2.55886C78.6848 2.55226 78.7572 2.5441 78.8295 2.53424C78.9465 2.51874 78.8632 2.17846 78.881 2.17257C79.2784 2.02338 78.9778 2.9361 79.26 3.23574C79.2092 2.5434 79.3756 2.66636 79.6496 2.58616C79.7814 2.54696 79.7052 2.27974 79.7169 2.25209C79.9067 1.84156 80.0492 2.36591 80.0856 2.47307C80.2194 2.86724 80.3635 2.3969 80.4571 2.66032C80.5518 2.92173 80.3493 3.31448 80.6189 3.3054C80.6905 3.0562 80.4812 2.41099 80.6836 2.30284C81.4367 1.89392 82.8567 2.38142 83.4848 2.42505C84.1005 2.4688 84.281 2.42041 84.6511 2.5047C85.3005 2.65744 85.0561 2.17992 85.4455 1.95415C85.8477 1.72824 85.6684 2.91442 85.7302 3.16798C85.7915 3.42144 85.8505 3.15879 85.9236 3.29757C85.9963 3.43632 85.8457 3.61146 86.0127 3.66158C86.1809 3.71163 86.618 3.25303 86.6698 2.98627C86.7886 2.42097 86.5742 1.83237 87.0214 2.03403C87.047 2.04601 86.9689 2.35831 87.0665 2.38842C87.827 2.61751 88.616 2.62176 89.3939 2.82372C89.498 2.85202 89.4098 3.19936 89.4703 3.21975C90.0985 3.43325 89.8784 2.85227 90.2165 2.1996C90.1519 3.06341 90.339 3.58903 90.8286 3.58832C91.1223 3.58823 91.0666 3.21197 91.2491 2.94422C91.3036 2.86351 91.5061 3.12002 91.5458 2.94233C91.6634 2.3616 91.4654 1.7151 91.9655 1.96794C91.9872 1.97998 91.922 2.29785 91.9967 2.31626C92.4775 2.43691 92.5418 1.83015 93.0643 1.7518C93.4821 1.69023 94.2128 2.05381 94.6896 2.11119C94.6787 3.08142 95.1365 2.8567 95.3042 2.18718C95.6175 2.21329 95.9471 2.17472 96.2385 2.26723C96.3381 2.29878 96.2727 2.57966 96.2851 2.61002C96.4892 3.08622 96.6177 2.4358 96.6819 2.41046C97.4097 2.16514 97.9799 2.6629 98.6866 2.20214C98.7127 2.18568 98.7706 1.51285 98.9453 2.01187C98.9552 2.04626 98.7158 2.34367 99.0393 2.38022C99.2255 2.4014 99.4976 2.53699 99.7806 2.60261C99.9942 2.65244 100.218 2.65947 100.422 2.53862C100.534 2.47138 100.849 1.94609 101.037 2.38917C101.061 2.44926 101.015 2.63956 101.048 2.75C101.157 3.10202 101.286 2.42881 101.399 3.01807C101.514 3.60745 101.81 4.06542 102.29 3.70323C102.305 3.69279 102.453 3.16303 102.594 3.18288C102.817 3.21482 103.128 3.35252 103.363 3.36767C103.475 3.3747 103.43 3.0348 103.45 3.03023C104.221 2.90282 104.733 3.24268 105.534 3.4312C105.68 3.46642 106.139 3.04084 106.401 3.42084C106.69 3.83679 106.254 5.4579 107.013 5.11424C107.321 4.97669 107.815 2.91549 108.279 4.02494C109.316 3.81394 110.239 4.40934 111.281 4.05793C111.325 4.04322 111.473 3.5251 111.58 3.47818C111.587 3.4755 111.593 3.47437 111.599 3.47497C111.764 3.49258 111.841 3.76802 111.955 3.7905C112.433 3.89204 112.889 3.68838 113.353 3.7677C113.529 3.79769 113.438 4.07146 113.646 4.10895C113.848 4.14638 114.035 3.79414 114.296 4.00948C114.494 4.17395 114.59 4.95393 114.844 5.08556C114.976 4.34996 115.164 4.39497 115.542 4.26646C115.615 4.24152 115.593 3.9723 115.631 3.94744C115.787 3.84108 115.862 4.07624 116.013 3.95878C116.05 3.93062 116.104 3.68107 116.137 3.64405C116.427 3.32056 116.645 3.96028 116.676 4.07062C116.81 4.49242 116.988 4.19439 117.121 4.3811C117.253 4.56763 116.957 4.68708 117.131 4.82369C117.487 5.10321 118.017 5.20102 118.462 5.27787L118.431 5.27202C118.433 5.2725 118.435 5.27299 118.437 5.27348C118.596 5.31496 118.568 4.95758 118.592 4.9558C118.957 4.95526 119.186 5.40001 119.573 4.80891C119.278 6.55728 119.827 4.70569 120.201 5.2088C120.23 5.24953 119.991 6.04545 119.815 6.11235C119.641 6.17981 119.516 5.86359 119.268 5.98544C119.207 6.01228 118.734 6.68302 118.692 6.7205C118.338 7.00322 118.618 5.79647 118.618 5.72573C118.626 5.39059 118.521 5.34714 118.399 5.40833L118.441 5.41647C118.279 5.50377 118.085 5.74468 118.024 5.76538C117.514 5.93265 117.205 5.66981 116.823 5.77163C116.575 5.83665 116.362 6.62114 116.204 6.55753C115.687 6.35143 115.716 5.19808 115.017 6.06667C114.87 6.25357 114.825 7.14545 114.563 6.3932C114.547 6.34562 114.354 5.66837 114.127 6.0454C114.099 6.09292 114.064 6.3494 114.034 6.36718C113.834 6.48211 113.738 6.26213 113.524 6.33738C113.314 6.41318 113.058 6.53606 112.838 6.43033C112.703 6.36651 112.56 5.87328 112.496 5.75093C112.324 5.39888 112.084 5.94516 111.984 5.52858C111.876 5.10981 112.152 4.4916 111.827 4.21118C111.79 4.88277 111.738 5.5716 111.696 6.24688C111.633 6.24254 111.57 6.23674 111.505 6.22986C110.813 6.16041 110.137 5.95843 109.443 5.95369C109.349 5.95369 109.429 6.31931 109.327 6.32858C108.894 6.36582 108.533 6.08915 108.084 6.1668C107.735 6.22817 107.338 6.58779 106.971 6.6611C106.801 5.87938 106.253 6.1051 105.873 6.00776C105.74 5.97406 105.764 5.7697 105.673 5.69601C105.329 5.42279 105.45 6.11316 105.343 6.21276C104.884 6.63715 104.962 5.09954 104.462 5.09965C104.435 5.09917 104.05 5.89239 104.001 5.9398C103.694 6.25 103.977 5.65148 103.805 5.57728C103.491 5.44152 103.285 5.22862 102.888 5.43804C102.774 5.50032 102.469 5.98897 102.287 5.57764C102.263 5.52377 102.301 5.25468 102.279 5.23705C101.893 4.94061 101.816 5.78933 101.56 6.05855C101.307 6.32789 100.995 5.71366 100.935 5.53906C100.779 5.08719 101.095 5.36338 101.11 5.32138C101.271 4.82017 101.001 4.88761 100.807 4.82941C100.84 3.99401 100.558 4.02306 100.603 4.77241C100.608 4.85426 100.769 4.78825 100.807 4.82941C100.568 5.63337 100.261 5.71545 99.9784 4.92752C99.862 4.5977 99.9885 4.23688 99.6696 4.2499C99.6328 4.25155 99.5898 4.25855 99.5391 4.27165C99.3254 4.32789 99.3694 4.90676 99.1832 5.05385C98.7584 5.3896 98.2318 4.83906 97.7791 4.91737C97.6133 4.94576 97.7674 5.26281 97.659 5.2932C97.3668 5.37494 97.1038 5.13677 96.8105 5.25662C96.783 5.26788 96.8489 5.59777 96.7545 5.60162C96.0504 5.63765 95.4394 5.42865 94.6973 5.42711C94.3434 5.42644 93.6876 5.61335 93.3299 5.58008C92.6791 5.52445 91.8913 5.05345 91.3335 5.1763C90.9804 5.2549 91.0601 5.58374 90.9079 5.81019C90.5985 6.24929 90.0884 5.4755 90.007 5.35573C90.0056 5.35175 90.3155 5.27019 90.1476 5.103C90.0467 4.75155 90.0105 5.35416 90.007 5.35573C89.9521 5.27836 89.3438 5.21119 89.2192 5.27586C89.1525 5.31117 89.1941 5.62305 89.1592 5.63555C88.3301 5.92586 87.5177 6.01629 86.6599 5.88219C86.6454 5.87608 86.6622 5.52638 86.6282 5.51638C86.1541 5.36764 85.8336 5.79969 85.4383 6.05915C85.0505 6.3184 84.7277 6.23811 84.4763 5.64184C84.1687 5.72184 83.7475 5.46279 83.4895 5.30566C83.2347 5.14848 83.208 5.82914 83.1859 5.84291C82.5146 6.28328 82.103 5.90006 81.3947 5.85012C81.0674 5.82506 80.3782 5.93417 80.02 6.01401C79.7371 6.07824 79.5614 5.92151 79.2953 6.02751C79.2592 6.04168 79.3005 6.34393 79.2896 6.35576C78.9951 6.72265 79.1278 5.98017 79.0637 5.8489C78.9197 5.55402 78.8092 5.34441 78.6541 5.282C78.5628 5.24331 78.4553 5.26096 78.313 5.34962C78.2273 5.40275 77.9898 6.47256 77.83 6.53737C77.6222 6.61969 77.6955 6.2364 77.4766 6.33235C77.4578 6.34021 77.4656 6.57585 77.3288 6.56757C76.6957 6.5322 76.033 6.4053 75.3652 6.43934C75.2775 6.44303 75.3954 6.81514 75.2697 6.82661C74.6827 6.88009 74.0108 6.87676 73.4218 6.71097C73.2791 6.66895 73.364 6.40578 73.3319 6.32854C73.1352 5.86123 72.8748 6.5488 72.83 6.56253C71.75 6.90795 70.9431 6.30215 69.8338 6.61422C69.7759 6.63242 69.3352 7.37211 69.1211 6.74711C69.1066 6.70554 68.895 6.06599 68.7226 6.5083C68.7119 6.53597 68.8436 6.86485 68.6224 6.83463C68.4025 6.80447 68.0431 7.03121 67.7374 6.67242C67.6411 6.55939 67.4077 5.92179 67.1315 6.43741C67.1139 6.47338 66.6922 7.63606 66.5209 6.84124C66.493 6.7104 66.5071 5.86619 66.1701 6.3043C66.1057 6.38922 66.2282 6.57551 66.0566 6.6958C65.7887 6.88126 65.4485 6.66065 65.1313 7.04169C65.0763 7.10913 64.8465 7.68566 64.6467 7.25406C64.6154 7.18647 64.6683 6.90386 64.566 6.87396C64.0785 6.73051 63.5695 6.92715 63.0826 6.74001C62.9086 6.6743 62.9898 6.21749 62.8072 6.09836C62.6247 5.97926 62.2571 5.86778 62.0694 6.07896C61.8817 6.29022 62.1023 7.01265 61.8166 7.07534C60.5946 7.34729 59.3491 6.9415 58.1256 6.89898C57.9424 6.89263 58.0986 7.14988 57.8283 7.15918C56.8237 7.19474 55.1225 7.46587 54.2507 6.92803C53.5561 6.49719 54.416 6.14664 53.8874 5.97531C53.6322 5.89363 53.3699 6.74191 53.3087 6.76947C52.7113 7.04909 52.2814 6.6822 51.7486 6.80557C51.6379 6.83118 51.7524 7.1714 51.6581 7.18942C51.3358 7.25398 50.9923 7.10688 50.6814 7.13987C50.542 7.15546 50.572 7.41624 50.443 7.39818C50.1341 7.35797 49.8587 7.25262 49.5595 7.01261C49.5321 6.99075 49.7092 6.66284 49.4838 6.65443C49.1188 6.64173 48.6604 6.40763 48.241 6.66394C48.1166 6.74102 48.1215 7.33808 47.8441 6.93021C47.7859 6.84503 47.8469 6.127 47.5411 6.75154C47.4873 6.85537 46.9804 7.6993 46.7132 7.16501C46.6429 7.02438 46.4597 6.44062 46.3108 6.53526C46.2906 6.55031 46.3776 6.86963 46.2534 6.90295C45.8157 7.01478 45.3516 6.98814 44.899 7.096C44.7796 7.12541 44.9635 7.45431 44.7854 7.48755C44.2958 7.57945 43.6781 7.50504 43.1914 7.40912C43.0119 7.37312 43.131 7.09623 43.1175 7.06653C42.9003 6.58342 42.787 7.24216 42.718 7.28159C42.2857 7.51802 41.9604 7.21478 41.5645 7.30292C41.4556 7.3264 41.5382 7.63826 41.5169 7.66654C41.2957 7.94304 41.4546 7.37795 41.3107 7.3183C40.9073 7.14935 40.4598 7.18185 40.0527 7.22855C39.9031 7.24616 40.0774 7.60648 39.9431 7.61809C39.1549 7.69359 38.3354 7.67228 37.5558 7.48486C37.4091 7.44891 37.4965 7.16782 37.465 7.10446C37.2468 6.66116 36.9523 7.27554 36.8832 7.33474C36.5688 7.60502 36.4406 7.35982 36.1591 7.4106C34.7776 7.66311 33.0768 7.52727 31.7643 7.44767C30.0694 7.34531 28.7411 7.10113 27.1228 7.19687C27.0197 7.20261 27.1299 7.57283 27.0411 7.58255C25.892 7.69116 24.7694 7.56429 23.6169 7.69074C23.5231 7.70045 23.6643 8.0508 23.514 8.07823C23.2056 8.13696 22.813 8.12427 22.4975 8.01686C22.3437 7.96513 22.5439 7.6592 22.3891 7.61332C22.0287 7.5058 21.6435 7.48703 21.2752 7.54965C21.1185 7.57706 21.3616 7.93376 21.1574 7.94129C19.7729 7.99991 18.4043 8.08462 16.9985 7.64073C16.9018 7.61025 16.8054 6.87874 16.6033 7.02266C16.5912 7.22632 16.596 7.46556 16.5929 7.68308C14.5715 7.83359 12.5692 7.61252 10.5428 7.60671C10.4573 7.60655 10.6114 7.99243 10.4459 7.9941C9.48671 8.00421 8.56141 8.1271 7.57501 7.75732C7.47718 7.72118 7.51578 7.03719 7.231 7.14525C7.18086 7.16494 6.75054 7.26318 6.64174 7.41332C6.62698 7.43594 6.71087 7.75352 6.57217 7.7651C5.76602 7.82686 4.91855 7.76805 4.10886 7.58655C3.97817 7.55665 4.11117 7.21478 4.01803 7.19054C3.35778 7.02114 2.64729 7.29109 2.01405 6.99316C1.59018 6.79251 1.73614 6.20296 1.50317 5.62886C1.47022 5.54787 1.20965 5.53925 1.19063 5.20331C1.14209 4.35855 1.2529 3.43084 1.18626 2.53066C1.17212 2.33676 0.826889 2.55156 1.02558 2.07915C1.03949 2.04752 1.28971 1.88769 1.34935 1.72756C1.39088 1.61685 1.30711 1.27626 1.39323 1.13398C1.47935 0.991846 1.58127 1.27682 1.72516 1.10896C1.86896 0.939057 1.79809 0.551192 2.09002 0.500314ZM82.355 4.60317C82.1184 4.28001 82.1018 5.47677 82.3485 5.18682C82.3603 5.17139 82.3672 4.61901 82.355 4.60317ZM110.249 5.05497C109.964 4.51566 109.723 5.28164 109.922 5.69802C110.122 6.11387 110.336 5.21843 110.249 5.05497ZM113.348 4.8222C113.04 4.37571 112.851 6.06256 113.23 5.75263C113.251 5.73523 113.365 4.84814 113.348 4.8222ZM2.53651 5.44721C2.53305 5.43138 2.34566 5.41899 2.34145 5.43481C2.24808 5.81637 2.62279 5.84088 2.53651 5.44721ZM116.399 4.90247C116.343 4.65329 115.979 4.84413 116.05 5.15208C116.104 5.39885 116.464 5.21076 116.399 4.90247ZM70.2612 3.51332C70.2573 3.49555 70.1214 3.48165 70.1257 3.58237C70.1402 3.90675 70.3272 3.81218 70.2612 3.51332ZM121.483 6.3383C120.588 6.04304 120.915 4.57941 121.456 4.97894C121.569 5.0481 121.053 5.31036 121.163 5.48413C121.422 5.81857 121.827 5.00239 122.074 5.5249C122.129 5.62357 121.541 6.36164 121.481 6.33988C121.481 6.33935 121.482 6.33882 121.483 6.3383ZM82.2001 3.16831C82.1954 3.15256 82.0078 3.14036 82.0033 3.15611C81.9075 3.53741 82.2855 3.5622 82.2001 3.16831ZM62.4217 2.89858C62.4112 2.86503 61.9777 2.84047 61.9638 2.87176C61.7478 3.49641 62.6245 3.54791 62.4217 2.89858ZM94.697 2.13702C94.8916 1.75374 95.1486 1.70748 95.3033 2.1867C95.1112 2.162 94.8932 2.15936 94.697 2.13702Z"
+                                                    fill="currentcolor" />
+                                            </svg>
+                                        </span>
                                     </button>
-                                 </div>
-                              </div>
-                              <div class="col-xl-7 col-lg-12 col-md-12 col-sm-7">
-                                 <div class="it-course-content p-relative">
-                                    <div class="d-flex justify-content-between align-items-center mb-20">
-                                       <div class="it-course-author">
-                                          <img src="assets/img/avatar/avatar-1-1.jpg" alt="">
-                                          <span>anjali</span>
-                                       </div>
-                                       <!-- Price removed as requested -->
-                                    </div>
-                                    <h5 class="it-course-title mb-20"><a class="border-line" href="#">CUET Preparation</a></h5>
-                                    <div class="it-course-rating mb-10">
-                                       <div>
-                                          <i class="fa-sharp fa-solid fa-star"></i>
-                                          <i class="fa-sharp fa-solid fa-star"></i>
-                                          <i class="fa-sharp fa-solid fa-star"></i>
-                                          <i class="fa-sharp fa-solid fa-star"></i>
-                                          <i class="fa-sharp fa-regular fa-star"></i>
-                                          <span>(4.7/5 Customer Rating)</span>
-                                       </div>
-                                    </div>
-                                    <div class="it-course-meta d-flex justify-content-between">
-                                       <span>
-                                          <i class="fas fa-book"></i>
-                                          45 Lessons
-                                       </span>
-                                       <span>
-                                          <i class="fas fa-users"></i>
-                                          60 Students
-                                       </span>
-                                    </div>
-                                 </div>
-                              </div>
-                           </div>
+                                </li>
+                            </ul>
                         </div>
-                     </div>
-                     <div class="col-xl-6 col-lg-6 col-md-6">
-                        <div class="it-course-item mb-35">
-                           <div class="row gx-0">
-                              <div class="col-xl-5 col-lg-12 col-md-12 col-sm-5">
-                                 <div class="it-course-thumb z-index-1 border-radius-20">
-                                    <a href="#"><img class="w-100" src="assets/img/course/course-2-2.jpg" alt=""></a>
-                                    <span class="course-category">UG Entrance</span>
-                                    <button class="wishlist-btn">
-                                       <i class="far fa-heart"></i>
-                                    </button>
-                                 </div>
-                              </div>
-                              <div class="col-xl-7 col-lg-12 col-md-12 col-sm-7">
-                                 <div class="it-course-content p-relative">
-                                    <div class="d-flex justify-content-between align-items-center mb-20">
-                                       <div class="it-course-author">
-                                          <img src="assets/img/avatar/avatar-1-2.png" alt="">
-                                          <span>Vishwas</span>
-                                       </div>
-                                       <!-- Price removed as requested -->
+                    </div>
+                </div>
+            </div>
+            <div class="it-course-tab-content mb-45">
+                <div class="tab-content" id="myTabContent">
+                    <div class="tab-pane fade show active" id="all" role="tabpanel" aria-labelledby="all-tab">
+                        <div class="row gx-35">
+                            <div class="col-xl-6 col-lg-6 col-md-6">
+                                <div class="it-course-item mb-35">
+                                    <div class="row gx-0">
+                                        <div class="col-xl-5 col-lg-12 col-md-12 col-sm-5">
+                                            <div class="it-course-thumb z-index-1 border-radius-20">
+                                                <a href="#"><img class="w-100"
+                                                        src="{{ asset('assets/img/course/course-2-1.jpg') }}"
+                                                        alt=""></a>
+                                                <span class="course-category">MBA Entrance</span>
+                                                <button class="wishlist-btn">
+                                                    <i class="far fa-heart"></i>
+                                                </button>
+                                            </div>
+                                        </div>
+                                        <div class="col-xl-7 col-lg-12 col-md-12 col-sm-7">
+                                            <div class="it-course-content p-relative">
+                                                <div class="d-flex justify-content-between align-items-center mb-20">
+                                                    <div class="it-course-author">
+                                                        <img src="{{ asset('assets/img/avatar/avatar-1-1.jpg') }}"
+                                                            alt="">
+                                                        <span>anjali</span>
+                                                    </div>
+                                                    <!-- Price removed as requested -->
+                                                </div>
+                                                <h5 class="it-course-title mb-20"><a class="border-line" href="#">CAT
+                                                        Preparation</a></h5>
+                                                <div class="it-course-rating mb-10">
+                                                    <div>
+                                                        <i class="fa-sharp fa-solid fa-star"></i>
+                                                        <i class="fa-sharp fa-solid fa-star"></i>
+                                                        <i class="fa-sharp fa-solid fa-star"></i>
+                                                        <i class="fa-sharp fa-solid fa-star"></i>
+                                                        <i class="fa-sharp fa-regular fa-star"></i>
+                                                        <span>(4.7/5 Customer Rating)</span>
+                                                    </div>
+                                                </div>
+                                                <div class="it-course-meta d-flex justify-content-between">
+                                                    <span>
+                                                        <i class="fas fa-book"></i>
+                                                        40 Lessons
+                                                    </span>
+                                                    <span>
+                                                        <i class="fas fa-users"></i>
+                                                        50 Students
+                                                    </span>
+                                                </div>
+                                            </div>
+                                        </div>
                                     </div>
-                                    <h5 class="it-course-title mb-20"><a class="border-line" href="#">CLAT Preparation</a></h5>
-                                    <div class="it-course-rating mb-10">
-                                       <div>
-                                          <i class="fa-sharp fa-solid fa-star"></i>
-                                          <i class="fa-sharp fa-solid fa-star"></i>
-                                          <i class="fa-sharp fa-solid fa-star"></i>
-                                          <i class="fa-sharp fa-solid fa-star"></i>
-                                          <i class="fa-sharp fa-regular fa-star"></i>
-                                          <span>(4.7/5 Customer Rating)</span>
-                                       </div>
+                                </div>
+                            </div>
+                            <div class="col-xl-6 col-lg-6 col-md-6">
+                                <div class="it-course-item mb-35">
+                                    <div class="row gx-0">
+                                        <div class="col-xl-5 col-lg-12 col-md-12 col-sm-5">
+                                            <div class="it-course-thumb z-index-1 border-radius-20">
+                                                <a href="#"><img class="w-100"
+                                                        src="{{ asset('assets/img/course/course-2-2.jpg') }}"
+                                                        alt=""></a>
+                                                <span class="course-category">UG Entrance</span>
+                                                <button class="wishlist-btn">
+                                                    <i class="far fa-heart"></i>
+                                                </button>
+                                            </div>
+                                        </div>
+                                        <div class="col-xl-7 col-lg-12 col-md-12 col-sm-7">
+                                            <div class="it-course-content p-relative">
+                                                <div class="d-flex justify-content-between align-items-center mb-20">
+                                                    <div class="it-course-author">
+                                                        <img src="{{ asset('assets/img/avatar/avatar-1-2.png') }}"
+                                                            alt="">
+                                                        <span>Vishwas</span>
+                                                    </div>
+                                                    <!-- Price removed as requested -->
+                                                </div>
+                                                <h5 class="it-course-title mb-20"><a class="border-line" href="#">CUET
+                                                        Preparation</a></h5>
+                                                <div class="it-course-rating mb-10">
+                                                    <div>
+                                                        <i class="fa-sharp fa-solid fa-star"></i>
+                                                        <i class="fa-sharp fa-solid fa-star"></i>
+                                                        <i class="fa-sharp fa-solid fa-star"></i>
+                                                        <i class="fa-sharp fa-solid fa-star"></i>
+                                                        <i class="fa-sharp fa-regular fa-star"></i>
+                                                        <span>(4.7/5 Customer Rating)</span>
+                                                    </div>
+                                                </div>
+                                                <div class="it-course-meta d-flex justify-content-between">
+                                                    <span>
+                                                        <i class="fas fa-book"></i>
+                                                        35 Lessons
+                                                    </span>
+                                                    <span>
+                                                        <i class="fas fa-users"></i>
+                                                        45 Students
+                                                    </span>
+                                                </div>
+                                            </div>
+                                        </div>
                                     </div>
-                                    <div class="it-course-meta d-flex justify-content-between">
-                                       <span>
-                                          <i class="fas fa-book"></i>
-                                          40 Lessons
-                                       </span>
-                                       <span>
-                                          <i class="fas fa-users"></i>
-                                          55 Students
-                                       </span>
+                                </div>
+                            </div>
+                            <div class="col-xl-6 col-lg-6 col-md-6">
+                                <div class="it-course-item mb-35">
+                                    <div class="row gx-0">
+                                        <div class="col-xl-5 col-lg-12 col-md-12 col-sm-5">
+                                            <div class="it-course-thumb z-index-1 border-radius-20">
+                                                <a href="#"><img class="w-100"
+                                                        src="{{ asset('assets/img/course/course-2-3.jpg') }}"
+                                                        alt=""></a>
+                                                <span class="course-category">Special Courses</span>
+                                                <button class="wishlist-btn">
+                                                    <i class="far fa-heart"></i>
+                                                </button>
+                                            </div>
+                                        </div>
+                                        <div class="col-xl-7 col-lg-12 col-md-12 col-sm-7">
+                                            <div class="it-course-content p-relative">
+                                                <div class="d-flex justify-content-between align-items-center mb-20">
+                                                    <div class="it-course-author">
+                                                        <img src="{{ asset('assets/img/avatar/avatar-1-3.png') }}"
+                                                            alt="">
+                                                        <span>Chirag</span>
+                                                    </div>
+                                                    <!-- Price removed as requested -->
+                                                </div>
+                                                <h5 class="it-course-title mb-20"><a class="border-line" href="#">Quant
+                                                        Mastery</a></h5>
+                                                <div class="it-course-rating mb-10">
+                                                    <div>
+                                                        <i class="fa-sharp fa-solid fa-star"></i>
+                                                        <i class="fa-sharp fa-solid fa-star"></i>
+                                                        <i class="fa-sharp fa-solid fa-star"></i>
+                                                        <i class="fa-sharp fa-solid fa-star"></i>
+                                                        <i class="fa-sharp fa-regular fa-star"></i>
+                                                        <span>(4.7/5 Customer Rating)</span>
+                                                    </div>
+                                                </div>
+                                                <div class="it-course-meta d-flex justify-content-between">
+                                                    <span>
+                                                        <i class="fas fa-book"></i>
+                                                        30 Lessons
+                                                    </span>
+                                                    <span>
+                                                        <i class="fas fa-users"></i>
+                                                        40 Students
+                                                    </span>
+                                                </div>
+                                            </div>
+                                        </div>
                                     </div>
-                                 </div>
-                              </div>
-                           </div>
+                                </div>
+                            </div>
+                            <div class="col-xl-6 col-lg-6 col-md-6">
+                                <div class="it-course-item mb-35">
+                                    <div class="row gx-0">
+                                        <div class="col-xl-5 col-lg-12 col-md-12 col-sm-5">
+                                            <div class="it-course-thumb z-index-1 border-radius-20">
+                                                <a href="#"><img class="w-100"
+                                                        src="{{ asset('assets/img/course/course-2-4.jpg') }}"
+                                                        alt=""></a>
+                                                <span class="course-category">UG Entrance</span>
+                                                <button class="wishlist-btn">
+                                                    <i class="far fa-heart"></i>
+                                                </button>
+                                            </div>
+                                        </div>
+                                        <div class="col-xl-7 col-lg-12 col-md-12 col-sm-7">
+                                            <div class="it-course-content p-relative">
+                                                <div class="d-flex justify-content-between align-items-center mb-20">
+                                                    <div class="it-course-author">
+                                                        <img src="{{ asset('assets/img/avatar/avatar-1-5.png') }}"
+                                                            alt="">
+                                                        <span>Ayushi</span>
+                                                    </div>
+
+                                                </div>
+                                                <h5 class="it-course-title mb-20"><a class="border-line" href="#">CLAT
+                                                        Preparation</a></h5>
+                                                <div class="it-course-rating mb-10">
+                                                    <div>
+                                                        <i class="fa-sharp fa-solid fa-star"></i>
+                                                        <i class="fa-sharp fa-solid fa-star"></i>
+                                                        <i class="fa-sharp fa-solid fa-star"></i>
+                                                        <i class="fa-sharp fa-solid fa-star"></i>
+                                                        <i class="fa-sharp fa-regular fa-star"></i>
+                                                        <span>(4.7/5 Customer Rating)</span>
+                                                    </div>
+                                                </div>
+                                                <div class="it-course-meta d-flex justify-content-between">
+                                                    <span>
+                                                        <i class="fas fa-book"></i>
+                                                        45 Lessons
+                                                    </span>
+                                                    <span>
+                                                        <i class="fas fa-users"></i>
+                                                        55 Students
+                                                    </span>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
                         </div>
-                     </div>
-                     <div class="col-xl-6 col-lg-6 col-md-6">
-                        <div class="it-course-item mb-35">
-                           <div class="row gx-0">
-                              <div class="col-xl-5 col-lg-12 col-md-12 col-sm-5">
-                                 <div class="it-course-thumb z-index-1 border-radius-20">
-                                    <a href="#"><img class="w-100" src="assets/img/course/course-2-3.jpg" alt=""></a>
-                                    <span class="course-category">UG Entrance</span>
-                                    <button class="wishlist-btn">
-                                       <i class="far fa-heart"></i>
-                                    </button>
-                                 </div>
-                              </div>
-                              <div class="col-xl-7 col-lg-12 col-md-12 col-sm-7">
-                                 <div class="it-course-content p-relative">
-                                    <div class="d-flex justify-content-between align-items-center mb-20">
-                                       <div class="it-course-author">
-                                          <img src="assets/img/avatar/avatar-1-3.png" alt="">
-                                          <span>Chirag</span>
-                                       </div>
-                                       <!-- Price removed as requested -->
+                    </div>
+                    <div class="tab-pane fade" id="trending" role="tabpanel" aria-labelledby="trending-tab">
+                        <div class="row gx-35">
+                            <div class="col-xl-6 col-lg-6 col-md-6">
+                                <div class="it-course-item mb-35">
+                                    <div class="row gx-0">
+                                        <div class="col-xl-5 col-lg-12 col-md-12 col-sm-5">
+                                            <div class="it-course-thumb z-index-1 border-radius-20">
+                                                <a href="#"><img class="w-100"
+                                                        src="{{ asset('assets/img/course/course-2-1.jpg') }}"
+                                                        alt=""></a>
+                                                <span class="course-category">MBA Entrance</span>
+                                                <button class="wishlist-btn">
+                                                    <i class="far fa-heart"></i>
+                                                </button>
+                                            </div>
+                                        </div>
+                                        <div class="col-xl-7 col-lg-12 col-md-12 col-sm-7">
+                                            <div class="it-course-content p-relative">
+                                                <div class="d-flex justify-content-between align-items-center mb-20">
+                                                    <div class="it-course-author">
+                                                        <img src="{{ asset('assets/img/avatar/avatar-1-1.jpg') }}"
+                                                            alt="">
+                                                        <span>anjali</span>
+                                                    </div>
+                                                    <!-- Price removed as requested -->
+                                                </div>
+                                                <h5 class="it-course-title mb-20"><a class="border-line" href="#">CAT
+                                                        Preparation</a></h5>
+                                                <div class="it-course-rating mb-10">
+                                                    <div>
+                                                        <i class="fa-sharp fa-solid fa-star"></i>
+                                                        <i class="fa-sharp fa-solid fa-star"></i>
+                                                        <i class="fa-sharp fa-solid fa-star"></i>
+                                                        <i class="fa-sharp fa-solid fa-star"></i>
+                                                        <i class="fa-sharp fa-regular fa-star"></i>
+                                                        <span>(4.7/5 Customer Rating)</span>
+                                                    </div>
+                                                </div>
+                                                <div class="it-course-meta d-flex justify-content-between">
+                                                    <span>
+                                                        <i class="fas fa-book"></i>
+                                                        40 Lessons
+                                                    </span>
+                                                    <span>
+                                                        <i class="fas fa-users"></i>
+                                                        50 Students
+                                                    </span>
+                                                </div>
+                                            </div>
+                                        </div>
                                     </div>
-                                    <h5 class="it-course-title mb-20"><a class="border-line" href="#">BBA Entrance</a></h5>
-                                    <div class="it-course-rating mb-10">
-                                       <div>
-                                          <i class="fa-sharp fa-solid fa-star"></i>
-                                          <i class="fa-sharp fa-solid fa-star"></i>
-                                          <i class="fa-sharp fa-solid fa-star"></i>
-                                          <i class="fa-sharp fa-solid fa-star"></i>
-                                          <i class="fa-sharp fa-regular fa-star"></i>
-                                          <span>(4.7/5 Customer Rating)</span>
-                                       </div>
+                                </div>
+                            </div>
+                            <div class="col-xl-6 col-lg-6 col-md-6">
+                                <div class="it-course-item mb-35">
+                                    <div class="row gx-0">
+                                        <div class="col-xl-5 col-lg-12 col-md-12 col-sm-5">
+                                            <div class="it-course-thumb z-index-1 border-radius-20">
+                                                <a href="#"><img class="w-100"
+                                                        src="{{ asset('assets/img/course/course-2-2.jpg') }}"
+                                                        alt=""></a>
+                                                <span class="course-category">MBA Entrance</span>
+                                                <button class="wishlist-btn">
+                                                    <i class="far fa-heart"></i>
+                                                </button>
+                                            </div>
+                                        </div>
+                                        <div class="col-xl-7 col-lg-12 col-md-12 col-sm-7">
+                                            <div class="it-course-content p-relative">
+                                                <div class="d-flex justify-content-between align-items-center mb-20">
+                                                    <div class="it-course-author">
+                                                        <img src="{{ asset('assets/img/avatar/avatar-1-2.png') }}"
+                                                            alt="">
+                                                        <span>Vishwas</span>
+                                                    </div>
+                                                    <!-- Price removed as requested -->
+                                                </div>
+                                                <h5 class="it-course-title mb-20"><a class="border-line" href="#">GMAT
+                                                        Preparation</a></h5>
+                                                <div class="it-course-rating mb-10">
+                                                    <div>
+                                                        <i class="fa-sharp fa-solid fa-star"></i>
+                                                        <i class="fa-sharp fa-solid fa-star"></i>
+                                                        <i class="fa-sharp fa-solid fa-star"></i>
+                                                        <i class="fa-sharp fa-solid fa-star"></i>
+                                                        <i class="fa-sharp fa-regular fa-star"></i>
+                                                        <span>(4.7/5 Customer Rating)</span>
+                                                    </div>
+                                                </div>
+                                                <div class="it-course-meta d-flex justify-content-between">
+                                                    <span>
+                                                        <i class="fas fa-book"></i>
+                                                        35 Lessons
+                                                    </span>
+                                                    <span>
+                                                        <i class="fas fa-users"></i>
+                                                        45 Students
+                                                    </span>
+                                                </div>
+                                            </div>
+                                        </div>
                                     </div>
-                                    <div class="it-course-meta d-flex justify-content-between">
-                                       <span>
-                                          <i class="fas fa-book"></i>
-                                          35 Lessons
-                                       </span>
-                                       <span>
-                                          <i class="fas fa-users"></i>
-                                          50 Students
-                                       </span>
+                                </div>
+                            </div>
+                            <div class="col-xl-6 col-lg-6 col-md-6">
+                                <div class="it-course-item mb-35">
+                                    <div class="row gx-0">
+                                        <div class="col-xl-5 col-lg-12 col-md-12 col-sm-5">
+                                            <div class="it-course-thumb z-index-1 border-radius-20">
+                                                <a href="#"><img class="w-100"
+                                                        src="{{ asset('assets/img/course/course-2-3.jpg') }}"
+                                                        alt=""></a>
+                                                <span class="course-category">MBA Entrance</span>
+                                                <button class="wishlist-btn">
+                                                    <i class="far fa-heart"></i>
+                                                </button>
+                                            </div>
+                                        </div>
+                                        <div class="col-xl-7 col-lg-12 col-md-12 col-sm-7">
+                                            <div class="it-course-content p-relative">
+                                                <div class="d-flex justify-content-between align-items-center mb-20">
+                                                    <div class="it-course-author">
+                                                        alt="">
+                                                        <span>Chirag</span>
+                                                    </div>
+                                                    <!-- Price removed as requested -->
+                                                </div>
+                                                <h5 class="it-course-title mb-20"><a class="border-line" href="#">IPMAT
+                                                        Preparation</a></h5>
+                                                <div class="it-course-rating mb-10">
+                                                    <div>
+                                                        <i class="fa-sharp fa-solid fa-star"></i>
+                                                        <i class="fa-sharp fa-solid fa-star"></i>
+                                                        <i class="fa-sharp fa-solid fa-star"></i>
+                                                        <i class="fa-sharp fa-solid fa-star"></i>
+                                                        <i class="fa-sharp fa-regular fa-star"></i>
+                                                        <span>(4.7/5 Customer Rating)</span>
+                                                    </div>
+                                                </div>
+                                                <div class="it-course-meta d-flex justify-content-between">
+                                                    <span>
+                                                        <i class="fas fa-book"></i>
+                                                        30 Lessons
+                                                    </span>
+                                                    <span>
+                                                        <i class="fas fa-users"></i>
+                                                        40 Students
+                                                    </span>
+                                                </div>
+                                            </div>
+                                        </div>
                                     </div>
-                                 </div>
-                              </div>
-                           </div>
+                                </div>
+                            </div>
                         </div>
-                     </div>
-                  </div>
-               </div>
-               <div class="tab-pane fade" id="featured" role="tabpanel" aria-labelledby="featured-tab">
-                  <div class="row gx-35">
-                     <div class="col-xl-6 col-lg-6 col-md-6">
-                        <div class="it-course-item mb-35">
-                           <div class="row gx-0">
-                              <div class="col-xl-5 col-lg-12 col-md-12 col-sm-5">
-                                 <div class="it-course-thumb z-index-1 border-radius-20">
-                                    <a href="#"><img class="w-100" src="assets/img/course/course-2-1.jpg" alt=""></a>
-                                    <span class="course-category">Special Courses</span>
-                                    <button class="wishlist-btn">
-                                       <i class="far fa-heart"></i>
-                                    </button>
-                                 </div>
-                              </div>
-                              <div class="col-xl-7 col-lg-12 col-md-12 col-sm-7">
-                                 <div class="it-course-content p-relative">
-                                    <div class="d-flex justify-content-between align-items-center mb-20">
-                                       <div class="it-course-author">
-                                          <img src="assets/img/avatar/avatar-1-1.jpg" alt="">
-                                          <span>anjali</span>
-                                       </div>
-                                       <!-- Price removed as requested -->
+                    </div>
+                    <div class="tab-pane fade" id="popularity" role="tabpanel" aria-labelledby="popularity-tab">
+                        <div class="row gx-35">
+                            <div class="col-xl-6 col-lg-6 col-md-6">
+                                <div class="it-course-item mb-35">
+                                    <div class="row gx-0">
+                                        <div class="col-xl-5 col-lg-12 col-md-12 col-sm-5">
+                                            <div class="it-course-thumb z-index-1 border-radius-20">
+                                                <a href="#"><img class="w-100"
+                                                        src="{{ asset('assets/img/course/course-2-1.jpg') }}"
+                                                        alt=""></a>
+                                                <span class="course-category">UG Entrance</span>
+                                                <button class="wishlist-btn">
+                                                    <i class="far fa-heart"></i>
+                                                </button>
+                                            </div>
+                                        </div>
+                                        <div class="col-xl-7 col-lg-12 col-md-12 col-sm-7">
+                                            <div class="it-course-content p-relative">
+                                                <div class="d-flex justify-content-between align-items-center mb-20">
+                                                    <div class="it-course-author">
+                                                        <img src="{{ asset('assets/img/avatar/avatar-1-1.jpg') }}"
+                                                            alt="">
+                                                        <span>anjali</span>
+                                                    </div>
+                                                    <!-- Price removed as requested -->
+                                                </div>
+                                                <h5 class="it-course-title mb-20"><a class="border-line" href="#">CUET
+                                                        Preparation</a></h5>
+                                                <div class="it-course-rating mb-10">
+                                                    <div>
+                                                        <i class="fa-sharp fa-solid fa-star"></i>
+                                                        <i class="fa-sharp fa-solid fa-star"></i>
+                                                        <i class="fa-sharp fa-solid fa-star"></i>
+                                                        <i class="fa-sharp fa-solid fa-star"></i>
+                                                        <i class="fa-sharp fa-regular fa-star"></i>
+                                                        <span>(4.7/5 Customer Rating)</span>
+                                                    </div>
+                                                </div>
+                                                <div class="it-course-meta d-flex justify-content-between">
+                                                    <span>
+                                                        <i class="fas fa-book"></i>
+                                                        45 Lessons
+                                                    </span>
+                                                    <span>
+                                                        <i class="fas fa-users"></i>
+                                                        60 Students
+                                                    </span>
+                                                </div>
+                                            </div>
+                                        </div>
                                     </div>
-                                    <h5 class="it-course-title mb-20"><a class="border-line" href="#">Quant Mastery</a></h5>
-                                    <div class="it-course-rating mb-10">
-                                       <div>
-                                          <i class="fa-sharp fa-solid fa-star"></i>
-                                          <i class="fa-sharp fa-solid fa-star"></i>
-                                          <i class="fa-sharp fa-solid fa-star"></i>
-                                          <i class="fa-sharp fa-solid fa-star"></i>
-                                          <i class="fa-sharp fa-regular fa-star"></i>
-                                          <span>(4.7/5 Customer Rating)</span>
-                                       </div>
+                                </div>
+                            </div>
+                            <div class="col-xl-6 col-lg-6 col-md-6">
+                                <div class="it-course-item mb-35">
+                                    <div class="row gx-0">
+                                        <div class="col-xl-5 col-lg-12 col-md-12 col-sm-5">
+                                            <div class="it-course-thumb z-index-1 border-radius-20">
+                                                <a href="#"><img class="w-100"
+                                                        src="{{ asset('assets/img/course/course-2-2.jpg') }}"
+                                                        alt=""></a>
+                                                <span class="course-category">UG Entrance</span>
+                                                <button class="wishlist-btn">
+                                                    <i class="far fa-heart"></i>
+                                                </button>
+                                            </div>
+                                        </div>
+                                        <div class="col-xl-7 col-lg-12 col-md-12 col-sm-7">
+                                            <div class="it-course-content p-relative">
+                                                <div class="d-flex justify-content-between align-items-center mb-20">
+                                                    <div class="it-course-author">
+                                                        <img src="{{ asset('assets/img/avatar/avatar-1-2.png') }}"
+                                                            alt="">
+                                                        <span>Vishwas</span>
+                                                    </div>
+                                                    <!-- Price removed as requested -->
+                                                </div>
+                                                <h5 class="it-course-title mb-20"><a class="border-line" href="#">CLAT
+                                                        Preparation</a></h5>
+                                                <div class="it-course-rating mb-10">
+                                                    <div>
+                                                        <i class="fa-sharp fa-solid fa-star"></i>
+                                                        <i class="fa-sharp fa-solid fa-star"></i>
+                                                        <i class="fa-sharp fa-solid fa-star"></i>
+                                                        <i class="fa-sharp fa-solid fa-star"></i>
+                                                        <i class="fa-sharp fa-regular fa-star"></i>
+                                                        <span>(4.7/5 Customer Rating)</span>
+                                                    </div>
+                                                </div>
+                                                <div class="it-course-meta d-flex justify-content-between">
+                                                    <span>
+                                                        <i class="fas fa-book"></i>
+                                                        40 Lessons
+                                                    </span>
+                                                    <span>
+                                                        <i class="fas fa-users"></i>
+                                                        55 Students
+                                                    </span>
+                                                </div>
+                                            </div>
+                                        </div>
                                     </div>
-                                    <div class="it-course-meta d-flex justify-content-between">
-                                       <span>
-                                          <i class="fas fa-book"></i>
-                                          25 Lessons
-                                       </span>
-                                       <span>
-                                          <i class="fas fa-users"></i>
-                                          35 Students
-                                       </span>
+                                </div>
+                            </div>
+                            <div class="col-xl-6 col-lg-6 col-md-6">
+                                <div class="it-course-item mb-35">
+                                    <div class="row gx-0">
+                                        <div class="col-xl-5 col-lg-12 col-md-12 col-sm-5">
+                                            <div class="it-course-thumb z-index-1 border-radius-20">
+                                                <a href="#"><img class="w-100"
+                                                        src="{{ asset('assets/img/course/course-2-3.jpg') }}"
+                                                        alt=""></a>
+                                                <span class="course-category">UG Entrance</span>
+                                                <button class="wishlist-btn">
+                                                    <i class="far fa-heart"></i>
+                                                </button>
+                                            </div>
+                                        </div>
+                                        <div class="col-xl-7 col-lg-12 col-md-12 col-sm-7">
+                                            <div class="it-course-content p-relative">
+                                                <div class="d-flex justify-content-between align-items-center mb-20">
+                                                    <div class="it-course-author">
+                                                        <img src="{{ asset('assets/img/avatar/avatar-1-3.png') }}"
+                                                            alt="">
+                                                        <span>Chirag</span>
+                                                    </div>
+                                                    <!-- Price removed as requested -->
+                                                </div>
+                                                <h5 class="it-course-title mb-20"><a class="border-line" href="#">BBA
+                                                        Entrance</a></h5>
+                                                <div class="it-course-rating mb-10">
+                                                    <div>
+                                                        <i class="fa-sharp fa-solid fa-star"></i>
+                                                        <i class="fa-sharp fa-solid fa-star"></i>
+                                                        <i class="fa-sharp fa-solid fa-star"></i>
+                                                        <i class="fa-sharp fa-solid fa-star"></i>
+                                                        <i class="fa-sharp fa-regular fa-star"></i>
+                                                        <span>(4.7/5 Customer Rating)</span>
+                                                    </div>
+                                                </div>
+                                                <div class="it-course-meta d-flex justify-content-between">
+                                                    <span>
+                                                        <i class="fas fa-book"></i>
+                                                        35 Lessons
+                                                    </span>
+                                                    <span>
+                                                        <i class="fas fa-users"></i>
+                                                        50 Students
+                                                    </span>
+                                                </div>
+                                            </div>
+                                        </div>
                                     </div>
-                                 </div>
-                              </div>
-                           </div>
+                                </div>
+                            </div>
                         </div>
-                     </div>
-                     <div class="col-xl-6 col-lg-6 col-md-6">
-                        <div class="it-course-item mb-35">
-                           <div class="row gx-0">
-                              <div class="col-xl-5 col-lg-12 col-md-12 col-sm-5">
-                                 <div class="it-course-thumb z-index-1 border-radius-20">
-                                    <a href="#"><img class="w-100" src="assets/img/course/course-2-2.jpg" alt=""></a>
-                                    <span class="course-category">Special Courses</span>
-                                    <button class="wishlist-btn">
-                                       <i class="far fa-heart"></i>
-                                    </button>
-                                 </div>
-                              </div>
-                              <div class="col-xl-7 col-lg-12 col-md-12 col-sm-7">
-                                 <div class="it-course-content p-relative">
-                                    <div class="d-flex justify-content-between align-items-center mb-20">
-                                       <div class="it-course-author">
-                                          <img src="assets/img/avatar/avatar-1-2.png" alt="">
-                                          <span>Vishwas</span>
-                                       </div>
-                                       <!-- Price removed as requested -->
+                    </div>
+                    <div class="tab-pane fade" id="featured" role="tabpanel" aria-labelledby="featured-tab">
+                        <div class="row gx-35">
+                            <div class="col-xl-6 col-lg-6 col-md-6">
+                                <div class="it-course-item mb-35">
+                                    <div class="row gx-0">
+                                        <div class="col-xl-5 col-lg-12 col-md-12 col-sm-5">
+                                            <div class="it-course-thumb z-index-1 border-radius-20">
+                                                <a href="#"><img class="w-100"
+                                                        src="{{ asset('assets/img/course/course-2-1.jpg') }}"
+                                                        alt=""></a>
+                                                <span class="course-category">Special Courses</span>
+                                                <button class="wishlist-btn">
+                                                    <i class="far fa-heart"></i>
+                                                </button>
+                                            </div>
+                                        </div>
+                                        <div class="col-xl-7 col-lg-12 col-md-12 col-sm-7">
+                                            <div class="it-course-content p-relative">
+                                                <div class="d-flex justify-content-between align-items-center mb-20">
+                                                    <div class="it-course-author">
+                                                        <img src="{{ asset('assets/img/avatar/avatar-1-1.jpg') }}"
+                                                            alt="">
+                                                        <span>anjali</span>
+                                                    </div>
+                                                    <!-- Price removed as requested -->
+                                                </div>
+                                                <h5 class="it-course-title mb-20"><a class="border-line" href="#">Quant
+                                                        Mastery</a></h5>
+                                                <div class="it-course-rating mb-10">
+                                                    <div>
+                                                        <i class="fa-sharp fa-solid fa-star"></i>
+                                                        <i class="fa-sharp fa-solid fa-star"></i>
+                                                        <i class="fa-sharp fa-solid fa-star"></i>
+                                                        <i class="fa-sharp fa-solid fa-star"></i>
+                                                        <i class="fa-sharp fa-regular fa-star"></i>
+                                                        <span>(4.7/5 Customer Rating)</span>
+                                                    </div>
+                                                </div>
+                                                <div class="it-course-meta d-flex justify-content-between">
+                                                    <span>
+                                                        <i class="fas fa-book"></i>
+                                                        25 Lessons
+                                                    </span>
+                                                    <span>
+                                                        <i class="fas fa-users"></i>
+                                                        35 Students
+                                                    </span>
+                                                </div>
+                                            </div>
+                                        </div>
                                     </div>
-                                    <h5 class="it-course-title mb-20"><a class="border-line" href="#">Verbal Excellence</a></h5>
-                                    <div class="it-course-rating mb-10">
-                                       <div>
-                                          <i class="fa-sharp fa-solid fa-star"></i>
-                                          <i class="fa-sharp fa-solid fa-star"></i>
-                                          <i class="fa-sharp fa-solid fa-star"></i>
-                                          <i class="fa-sharp fa-solid fa-star"></i>
-                                          <i class="fa-sharp fa-regular fa-star"></i>
-                                          <span>(4.7/5 Customer Rating)</span>
-                                       </div>
+                                </div>
+                            </div>
+                            <div class="col-xl-6 col-lg-6 col-md-6">
+                                <div class="it-course-item mb-35">
+                                    <div class="row gx-0">
+                                        <div class="col-xl-5 col-lg-12 col-md-12 col-sm-5">
+                                            <div class="it-course-thumb z-index-1 border-radius-20">
+                                                <a href="#"><img class="w-100"
+                                                        src="{{ asset('assets/img/course/course-2-2.jpg') }}"
+                                                        alt=""></a>
+                                                <span class="course-category">Special Courses</span>
+                                                <button class="wishlist-btn">
+                                                    <i class="far fa-heart"></i>
+                                                </button>
+                                            </div>
+                                        </div>
+                                        <div class="col-xl-7 col-lg-12 col-md-12 col-sm-7">
+                                            <div class="it-course-content p-relative">
+                                                <div class="d-flex justify-content-between align-items-center mb-20">
+                                                    <div class="it-course-author">
+                                                        <img src="{{ asset('assets/img/avatar/avatar-1-2.png') }}"
+                                                            alt="">
+                                                        <span>Vishwas</span>
+                                                    </div>
+                                                    <!-- Price removed as requested -->
+                                                </div>
+                                                <h5 class="it-course-title mb-20"><a class="border-line" href="#">Verbal
+                                                        Excellence</a></h5>
+                                                <div class="it-course-rating mb-10">
+                                                    <div>
+                                                        <i class="fa-sharp fa-solid fa-star"></i>
+                                                        <i class="fa-sharp fa-solid fa-star"></i>
+                                                        <i class="fa-sharp fa-solid fa-star"></i>
+                                                        <i class="fa-sharp fa-solid fa-star"></i>
+                                                        <i class="fa-sharp fa-regular fa-star"></i>
+                                                        <span>(4.7/5 Customer Rating)</span>
+                                                    </div>
+                                                </div>
+                                                <div class="it-course-meta d-flex justify-content-between">
+                                                    <span>
+                                                        <i class="fas fa-book"></i>
+                                                        30 Lessons
+                                                    </span>
+                                                    <span>
+                                                        <i class="fas fa-users"></i>
+                                                        40 Students
+                                                    </span>
+                                                </div>
+                                            </div>
+                                        </div>
                                     </div>
-                                    <div class="it-course-meta d-flex justify-content-between">
-                                       <span>
-                                          <i class="fas fa-book"></i>
-                                          30 Lessons
-                                       </span>
-                                       <span>
-                                          <i class="fas fa-users"></i>
-                                          40 Students
-                                       </span>
+                                </div>
+                            </div>
+                            <div class="col-xl-6 col-lg-6 col-md-6">
+                                <div class="it-course-item mb-35">
+                                    <div class="row gx-0">
+                                        <div class="col-xl-5 col-lg-12 col-md-12 col-sm-5">
+                                            <div class="it-course-thumb z-index-1 border-radius-20">
+                                                <a href="#"><img class="w-100"
+                                                        src="{{ asset('assets/img/course/course-2-3.jpg') }}"
+                                                        alt=""></a>
+                                                <span class="course-category">Special Courses</span>
+                                                <button class="wishlist-btn">
+                                                    <i class="far fa-heart"></i>
+                                                </button>
+                                            </div>
+                                        </div>
+                                        <div class="col-xl-7 col-lg-12 col-md-12 col-sm-7">
+                                            <div class="it-course-content p-relative">
+                                                <div class="d-flex justify-content-between align-items-center mb-20">
+                                                    <div class="it-course-author">
+                                                        <img src="{{ asset('assets/img/avatar/avatar-1-3.png') }}"
+                                                            alt="">
+                                                        <span>Chirag</span>
+                                                    </div>
+                                                    <!-- Price removed as requested -->
+                                                </div>
+                                                <h5 class="it-course-title mb-20"><a class="border-line" href="#">LRDI
+                                                        Workshop</a></h5>
+                                                <div class="it-course-rating mb-10">
+                                                    <div>
+                                                        <i class="fa-sharp fa-solid fa-star"></i>
+                                                        <i class="fa-sharp fa-solid fa-star"></i>
+                                                        <i class="fa-sharp fa-solid fa-star"></i>
+                                                        <i class="fa-sharp fa-solid fa-star"></i>
+                                                        <i class="fa-sharp fa-regular fa-star"></i>
+                                                        <span>(4.7/5 Customer Rating)</span>
+                                                    </div>
+                                                </div>
+                                                <div class="it-course-meta d-flex justify-content-between">
+                                                    <span>
+                                                        <i class="fas fa-book"></i>
+                                                        20 Lessons
+                                                    </span>
+                                                    <span>
+                                                        <i class="fas fa-users"></i>
+                                                        30 Students
+                                                    </span>
+                                                </div>
+                                            </div>
+                                        </div>
                                     </div>
-                                 </div>
-                              </div>
-                           </div>
+                                </div>
+                            </div>
                         </div>
-                     </div>
-                     <div class="col-xl-6 col-lg-6 col-md-6">
-                        <div class="it-course-item mb-35">
-                           <div class="row gx-0">
-                              <div class="col-xl-5 col-lg-12 col-md-12 col-sm-5">
-                                 <div class="it-course-thumb z-index-1 border-radius-20">
-                                    <a href="#"><img class="w-100" src="assets/img/course/course-2-3.jpg" alt=""></a>
-                                    <span class="course-category">Special Courses</span>
-                                    <button class="wishlist-btn">
-                                       <i class="far fa-heart"></i>
-                                    </button>
-                                 </div>
-                              </div>
-                              <div class="col-xl-7 col-lg-12 col-md-12 col-sm-7">
-                                 <div class="it-course-content p-relative">
-                                    <div class="d-flex justify-content-between align-items-center mb-20">
-                                       <div class="it-course-author">
-                                          <img src="assets/img/avatar/avatar-1-3.png" alt="">
-                                          <span>Chirag</span>
-                                       </div>
-                                       <!-- Price removed as requested -->
+                    </div>
+
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-12">
+                    <div class="it-course-button text-center">
+                        <a href="#" class="it-btn-yellow theme-bg">
+                            <span>
+                                <span class="text-1">View All Courses</span>
+                                <span class="text-2">View All Courses</span>
+                            </span>
+                            <i>
+                                <svg width="16" height="15" viewBox="0 0 16 15" fill="none"
+                                    xmlns="http://www.w3.org/2000/svg">
+                                    <path
+                                        d="M15.0544 8.1364C15.4058 7.78492 15.4058 7.21508 15.0544 6.8636L9.3268 1.13604C8.97533 0.784567 8.40548 0.784567 8.05401 1.13604C7.70254 1.48751 7.70254 2.05736 8.05401 2.40883L13.1452 7.5L8.05401 12.5912C7.70254 12.9426 7.70254 13.5125 8.05401 13.864C8.40548 14.2154 8.97533 14.2154 9.3268 13.864L15.0544 8.1364ZM0.417969 7.5V8.4H14.418V7.5V6.6H0.417969V7.5Z"
+                                        fill="currentcolor" />
+                                </svg>
+                            </i>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- course-area-end -->
+
+
+    <!-- brand-area-start -->
+    <div class="it-brand-2-area theme-bg z-index-1 pt-90 pb-90">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <div class="it-brand-2-wrap">
+                        <div class="swiper it-brand-active">
+                            <div class="swiper-wrapper slider-transtion d-flex align-items-center">
+                                <div class="swiper-slide">
+                                    <div class="it-brand-2-item text-center">
+                                        <img src="{{ asset('assets/img/brand/brand-2-1.png') }}" alt="">
                                     </div>
-                                    <h5 class="it-course-title mb-20"><a class="border-line" href="#">LRDI Workshop</a></h5>
-                                    <div class="it-course-rating mb-10">
-                                       <div>
-                                          <i class="fa-sharp fa-solid fa-star"></i>
-                                          <i class="fa-sharp fa-solid fa-star"></i>
-                                          <i class="fa-sharp fa-solid fa-star"></i>
-                                          <i class="fa-sharp fa-solid fa-star"></i>
-                                          <i class="fa-sharp fa-regular fa-star"></i>
-                                          <span>(4.7/5 Customer Rating)</span>
-                                       </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="it-brand-2-item text-center">
+                                        <img src="{{ asset('assets/img/brand/brand-2-2.png') }}" alt="">
                                     </div>
-                                    <div class="it-course-meta d-flex justify-content-between">
-                                       <span>
-                                          <i class="fas fa-book"></i>
-                                          20 Lessons
-                                       </span>
-                                       <span>
-                                          <i class="fas fa-users"></i>
-                                          30 Students
-                                       </span>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="it-brand-2-item text-center">
+                                        <img src="{{ asset('assets/img/brand/brand-2-3.png') }}" alt="">
                                     </div>
-                                 </div>
-                              </div>
-                           </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="it-brand-2-item text-center">
+                                        <img src="{{ asset('assets/img/brand/brand-2-4.png') }}" alt="">
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="it-brand-2-item text-center">
+                                        <img src="{{ asset('assets/img/brand/brand-2-5.png') }}" alt="">
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="it-brand-2-item text-center">
+                                        <img src="assets/img/brand/brand-2-4.png" alt="">
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="it-brand-2-item text-center">
+                                        <img src="{{ asset('assets/img/brand/brand-2-2.png') }}" alt="">
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="it-brand-2-item text-center">
+                                        <img src="{{ asset('assets/img/brand/brand-2-3.png') }}" alt="">
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="it-brand-2-item text-center">
+                                        <img src="{{ asset('assets/img/brand/brand-2-4.png') }}" alt="">
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="it-brand-2-item text-center">
+                                        <img src="{{ asset('assets/img/brand/brand-2-5.png') }}" alt="">
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="it-brand-2-item text-center">
+                                        <img src="{{ asset('assets/img/brand/brand-2-4.png') }}" alt="">
+                                    </div>
+                                </div>
+                            </div>
                         </div>
-                     </div>
-                  </div>
-               </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- brand-area-end -->
+
+
+    <!-- choose-area-start -->
+    <section class="it-choose-4-area p-relative theme-4-bg pt-130 pb-95" style="background:var(--it-gray-1);">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <div class="it-choose-section-title-box text-center mb-70">
+                        <span class="it-section-subtitle">Kyms Academy Excellence</span>
+                        <h4 class="it-section-title">Transforming Aspirations <br>Into Successful Careers
+
+                        </h4>
+                    </div>
+                </div>
+            </div>
+            <div class="row gx-30">
+                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 wow itfadeUp" data-wow-duration=".9s"
+                    data-wow-delay=".3s">
+                    <div class="it-choose-4-item mb-35 p-relative text-center">
+                        <span class="it-choose-4-number"><i class="purecounter" data-purecounter-duration="1"
+                                data-purecounter-end="95">0</i>%</span>
+                        <h4 class="it-choose-4-title"><a class="border-line" href="#">Success Rate</a></h4>
+                        <div class="it-choose-4-thumb">
+                            <img src="{{ asset('assets/img/wcu-1.webp') }}" alt="95% Success Rate">
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 wow itfadeUp" data-wow-duration=".9s"
+                    data-wow-delay=".5s">
+                    <div class="it-choose-4-item mb-35 p-relative text-center">
+                        <span class="it-choose-4-number"><i class="purecounter" data-purecounter-duration="1"
+                                data-purecounter-end="1500">0</i>+</span>
+                        <h4 class="it-choose-4-title"><a class="border-line" href="#">Successful Selections</a></h4>
+                        <div class="it-choose-4-thumb">
+                            <img src="{{ asset('assets/img/wcu-2.webp') }}" alt="1500+ Selections">
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 wow itfadeUp" data-wow-duration=".9s"
+                    data-wow-delay=".7s">
+                    <div class="it-choose-4-item mb-35 p-relative text-center">
+                        <span class="it-choose-4-number"><i class="purecounter" data-purecounter-duration="1"
+                                data-purecounter-end="10">0</i>+</span>
+                        <h4 class="it-choose-4-title"><a class="border-line" href="#">Years of Excellence</a></h4>
+                        <div class="it-choose-4-thumb">
+                            <img src="{{ asset('assets/img/wcu-3.webp') }}" alt="10+ Years of Excellence">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- choose-area-end -->
+
+    <!-- testimonial-area-start -->
+    <section class="it-testimonial-area z-index-1 pt-130 pb-130">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <div class="it-testimonial-section-title-box text-center mb-70">
+                        <span class="it-section-subtitle">Student Success Stories</span>
+                        <h4 class="it-section-title">
+                            Success Speaks Louder
+                            <span class="highlight-text z-index-1 position-relative">
+                                Than Words
+                            </span>
+                            <br> Hear From Our Achievers
+                        </h4>
+                        <p class="section-description mt-3">Discover how Kyms Academy transformed aspirations into
+                            achievements</p>
+                    </div>
+                </div>
+            </div>
+            <div class="row justify-content-center">
+                <div class="col-lg-10">
+                    <div class="it-testimonial-wrapper p-relative">
+                        <div class="swiper it-testimonial-active">
+                            <div class="swiper-wrapper">
+                                <div class="swiper-slide custom-slider-tm">
+                                    <div class="it-testimonial-item">
+                                        <div class="row align-items-center">
+                                            <div class="col-lg-5 col-md-5">
+                                                <div class="it-testimonial-thumb border-radius-20">
+                                                    <img src="{{ asset('assets/img/tm-1.webp') }}" alt="">
+                                                </div>
+                                            </div>
+                                            <div class="col-lg-7 col-md-7">
+                                                <div class="it-testimonial-content">
+                                                    <div class="it-testimonial-quote mb-35">
+                                                        <svg width="30" height="22" viewBox="0 0 30 22" fill="none"
+                                                            xmlns="http://www.w3.org/2000/svg">
+                                                            <path
+                                                                d="M10 0.0849609H5C3.67392 0.0849609 2.40215 0.611745 1.46447 1.54943C0.526784 2.48711 0 3.75888 0 5.08496L0 10.085C0 10.748 0.263392 11.3839 0.732233 11.8527C1.20107 12.3216 1.83696 12.585 2.5 12.585H9.8875C9.59091 14.3306 8.68685 15.9153 7.33504 17.059C5.98323 18.2026 4.27069 18.8317 2.5 18.835C2.16848 18.835 1.85054 18.9667 1.61612 19.2011C1.3817 19.4355 1.25 19.7534 1.25 20.085C1.25 20.4165 1.3817 20.7344 1.61612 20.9688C1.85054 21.2033 2.16848 21.335 2.5 21.335C5.15125 21.332 7.69306 20.2775 9.56778 18.4027C11.4425 16.528 12.497 13.9862 12.5 11.335V2.58496C12.5 1.92192 12.2366 1.28603 11.7678 0.817194C11.2989 0.348353 10.663 0.0849609 10 0.0849609Z"
+                                                                fill="#4C505B" />
+                                                            <path
+                                                                d="M27.5 0.0849609H22.5C21.1739 0.0849609 19.9021 0.611745 18.9645 1.54943C18.0268 2.48711 17.5 3.75888 17.5 5.08496V10.085C17.5 10.748 17.7634 11.3839 18.2322 11.8527C18.7011 12.3216 19.337 12.585 20 12.585H27.3875C27.0909 14.3306 26.1868 15.9153 24.835 17.059C23.4832 18.2026 21.7707 18.8317 20 18.835C19.6685 18.835 19.3505 18.9667 19.1161 19.2011C18.8817 19.4355 18.75 19.7534 18.75 20.085C18.75 20.4165 18.8817 20.7344 19.1161 20.9688C19.3505 21.2033 19.6685 21.335 20 21.335C22.6513 21.332 25.1931 20.2775 27.0678 18.4027C28.9425 16.528 29.997 13.9862 30 11.335V2.58496C30 1.92192 29.7366 1.28603 29.2678 0.817194C28.7989 0.348353 28.163 0.0849609 27.5 0.0849609Z"
+                                                                fill="#4C505B" />
+                                                        </svg>
+                                                    </div>
+                                                    <div class="it-testimonial-text">
+                                                        <h5 class="mb-30">The strategy at KYMS is unmatched. They don't
+                                                            just teach
+                                                            you the syllabus; they teach you how to attempt the paper.
+                                                            My VARC and Quant scores were a direct result of the
+                                                            personalized attention I received here. If you are serious
+                                                            about a Tier-1 B-School, this is where you start</h5>
+                                                    </div>
+                                                    <div
+                                                        class="it-testimonial-bottom d-flex align-items-center justify-content-between">
+                                                        <div class="it-testimonial-avatar-info">
+                                                            <h5 class="it-testimonial-avatar-name">Chirag Ramchandani
+                                                            </h5>
+                                                            <span>(98.96%tile) CAT 2026-</span>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="swiper-slide custom-slider-tm">
+                                    <div class="it-testimonial-item">
+                                        <div class="row align-items-center">
+                                            <div class="col-lg-5 col-md-5">
+                                                <div class="it-testimonial-thumb border-radius-20">
+                                                    <img src="{{ asset('assets/img/tm-2.webp') }}" alt="">
+                                                </div>
+                                            </div>
+                                            <div class="col-lg-7 col-md-7">
+                                                <div class="it-testimonial-content">
+                                                    <div class="it-testimonial-quote mb-35">
+                                                        <svg width="30" height="22" viewBox="0 0 30 22" fill="none"
+                                                            xmlns="http://www.w3.org/2000/svg">
+                                                            <path
+                                                                d="M10 0.0849609H5C3.67392 0.0849609 2.40215 0.611745 1.46447 1.54943C0.526784 2.48711 0 3.75888 0 5.08496L0 10.085C0 10.748 0.263392 11.3839 0.732233 11.8527C1.20107 12.3216 1.83696 12.585 2.5 12.585H9.8875C9.59091 14.3306 8.68685 15.9153 7.33504 17.059C5.98323 18.2026 4.27069 18.8317 2.5 18.835C2.16848 18.835 1.85054 18.9667 1.61612 19.2011C1.3817 19.4355 1.25 19.7534 1.25 20.085C1.25 20.4165 1.3817 20.7344 1.61612 20.9688C1.85054 21.2033 2.16848 21.335 2.5 21.335C5.15125 21.332 7.69306 20.2775 9.56778 18.4027C11.4425 16.528 12.497 13.9862 12.5 11.335V2.58496C12.5 1.92192 12.2366 1.28603 11.7678 0.817194C11.2989 0.348353 10.663 0.0849609 10 0.0849609Z"
+                                                                fill="#4C505B" />
+                                                            <path
+                                                                d="M27.5 0.0849609H22.5C21.1739 0.0849609 19.9021 0.611745 18.9645 1.54943C18.0268 2.48711 17.5 3.75888 17.5 5.08496V10.085C17.5 10.748 17.7634 11.3839 18.2322 11.8527C18.7011 12.3216 19.337 12.585 20 12.585H27.3875C27.0909 14.3306 26.1868 15.9153 24.835 17.059C23.4832 18.2026 21.7707 18.8317 20 18.835C19.6685 18.835 19.3505 18.9667 19.1161 19.2011C18.8817 19.4355 18.75 19.7534 18.75 20.085C18.75 20.4165 18.8817 20.7344 19.1161 20.9688C19.3505 21.2033 19.6685 21.335 20 21.335C22.6513 21.332 25.1931 20.2775 27.0678 18.4027C28.9425 16.528 29.997 13.9862 30 11.335V2.58496C30 1.92192 29.7366 1.28603 29.2678 0.817194C28.7989 0.348353 28.163 0.0849609 27.5 0.0849609Z"
+                                                                fill="#4C505B" />
+                                                        </svg>
+                                                    </div>
+                                                    <div class="it-testimonial-text">
+                                                        <h5 class="mb-30">Joining KYMS Academy was the turning point in
+                                                            my undergraduate
+                                                            preparation. The structured approach to the IPMAT 2024
+                                                            syllabus and the
+                                                            constant mentorship helped me crack the code to the IIMs,
+                                                            leading to a
+                                                            prestigious call from IIM Amritsar.
+                                                        </h5>
+                                                    </div>
+                                                    <div
+                                                        class="it-testimonial-bottom d-flex align-items-center justify-content-between">
+                                                        <div class="it-testimonial-avatar-info">
+                                                            <h5 class="it-testimonial-avatar-name">Lakshya Ramchandani
+                                                            </h5>
+                                                            <span> IPMAT 2024 Achievements: IIM Amritsar (IPM) Call
+                                                                Getter | NMIMS
+                                                                Mumbai (Top Scorer)
+                                                            </span>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="swiper-slide custom-slider-tm">
+                                    <div class="it-testimonial-item">
+                                        <div class="row align-items-center">
+                                            <div class="col-lg-5 col-md-5">
+                                                <div class="it-testimonial-thumb border-radius-20">
+                                                    <img src="{{ asset('assets/img/tm-3.webp') }}" alt="">
+                                                </div>
+                                            </div>
+                                            <div class="col-lg-7 col-md-7">
+                                                <div class="it-testimonial-content">
+                                                    <div class="it-testimonial-quote mb-35">
+                                                        <svg width="30" height="22" viewBox="0 0 30 22" fill="none"
+                                                            xmlns="http://www.w3.org/2000/svg">
+                                                            <path
+                                                                d="M10 0.0849609H5C3.67392 0.0849609 2.40215 0.611745 1.46447 1.54943C0.526784 2.48711 0 3.75888 0 5.08496L0 10.085C0 10.748 0.263392 11.3839 0.732233 11.8527C1.20107 12.3216 1.83696 12.585 2.5 12.585H9.8875C9.59091 14.3306 8.68685 15.9153 7.33504 17.059C5.98323 18.2026 4.27069 18.8317 2.5 18.835C2.16848 18.835 1.85054 18.9667 1.61612 19.2011C1.3817 19.4355 1.25 19.7534 1.25 20.085C1.25 20.4165 1.3817 20.7344 1.61612 20.9688C1.85054 21.2033 2.16848 21.335 2.5 21.335C5.15125 21.332 7.69306 20.2775 9.56778 18.4027C11.4425 16.528 12.497 13.9862 12.5 11.335V2.58496C12.5 1.92192 12.2366 1.28603 11.7678 0.817194C11.2989 0.348353 10.663 0.0849609 10 0.0849609Z"
+                                                                fill="#4C505B" />
+                                                            <path
+                                                                d="M27.5 0.0849609H22.5C21.1739 0.0849609 19.9021 0.611745 18.9645 1.54943C18.0268 2.48711 17.5 3.75888 17.5 5.08496V10.085C17.5 10.748 17.7634 11.3839 18.2322 11.8527C18.7011 12.3216 19.337 12.585 20 12.585H27.3875C27.0909 14.3306 26.1868 15.9153 24.835 17.059C23.4832 18.2026 21.7707 18.8317 20 18.835C19.6685 18.835 19.3505 18.9667 19.1161 19.2011C18.8817 19.4355 18.75 19.7534 18.75 20.085C18.75 20.4165 18.8817 20.7344 19.1161 20.9688C19.3505 21.2033 19.6685 21.335 20 21.335C22.6513 21.332 25.1931 20.2775 27.0678 18.4027C28.9425 16.528 29.997 13.9862 30 11.335V2.58496C30 1.92192 29.7366 1.28603 29.2678 0.817194C28.7989 0.348353 28.163 0.0849609 27.5 0.0849609Z"
+                                                                fill="#4C505B" />
+                                                        </svg>
+                                                    </div>
+                                                    <div class="it-testimonial-text">
+                                                        <h5 class="mb-30">Securing a seat at IIM Bodh Gaya for the IPM
+                                                            program was a dream that KYMS Academy helped turn into
+                                                            reality. The focused approach to IPMAT and the constant
+                                                            support from the faculty made even the toughest topics seem
+                                                            easy. Joining KYMS was the turning point in my prep. If
+                                                            you're aiming for an IIM right after school, this is the
+                                                            place to be!</h5>
+                                                    </div>
+                                                    <div
+                                                        class="it-testimonial-bottom d-flex align-items-center justify-content-between">
+                                                        <div class="it-testimonial-avatar-info">
+                                                            <h5 class="it-testimonial-avatar-name">Vishwas</h5>
+                                                            <span> IIM Bodh Gaya - IPM Final Conversion</span>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="it-testimonial-arrow-wrap">
+                            <button class="arrow-prev">
+                                <svg width="21" height="21" viewBox="0 0 21 21" fill="none"
+                                    xmlns="http://www.w3.org/2000/svg">
+                                    <path
+                                        d="M8.81934 0.0849609C8.5201 0.0849894 8.32582 0.116974 8.23633 0.180664C8.14697 0.244474 8.07504 0.390586 8.02246 0.619141C7.94886 1.12972 7.813 1.65424 7.61328 2.19141C7.05586 3.90448 6.13205 5.43175 4.84375 6.77246C3.55528 8.11319 2.0533 9.07686 0.338867 9.66211C0.113122 9.74189 0.000144992 9.8831 0 10.085C8.0099e-05 10.2869 0.11313 10.428 0.338867 10.5078C2.05323 11.093 3.55532 12.0568 4.84375 13.3975C6.13205 14.7382 7.05586 16.2654 7.61328 17.9785C7.78677 18.5157 7.92256 19.0267 8.02246 19.5107C8.07505 19.7661 8.14694 19.9264 8.23633 19.9902C8.32595 20.0538 8.52042 20.0849 8.81934 20.085C9.35038 20.085 9.61705 19.944 9.61719 19.6621C9.6169 19.5869 9.53985 19.2677 9.3877 18.7051C8.6041 15.5128 6.85008 12.8947 4.12598 10.8516H21V9.31934H4.12598C5.91933 7.9679 7.30756 6.33338 8.29102 4.41797C8.92196 3.1891 9.33728 1.97626 9.53711 0.779297C9.53712 0.726125 9.54576 0.672313 9.56152 0.619141C9.57193 0.57166 9.57712 0.534295 9.57715 0.507812C9.57693 0.226057 9.324 0.0849609 8.81934 0.0849609Z"
+                                        fill="currentcolor" />
+                                    <path
+                                        d="M8.81934 0.0849609C8.5201 0.0849894 8.32582 0.116974 8.23633 0.180664C8.14697 0.244474 8.07504 0.390586 8.02246 0.619141C7.94886 1.12972 7.813 1.65424 7.61328 2.19141C7.05586 3.90448 6.13205 5.43175 4.84375 6.77246C3.55528 8.11319 2.0533 9.07686 0.338867 9.66211C0.113122 9.74189 0.000144992 9.8831 0 10.085C8.0099e-05 10.2869 0.11313 10.428 0.338867 10.5078C2.05323 11.093 3.55532 12.0568 4.84375 13.3975C6.13205 14.7382 7.05586 16.2654 7.61328 17.9785C7.78677 18.5157 7.92256 19.0267 8.02246 19.5107C8.07505 19.7661 8.14694 19.9264 8.23633 19.9902C8.32595 20.0538 8.52042 20.0849 8.81934 20.085C9.35038 20.085 9.61705 19.944 9.61719 19.6621C9.6169 19.5869 9.53985 19.2677 9.3877 18.7051C8.6041 15.5128 6.85008 12.8947 4.12598 10.8516H21V9.31934H4.12598C5.91933 7.9679 7.30756 6.33338 8.29102 4.41797C8.92196 3.1891 9.33728 1.97626 9.53711 0.779297C9.53712 0.726125 9.54576 0.672313 9.56152 0.619141C9.57193 0.57166 9.57712 0.534295 9.57715 0.507812C9.57693 0.226057 9.324 0.0849609 8.81934 0.0849609Z"
+                                        stroke="#03594E" />
+                                </svg>
+                            </button>
+                            <button class="arrow-next">
+                                <svg width="21" height="21" viewBox="0 0 21 21" fill="none"
+                                    xmlns="http://www.w3.org/2000/svg">
+                                    <path
+                                        d="M12.1807 0.0849609C12.4799 0.0849894 12.6742 0.116974 12.7637 0.180664C12.853 0.244474 12.925 0.390586 12.9775 0.619141C13.0511 1.12972 13.187 1.65424 13.3867 2.19141C13.9441 3.90448 14.868 5.43175 16.1562 6.77246C17.4447 8.11319 18.9467 9.07686 20.6611 9.66211C20.8869 9.74189 20.9999 9.8831 21 10.085C20.9999 10.2869 20.8869 10.428 20.6611 10.5078C18.9468 11.093 17.4447 12.0568 16.1562 13.3975C14.868 14.7382 13.9441 16.2654 13.3867 17.9785C13.2132 18.5157 13.0774 19.0267 12.9775 19.5107C12.925 19.7661 12.8531 19.9264 12.7637 19.9902C12.6741 20.0538 12.4796 20.0849 12.1807 20.085C11.6496 20.085 11.3829 19.944 11.3828 19.6621C11.3831 19.5869 11.4602 19.2677 11.6123 18.7051C12.3959 15.5128 14.1499 12.8947 16.874 10.8516H0V9.31934H16.874C15.0807 7.9679 13.6924 6.33338 12.709 4.41797C12.078 3.1891 11.6627 1.97626 11.4629 0.779297C11.4629 0.726125 11.4542 0.672313 11.4385 0.619141C11.4281 0.57166 11.4229 0.534295 11.4229 0.507812C11.4231 0.226057 11.676 0.0849609 12.1807 0.0849609Z"
+                                        fill="currentcolor" />
+                                    <path
+                                        d="M12.1807 0.0849609C12.4799 0.0849894 12.6742 0.116974 12.7637 0.180664C12.853 0.244474 12.925 0.390586 12.9775 0.619141C13.0511 1.12972 13.187 1.65424 13.3867 2.19141C13.9441 3.90448 14.868 5.43175 16.1562 6.77246C17.4447 8.11319 18.9467 9.07686 20.6611 9.66211C20.8869 9.74189 20.9999 9.8831 21 10.085C20.9999 10.2869 20.8869 10.428 20.6611 10.5078C18.9468 11.093 17.4447 12.0568 16.1562 13.3975C14.868 14.7382 13.9441 16.2654 13.3867 17.9785C13.2132 18.5157 13.0774 19.0267 12.9775 19.5107C12.925 19.7661 12.8531 19.9264 12.7637 19.9902C12.6741 20.0538 12.4796 20.0849 12.1807 20.085C11.6496 20.085 11.3829 19.944 11.3828 19.6621C11.3831 19.5869 11.4602 19.2677 11.6123 18.7051C12.3959 15.5128 14.1499 12.8947 16.874 10.8516H0V9.31934H16.874C15.0807 7.9679 13.6924 6.33338 12.709 4.41797C12.078 3.1891 11.6627 1.97626 11.4629 0.779297C11.4629 0.726125 11.4542 0.672313 11.4385 0.619141C11.4281 0.57166 11.4229 0.534295 11.4229 0.507812C11.4231 0.226057 11.676 0.0849609 12.1807 0.0849609Z"
+                                        stroke="#03594E" />
+                                </svg>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- testimonial-area-end -->
+
+    <!-- faq-area-start -->
+    <section class="it-faq-area it-faq-style-3 it-faq-style-2 z-index-1 pb-130">
+        <div class="container">
+            <div class="row align-items-center">
+
+                <!-- FAQ LEFT -->
+                <div class="col-xl-7 col-lg-6 wow itfadeLeft" data-wow-duration=".9s" data-wow-delay=".5s">
+                    <div class="it-faq-left">
+                        <div class="it-faq-section-title-box mb-40">
+                            <span class="it-section-subtitle">Get Your Answers</span>
+                            <h4 class="it-section-title">
+                                Frequently Asked <br>
+                                <span class="z-index-1 highlight-text">
+                                    Questions About KYMS Academy
+                                </span>
+                            </h4>
+                        </div>
+
+                        <div class="it-custom-accordion">
+                            <div class="accordion" id="accordionExample">
+
+                                <!-- Question 1 -->
+                                <div class="accordion-items mb-30">
+                                    <h4 class="accordion-header" id="headingOne2">
+                                        <button class="accordion-buttons" type="button" data-bs-toggle="collapse"
+                                            data-bs-target="#collapseOne2" aria-expanded="true">
+                                            Which entrance exams does KYMS Academy prepare students for?
+                                        </button>
+                                    </h4>
+                                    <div id="collapseOne2" class="accordion-collapse collapse show"
+                                        data-bs-parent="#accordionExample">
+                                        <div class="accordion-body">
+                                            <p>
+                                                KYMS Academy offers expert coaching for major entrance exams including
+                                                <strong>CAT, IPMAT, CUET, CLAT, GMAT</strong> and other
+                                                <strong>BBA/BMS & management entrance exams</strong>.
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <!-- Question 2 -->
+                                <div class="accordion-items mb-30">
+                                    <h4 class="accordion-header" id="headingTwo3">
+                                        <button class="accordion-buttons collapsed" type="button"
+                                            data-bs-toggle="collapse" data-bs-target="#collapseTwo3">
+                                            What teaching methodology does KYMS Academy follow?
+                                        </button>
+                                    </h4>
+                                    <div id="collapseTwo3" class="accordion-collapse collapse"
+                                        data-bs-parent="#accordionExample">
+                                        <div class="accordion-body">
+                                            <ul style="  padding-left:0;">
+                                                <li>Strong focus on conceptual clarity</li>
+                                                <li>Regular practice tests & mock exams</li>
+                                                <li>Small batch sizes for personal attention</li>
+                                                <li>Dedicated doubt-clearing sessions</li>
+                                                <li>Hybrid learning (Online + Offline)</li>
+                                                <li>Performance tracking & mentoring</li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <!-- Question 3 -->
+                                <div class="accordion-items mb-30">
+                                    <h4 class="accordion-header" id="headingFour4">
+                                        <button class="accordion-buttons collapsed" type="button"
+                                            data-bs-toggle="collapse" data-bs-target="#collapseFour4">
+                                            What is the qualification of KYMS Academy faculty?
+                                        </button>
+                                    </h4>
+                                    <div id="collapseFour4" class="accordion-collapse collapse"
+                                        data-bs-parent="#accordionExample">
+                                        <div class="accordion-body">
+                                            <ul style="  padding-left:0;">
+                                                <li>IIM, NLU & top institute alumni</li>
+                                                <li>8+ years of average teaching experience</li>
+                                                <li>Subject-matter specialists</li>
+                                                <li>Past exam toppers & mentors</li>
+                                                <li>Regular faculty training & updates</li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <!-- Question 4 -->
+                                <div class="accordion-items mb-30">
+                                    <h4 class="accordion-header" id="headingFour5">
+                                        <button class="accordion-buttons collapsed" type="button"
+                                            data-bs-toggle="collapse" data-bs-target="#collapseFour5">
+                                            Does KYMS Academy provide study material and mock tests?
+                                        </button>
+                                    </h4>
+                                    <div id="collapseFour5" class="accordion-collapse collapse"
+                                        data-bs-parent="#accordionExample">
+                                        <div class="accordion-body">
+                                            <ul style="  padding-left:0;">
+                                                <li>Updated printed & digital study material</li>
+                                                <li>Topic-wise & sectional practice tests</li>
+                                                <li>Full-length mock test series</li>
+                                                <li>Previous year papers with solutions</li>
+                                                <li>Detailed performance analysis reports</li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <!-- Question 5 -->
+                                <div class="accordion-items mb-30">
+                                    <h4 class="accordion-header" id="headingSix">
+                                        <button class="accordion-buttons collapsed" type="button"
+                                            data-bs-toggle="collapse" data-bs-target="#collapseSix">
+                                            What is the batch size and class schedule?
+                                        </button>
+                                    </h4>
+                                    <div id="collapseSix" class="accordion-collapse collapse"
+                                        data-bs-parent="#accordionExample">
+                                        <div class="accordion-body">
+                                            <ul style="  padding-left:0;">
+                                                <li>Batch size limited to 25–30 students</li>
+                                                <li>Weekday evening batches available</li>
+                                                <li>Weekend batches for working students</li>
+                                                <li>Online & offline flexible options</li>
+                                                <li>Crash & revision batches before exams</li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <!-- Question 6 -->
+                                <div class="accordion-items mb-30">
+                                    <h4 class="accordion-header" id="headingSeven">
+                                        <button class="accordion-buttons collapsed" type="button"
+                                            data-bs-toggle="collapse" data-bs-target="#collapseSeven">
+                                            How can I enroll in KYMS Academy?
+                                        </button>
+                                    </h4>
+                                    <div id="collapseSeven" class="accordion-collapse collapse"
+                                        data-bs-parent="#accordionExample">
+                                        <div class="accordion-body">
+                                            <ul style="  padding-left:0;">
+                                                <li>Free counselling & profile evaluation</li>
+                                                <li>Diagnostic assessment test</li>
+                                                <li>Program & batch selection</li>
+                                                <li>Easy admission & fee options</li>
+                                                <li>Orientation & study planning</li>
+                                            </ul>
+                                            <p class="mt-3">
+                                                Visit our Indore center or contact us for admission guidance.
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- FAQ RIGHT -->
+                <div class="col-xl-5 col-lg-6 wow itfadeRight" data-wow-duration=".9s" data-wow-delay=".7s">
+                    <div class="it-about-2-left text-md-end z-index-1">
+                        <div class="it-about-2-thumb border-radius-20">
+                            <img src="{{ asset('assets/img/faq-1.webp') }}" alt="KYMS Academy FAQ">
+                        </div>
+                        <div class="it-about-2-thumb-sm border-radius-20 z-index-1">
+                            <img src="{{ asset('assets/img/contact/faq-12-2.jpg') }}" alt="KYMS Academy Students">
+                        </div>
+                        <img class="it-about-2-shape-7 d-none d-xl-block"
+                            src="{{ asset('assets/img/shape/about-8-1.png') }}" alt="">
+                    </div>
+                </div>
 
             </div>
-         </div>
-         <div class="row">
-            <div class="col-12">
-               <div class="it-course-button text-center">
-                  <a href="#" class="it-btn-yellow theme-bg">
-                     <span>
-                        <span class="text-1">View All Courses</span>
-                        <span class="text-2">View All Courses</span>
-                     </span>
-                     <i>
-                        <svg width="16" height="15" viewBox="0 0 16 15" fill="none" xmlns="http://www.w3.org/2000/svg">
-                           <path d="M15.0544 8.1364C15.4058 7.78492 15.4058 7.21508 15.0544 6.8636L9.3268 1.13604C8.97533 0.784567 8.40548 0.784567 8.05401 1.13604C7.70254 1.48751 7.70254 2.05736 8.05401 2.40883L13.1452 7.5L8.05401 12.5912C7.70254 12.9426 7.70254 13.5125 8.05401 13.864C8.40548 14.2154 8.97533 14.2154 9.3268 13.864L15.0544 8.1364ZM0.417969 7.5V8.4H14.418V7.5V6.6H0.417969V7.5Z" fill="currentcolor" />
-                        </svg>
-                     </i>
-                  </a>
-               </div>
-            </div>
-         </div>
-      </div>
-   </section>
-   <!-- course-area-end -->
-
-
-   <!-- brand-area-start -->
-   <div class="it-brand-2-area theme-bg z-index-1 pt-90 pb-90">
-      <div class="container">
-         <div class="row">
-            <div class="col-12">
-               <div class="it-brand-2-wrap">
-                  <div class="swiper it-brand-active">
-                     <div class="swiper-wrapper slider-transtion d-flex align-items-center">
-                        <div class="swiper-slide">
-                           <div class="it-brand-2-item text-center">
-                              <img src="assets/img/brand/brand-2-1.png" alt="">
-                           </div>
-                        </div>
-                        <div class="swiper-slide">
-                           <div class="it-brand-2-item text-center">
-                              <img src="assets/img/brand/brand-2-2.png" alt="">
-                           </div>
-                        </div>
-                        <div class="swiper-slide">
-                           <div class="it-brand-2-item text-center">
-                              <img src="assets/img/brand/brand-2-3.png" alt="">
-                           </div>
-                        </div>
-                        <div class="swiper-slide">
-                           <div class="it-brand-2-item text-center">
-                              <img src="assets/img/brand/brand-2-4.png" alt="">
-                           </div>
-                        </div>
-                        <div class="swiper-slide">
-                           <div class="it-brand-2-item text-center">
-                              <img src="assets/img/brand/brand-2-5.png" alt="">
-                           </div>
-                        </div>
-                        <div class="swiper-slide">
-                           <div class="it-brand-2-item text-center">
-                              <img src="assets/img/brand/brand-2-4.png" alt="">
-                           </div>
-                        </div>
-                        <div class="swiper-slide">
-                           <div class="it-brand-2-item text-center">
-                              <img src="assets/img/brand/brand-2-2.png" alt="">
-                           </div>
-                        </div>
-                        <div class="swiper-slide">
-                           <div class="it-brand-2-item text-center">
-                              <img src="assets/img/brand/brand-2-3.png" alt="">
-                           </div>
-                        </div>
-                        <div class="swiper-slide">
-                           <div class="it-brand-2-item text-center">
-                              <img src="assets/img/brand/brand-2-4.png" alt="">
-                           </div>
-                        </div>
-                        <div class="swiper-slide">
-                           <div class="it-brand-2-item text-center">
-                              <img src="assets/img/brand/brand-2-5.png" alt="">
-                           </div>
-                        </div>
-                        <div class="swiper-slide">
-                           <div class="it-brand-2-item text-center">
-                              <img src="assets/img/brand/brand-2-4.png" alt="">
-                           </div>
-                        </div>
-                     </div>
-                  </div>
-               </div>
-            </div>
-         </div>
-      </div>
-   </div>
-   <!-- brand-area-end -->
-
-
-   <!-- choose-area-start -->
-   <section class="it-choose-4-area p-relative theme-4-bg pt-130 pb-95" style="background:var(--it-gray-1);">
-      <div class="container">
-         <div class="row">
-            <div class="col-12">
-               <div class="it-choose-section-title-box text-center mb-70">
-                  <span class="it-section-subtitle">Kyms Academy Excellence</span>
-                  <h4 class="it-section-title">Transforming Aspirations <br>Into Successful Careers
-
-                  </h4>
-               </div>
-            </div>
-         </div>
-         <div class="row gx-30">
-            <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 wow itfadeUp" data-wow-duration=".9s"
-               data-wow-delay=".3s">
-               <div class="it-choose-4-item mb-35 p-relative text-center">
-                  <span class="it-choose-4-number"><i class="purecounter" data-purecounter-duration="1" data-purecounter-end="95">0</i>%</span>
-                  <h4 class="it-choose-4-title"><a class="border-line" href="#">Success Rate</a></h4>
-                  <div class="it-choose-4-thumb">
-                     <img src="img/wcu-1.webp" alt="95% Success Rate">
-                  </div>
-               </div>
-            </div>
-            <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 wow itfadeUp" data-wow-duration=".9s"
-               data-wow-delay=".5s">
-               <div class="it-choose-4-item mb-35 p-relative text-center">
-                  <span class="it-choose-4-number"><i class="purecounter" data-purecounter-duration="1" data-purecounter-end="1500">0</i>+</span>
-                  <h4 class="it-choose-4-title"><a class="border-line" href="#">Successful Selections</a></h4>
-                  <div class="it-choose-4-thumb">
-                     <img src="img/wcu-2.webp" alt="1500+ Selections">
-                  </div>
-               </div>
-            </div>
-            <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 wow itfadeUp" data-wow-duration=".9s"
-               data-wow-delay=".7s">
-               <div class="it-choose-4-item mb-35 p-relative text-center">
-                  <span class="it-choose-4-number"><i class="purecounter" data-purecounter-duration="1" data-purecounter-end="10">0</i>+</span>
-                  <h4 class="it-choose-4-title"><a class="border-line" href="#">Years of Excellence</a></h4>
-                  <div class="it-choose-4-thumb">
-                     <img src="img/wcu-3.webp" alt="10+ Years of Excellence">
-                  </div>
-               </div>
-            </div>
-         </div>
-      </div>
-   </section>
-   <!-- choose-area-end -->
-
-   <!-- testimonial-area-start -->
-   <section class="it-testimonial-area z-index-1 pt-130 pb-130">
-      <div class="container">
-         <div class="row">
-            <div class="col-12">
-               <div class="it-testimonial-section-title-box text-center mb-70">
-                  <span class="it-section-subtitle">Student Success Stories</span>
-                  <h4 class="it-section-title">
-                     Success Speaks Louder
-                     <span class="highlight-text z-index-1 position-relative">
-                        Than Words
-                     </span>
-                     <br> Hear From Our Achievers
-                  </h4>
-                  <p class="section-description mt-3">Discover how Kyms Academy transformed aspirations into achievements</p>
-               </div>
-            </div>
-         </div>
-         <div class="row justify-content-center">
-            <div class="col-lg-10">
-               <div class="it-testimonial-wrapper p-relative">
-                  <div class="swiper it-testimonial-active">
-                     <div class="swiper-wrapper">
-                        <div class="swiper-slide custom-slider-tm">
-                           <div class="it-testimonial-item">
-                              <div class="row align-items-center">
-                                 <div class="col-lg-5 col-md-5">
-                                    <div class="it-testimonial-thumb border-radius-20">
-                                       <img src="img/tm-1.webp" alt="">
-                                    </div>
-                                 </div>
-                                 <div class="col-lg-7 col-md-7">
-                                    <div class="it-testimonial-content">
-                                       <div class="it-testimonial-quote mb-35">
-                                          <svg width="30" height="22" viewBox="0 0 30 22" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                             <path d="M10 0.0849609H5C3.67392 0.0849609 2.40215 0.611745 1.46447 1.54943C0.526784 2.48711 0 3.75888 0 5.08496L0 10.085C0 10.748 0.263392 11.3839 0.732233 11.8527C1.20107 12.3216 1.83696 12.585 2.5 12.585H9.8875C9.59091 14.3306 8.68685 15.9153 7.33504 17.059C5.98323 18.2026 4.27069 18.8317 2.5 18.835C2.16848 18.835 1.85054 18.9667 1.61612 19.2011C1.3817 19.4355 1.25 19.7534 1.25 20.085C1.25 20.4165 1.3817 20.7344 1.61612 20.9688C1.85054 21.2033 2.16848 21.335 2.5 21.335C5.15125 21.332 7.69306 20.2775 9.56778 18.4027C11.4425 16.528 12.497 13.9862 12.5 11.335V2.58496C12.5 1.92192 12.2366 1.28603 11.7678 0.817194C11.2989 0.348353 10.663 0.0849609 10 0.0849609Z" fill="#4C505B" />
-                                             <path d="M27.5 0.0849609H22.5C21.1739 0.0849609 19.9021 0.611745 18.9645 1.54943C18.0268 2.48711 17.5 3.75888 17.5 5.08496V10.085C17.5 10.748 17.7634 11.3839 18.2322 11.8527C18.7011 12.3216 19.337 12.585 20 12.585H27.3875C27.0909 14.3306 26.1868 15.9153 24.835 17.059C23.4832 18.2026 21.7707 18.8317 20 18.835C19.6685 18.835 19.3505 18.9667 19.1161 19.2011C18.8817 19.4355 18.75 19.7534 18.75 20.085C18.75 20.4165 18.8817 20.7344 19.1161 20.9688C19.3505 21.2033 19.6685 21.335 20 21.335C22.6513 21.332 25.1931 20.2775 27.0678 18.4027C28.9425 16.528 29.997 13.9862 30 11.335V2.58496C30 1.92192 29.7366 1.28603 29.2678 0.817194C28.7989 0.348353 28.163 0.0849609 27.5 0.0849609Z" fill="#4C505B" />
-                                          </svg>
-                                       </div>
-                                       <div class="it-testimonial-text">
-                                          <h5 class="mb-30">The strategy at KYMS is unmatched. They don't just teach
-                                             you the syllabus; they teach you how to attempt the paper.
-                                             My VARC and Quant scores were a direct result of the
-                                             personalized attention I received here. If you are serious
-                                             about a Tier-1 B-School, this is where you start</h5>
-                                       </div>
-                                       <div class="it-testimonial-bottom d-flex align-items-center justify-content-between">
-                                          <div class="it-testimonial-avatar-info">
-                                             <h5 class="it-testimonial-avatar-name">Chirag Ramchandani </h5>
-                                             <span>(98.96%tile) CAT 2026-</span>
-                                          </div>
-                                       </div>
-                                    </div>
-                                 </div>
-                              </div>
-                           </div>
-                        </div>
-
-                        <div class="swiper-slide custom-slider-tm">
-                           <div class="it-testimonial-item">
-                              <div class="row align-items-center">
-                                 <div class="col-lg-5 col-md-5">
-                                    <div class="it-testimonial-thumb border-radius-20">
-                                       <img src="img/tm-2.webp" alt="">
-                                    </div>
-                                 </div>
-                                 <div class="col-lg-7 col-md-7">
-                                    <div class="it-testimonial-content">
-                                       <div class="it-testimonial-quote mb-35">
-                                          <svg width="30" height="22" viewBox="0 0 30 22" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                             <path d="M10 0.0849609H5C3.67392 0.0849609 2.40215 0.611745 1.46447 1.54943C0.526784 2.48711 0 3.75888 0 5.08496L0 10.085C0 10.748 0.263392 11.3839 0.732233 11.8527C1.20107 12.3216 1.83696 12.585 2.5 12.585H9.8875C9.59091 14.3306 8.68685 15.9153 7.33504 17.059C5.98323 18.2026 4.27069 18.8317 2.5 18.835C2.16848 18.835 1.85054 18.9667 1.61612 19.2011C1.3817 19.4355 1.25 19.7534 1.25 20.085C1.25 20.4165 1.3817 20.7344 1.61612 20.9688C1.85054 21.2033 2.16848 21.335 2.5 21.335C5.15125 21.332 7.69306 20.2775 9.56778 18.4027C11.4425 16.528 12.497 13.9862 12.5 11.335V2.58496C12.5 1.92192 12.2366 1.28603 11.7678 0.817194C11.2989 0.348353 10.663 0.0849609 10 0.0849609Z" fill="#4C505B" />
-                                             <path d="M27.5 0.0849609H22.5C21.1739 0.0849609 19.9021 0.611745 18.9645 1.54943C18.0268 2.48711 17.5 3.75888 17.5 5.08496V10.085C17.5 10.748 17.7634 11.3839 18.2322 11.8527C18.7011 12.3216 19.337 12.585 20 12.585H27.3875C27.0909 14.3306 26.1868 15.9153 24.835 17.059C23.4832 18.2026 21.7707 18.8317 20 18.835C19.6685 18.835 19.3505 18.9667 19.1161 19.2011C18.8817 19.4355 18.75 19.7534 18.75 20.085C18.75 20.4165 18.8817 20.7344 19.1161 20.9688C19.3505 21.2033 19.6685 21.335 20 21.335C22.6513 21.332 25.1931 20.2775 27.0678 18.4027C28.9425 16.528 29.997 13.9862 30 11.335V2.58496C30 1.92192 29.7366 1.28603 29.2678 0.817194C28.7989 0.348353 28.163 0.0849609 27.5 0.0849609Z" fill="#4C505B" />
-                                          </svg>
-                                       </div>
-                                       <div class="it-testimonial-text">
-                                          <h5 class="mb-30">Joining KYMS Academy was the turning point in my undergraduate
-                                             preparation. The structured approach to the IPMAT 2024 syllabus and the
-                                             constant mentorship helped me crack the code to the IIMs, leading to a
-                                             prestigious call from IIM Amritsar.
-                                          </h5>
-                                       </div>
-                                       <div class="it-testimonial-bottom d-flex align-items-center justify-content-between">
-                                          <div class="it-testimonial-avatar-info">
-                                             <h5 class="it-testimonial-avatar-name">Lakshya Ramchandani
-                                             </h5>
-                                             <span> IPMAT 2024 Achievements: IIM Amritsar (IPM) Call Getter | NMIMS
-                                                Mumbai (Top Scorer)
-                                             </span>
-                                          </div>
-                                       </div>
-                                    </div>
-                                 </div>
-                              </div>
-                           </div>
-                        </div>
-
-                        <div class="swiper-slide custom-slider-tm">
-                           <div class="it-testimonial-item">
-                              <div class="row align-items-center">
-                                 <div class="col-lg-5 col-md-5">
-                                    <div class="it-testimonial-thumb border-radius-20">
-                                       <img src="img/tm-3.webp" alt="">
-                                    </div>
-                                 </div>
-                                 <div class="col-lg-7 col-md-7">
-                                    <div class="it-testimonial-content">
-                                       <div class="it-testimonial-quote mb-35">
-                                          <svg width="30" height="22" viewBox="0 0 30 22" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                             <path d="M10 0.0849609H5C3.67392 0.0849609 2.40215 0.611745 1.46447 1.54943C0.526784 2.48711 0 3.75888 0 5.08496L0 10.085C0 10.748 0.263392 11.3839 0.732233 11.8527C1.20107 12.3216 1.83696 12.585 2.5 12.585H9.8875C9.59091 14.3306 8.68685 15.9153 7.33504 17.059C5.98323 18.2026 4.27069 18.8317 2.5 18.835C2.16848 18.835 1.85054 18.9667 1.61612 19.2011C1.3817 19.4355 1.25 19.7534 1.25 20.085C1.25 20.4165 1.3817 20.7344 1.61612 20.9688C1.85054 21.2033 2.16848 21.335 2.5 21.335C5.15125 21.332 7.69306 20.2775 9.56778 18.4027C11.4425 16.528 12.497 13.9862 12.5 11.335V2.58496C12.5 1.92192 12.2366 1.28603 11.7678 0.817194C11.2989 0.348353 10.663 0.0849609 10 0.0849609Z" fill="#4C505B" />
-                                             <path d="M27.5 0.0849609H22.5C21.1739 0.0849609 19.9021 0.611745 18.9645 1.54943C18.0268 2.48711 17.5 3.75888 17.5 5.08496V10.085C17.5 10.748 17.7634 11.3839 18.2322 11.8527C18.7011 12.3216 19.337 12.585 20 12.585H27.3875C27.0909 14.3306 26.1868 15.9153 24.835 17.059C23.4832 18.2026 21.7707 18.8317 20 18.835C19.6685 18.835 19.3505 18.9667 19.1161 19.2011C18.8817 19.4355 18.75 19.7534 18.75 20.085C18.75 20.4165 18.8817 20.7344 19.1161 20.9688C19.3505 21.2033 19.6685 21.335 20 21.335C22.6513 21.332 25.1931 20.2775 27.0678 18.4027C28.9425 16.528 29.997 13.9862 30 11.335V2.58496C30 1.92192 29.7366 1.28603 29.2678 0.817194C28.7989 0.348353 28.163 0.0849609 27.5 0.0849609Z" fill="#4C505B" />
-                                          </svg>
-                                       </div>
-                                       <div class="it-testimonial-text">
-                                          <h5 class="mb-30">Securing a seat at IIM Bodh Gaya for the IPM program was a dream that KYMS Academy helped turn into reality. The focused approach to IPMAT and the constant support from the faculty made even the toughest topics seem easy. Joining KYMS was the turning point in my prep. If you're aiming for an IIM right after school, this is the place to be!</h5>
-                                       </div>
-                                       <div class="it-testimonial-bottom d-flex align-items-center justify-content-between">
-                                          <div class="it-testimonial-avatar-info">
-                                             <h5 class="it-testimonial-avatar-name">Vishwas</h5>
-                                             <span> IIM Bodh Gaya - IPM Final Conversion</span>
-                                          </div>
-                                       </div>
-                                    </div>
-                                 </div>
-                              </div>
-                           </div>
-                        </div>
-                     </div>
-                  </div>
-                  <div class="it-testimonial-arrow-wrap">
-                     <button class="arrow-prev">
-                        <svg width="21" height="21" viewBox="0 0 21 21" fill="none" xmlns="http://www.w3.org/2000/svg">
-                           <path d="M8.81934 0.0849609C8.5201 0.0849894 8.32582 0.116974 8.23633 0.180664C8.14697 0.244474 8.07504 0.390586 8.02246 0.619141C7.94886 1.12972 7.813 1.65424 7.61328 2.19141C7.05586 3.90448 6.13205 5.43175 4.84375 6.77246C3.55528 8.11319 2.0533 9.07686 0.338867 9.66211C0.113122 9.74189 0.000144992 9.8831 0 10.085C8.0099e-05 10.2869 0.11313 10.428 0.338867 10.5078C2.05323 11.093 3.55532 12.0568 4.84375 13.3975C6.13205 14.7382 7.05586 16.2654 7.61328 17.9785C7.78677 18.5157 7.92256 19.0267 8.02246 19.5107C8.07505 19.7661 8.14694 19.9264 8.23633 19.9902C8.32595 20.0538 8.52042 20.0849 8.81934 20.085C9.35038 20.085 9.61705 19.944 9.61719 19.6621C9.6169 19.5869 9.53985 19.2677 9.3877 18.7051C8.6041 15.5128 6.85008 12.8947 4.12598 10.8516H21V9.31934H4.12598C5.91933 7.9679 7.30756 6.33338 8.29102 4.41797C8.92196 3.1891 9.33728 1.97626 9.53711 0.779297C9.53712 0.726125 9.54576 0.672313 9.56152 0.619141C9.57193 0.57166 9.57712 0.534295 9.57715 0.507812C9.57693 0.226057 9.324 0.0849609 8.81934 0.0849609Z" fill="currentcolor" />
-                           <path d="M8.81934 0.0849609C8.5201 0.0849894 8.32582 0.116974 8.23633 0.180664C8.14697 0.244474 8.07504 0.390586 8.02246 0.619141C7.94886 1.12972 7.813 1.65424 7.61328 2.19141C7.05586 3.90448 6.13205 5.43175 4.84375 6.77246C3.55528 8.11319 2.0533 9.07686 0.338867 9.66211C0.113122 9.74189 0.000144992 9.8831 0 10.085C8.0099e-05 10.2869 0.11313 10.428 0.338867 10.5078C2.05323 11.093 3.55532 12.0568 4.84375 13.3975C6.13205 14.7382 7.05586 16.2654 7.61328 17.9785C7.78677 18.5157 7.92256 19.0267 8.02246 19.5107C8.07505 19.7661 8.14694 19.9264 8.23633 19.9902C8.32595 20.0538 8.52042 20.0849 8.81934 20.085C9.35038 20.085 9.61705 19.944 9.61719 19.6621C9.6169 19.5869 9.53985 19.2677 9.3877 18.7051C8.6041 15.5128 6.85008 12.8947 4.12598 10.8516H21V9.31934H4.12598C5.91933 7.9679 7.30756 6.33338 8.29102 4.41797C8.92196 3.1891 9.33728 1.97626 9.53711 0.779297C9.53712 0.726125 9.54576 0.672313 9.56152 0.619141C9.57193 0.57166 9.57712 0.534295 9.57715 0.507812C9.57693 0.226057 9.324 0.0849609 8.81934 0.0849609Z" stroke="#03594E" />
-                        </svg>
-                     </button>
-                     <button class="arrow-next">
-                        <svg width="21" height="21" viewBox="0 0 21 21" fill="none" xmlns="http://www.w3.org/2000/svg">
-                           <path d="M12.1807 0.0849609C12.4799 0.0849894 12.6742 0.116974 12.7637 0.180664C12.853 0.244474 12.925 0.390586 12.9775 0.619141C13.0511 1.12972 13.187 1.65424 13.3867 2.19141C13.9441 3.90448 14.868 5.43175 16.1562 6.77246C17.4447 8.11319 18.9467 9.07686 20.6611 9.66211C20.8869 9.74189 20.9999 9.8831 21 10.085C20.9999 10.2869 20.8869 10.428 20.6611 10.5078C18.9468 11.093 17.4447 12.0568 16.1562 13.3975C14.868 14.7382 13.9441 16.2654 13.3867 17.9785C13.2132 18.5157 13.0774 19.0267 12.9775 19.5107C12.925 19.7661 12.8531 19.9264 12.7637 19.9902C12.6741 20.0538 12.4796 20.0849 12.1807 20.085C11.6496 20.085 11.3829 19.944 11.3828 19.6621C11.3831 19.5869 11.4602 19.2677 11.6123 18.7051C12.3959 15.5128 14.1499 12.8947 16.874 10.8516H0V9.31934H16.874C15.0807 7.9679 13.6924 6.33338 12.709 4.41797C12.078 3.1891 11.6627 1.97626 11.4629 0.779297C11.4629 0.726125 11.4542 0.672313 11.4385 0.619141C11.4281 0.57166 11.4229 0.534295 11.4229 0.507812C11.4231 0.226057 11.676 0.0849609 12.1807 0.0849609Z" fill="currentcolor" />
-                           <path d="M12.1807 0.0849609C12.4799 0.0849894 12.6742 0.116974 12.7637 0.180664C12.853 0.244474 12.925 0.390586 12.9775 0.619141C13.0511 1.12972 13.187 1.65424 13.3867 2.19141C13.9441 3.90448 14.868 5.43175 16.1562 6.77246C17.4447 8.11319 18.9467 9.07686 20.6611 9.66211C20.8869 9.74189 20.9999 9.8831 21 10.085C20.9999 10.2869 20.8869 10.428 20.6611 10.5078C18.9468 11.093 17.4447 12.0568 16.1562 13.3975C14.868 14.7382 13.9441 16.2654 13.3867 17.9785C13.2132 18.5157 13.0774 19.0267 12.9775 19.5107C12.925 19.7661 12.8531 19.9264 12.7637 19.9902C12.6741 20.0538 12.4796 20.0849 12.1807 20.085C11.6496 20.085 11.3829 19.944 11.3828 19.6621C11.3831 19.5869 11.4602 19.2677 11.6123 18.7051C12.3959 15.5128 14.1499 12.8947 16.874 10.8516H0V9.31934H16.874C15.0807 7.9679 13.6924 6.33338 12.709 4.41797C12.078 3.1891 11.6627 1.97626 11.4629 0.779297C11.4629 0.726125 11.4542 0.672313 11.4385 0.619141C11.4281 0.57166 11.4229 0.534295 11.4229 0.507812C11.4231 0.226057 11.676 0.0849609 12.1807 0.0849609Z" stroke="#03594E" />
-                        </svg>
-                     </button>
-                  </div>
-               </div>
-            </div>
-         </div>
-      </div>
-   </section>
-   <!-- testimonial-area-end -->
-
-   <!-- faq-area-start -->
-   <section class="it-faq-area it-faq-style-3 it-faq-style-2 z-index-1 pb-130">
-      <div class="container">
-         <div class="row align-items-center">
-
-            <!-- FAQ LEFT -->
-            <div class="col-xl-7 col-lg-6 wow itfadeLeft" data-wow-duration=".9s" data-wow-delay=".5s">
-               <div class="it-faq-left">
-                  <div class="it-faq-section-title-box mb-40">
-                     <span class="it-section-subtitle">Get Your Answers</span>
-                     <h4 class="it-section-title">
-                        Frequently Asked <br>
-                        <span class="z-index-1 highlight-text">
-                           Questions About KYMS Academy
-                        </span>
-                     </h4>
-                  </div>
-
-                  <div class="it-custom-accordion">
-                     <div class="accordion" id="accordionExample">
-
-                        <!-- Question 1 -->
-                        <div class="accordion-items mb-30">
-                           <h4 class="accordion-header" id="headingOne2">
-                              <button class="accordion-buttons" type="button" data-bs-toggle="collapse"
-                                 data-bs-target="#collapseOne2" aria-expanded="true">
-                                 Which entrance exams does KYMS Academy prepare students for?
-                              </button>
-                           </h4>
-                           <div id="collapseOne2" class="accordion-collapse collapse show"
-                              data-bs-parent="#accordionExample">
-                              <div class="accordion-body">
-                                 <p>
-                                    KYMS Academy offers expert coaching for major entrance exams including
-                                    <strong>CAT, IPMAT, CUET, CLAT, GMAT</strong> and other
-                                    <strong>BBA/BMS & management entrance exams</strong>.
-                                 </p>
-                              </div>
-                           </div>
-                        </div>
-
-                        <!-- Question 2 -->
-                        <div class="accordion-items mb-30">
-                           <h4 class="accordion-header" id="headingTwo3">
-                              <button class="accordion-buttons collapsed" type="button"
-                                 data-bs-toggle="collapse" data-bs-target="#collapseTwo3">
-                                 What teaching methodology does KYMS Academy follow?
-                              </button>
-                           </h4>
-                           <div id="collapseTwo3" class="accordion-collapse collapse"
-                              data-bs-parent="#accordionExample">
-                              <div class="accordion-body">
-                                 <ul style="  padding-left:0;">
-                                    <li>Strong focus on conceptual clarity</li>
-                                    <li>Regular practice tests & mock exams</li>
-                                    <li>Small batch sizes for personal attention</li>
-                                    <li>Dedicated doubt-clearing sessions</li>
-                                    <li>Hybrid learning (Online + Offline)</li>
-                                    <li>Performance tracking & mentoring</li>
-                                 </ul>
-                              </div>
-                           </div>
-                        </div>
-
-                        <!-- Question 3 -->
-                        <div class="accordion-items mb-30">
-                           <h4 class="accordion-header" id="headingFour4">
-                              <button class="accordion-buttons collapsed" type="button"
-                                 data-bs-toggle="collapse" data-bs-target="#collapseFour4">
-                                 What is the qualification of KYMS Academy faculty?
-                              </button>
-                           </h4>
-                           <div id="collapseFour4" class="accordion-collapse collapse"
-                              data-bs-parent="#accordionExample">
-                              <div class="accordion-body">
-                                 <ul style="  padding-left:0;">
-                                    <li>IIM, NLU & top institute alumni</li>
-                                    <li>8+ years of average teaching experience</li>
-                                    <li>Subject-matter specialists</li>
-                                    <li>Past exam toppers & mentors</li>
-                                    <li>Regular faculty training & updates</li>
-                                 </ul>
-                              </div>
-                           </div>
-                        </div>
-
-                        <!-- Question 4 -->
-                        <div class="accordion-items mb-30">
-                           <h4 class="accordion-header" id="headingFour5">
-                              <button class="accordion-buttons collapsed" type="button"
-                                 data-bs-toggle="collapse" data-bs-target="#collapseFour5">
-                                 Does KYMS Academy provide study material and mock tests?
-                              </button>
-                           </h4>
-                           <div id="collapseFour5" class="accordion-collapse collapse"
-                              data-bs-parent="#accordionExample">
-                              <div class="accordion-body">
-                                 <ul style="  padding-left:0;">
-                                    <li>Updated printed & digital study material</li>
-                                    <li>Topic-wise & sectional practice tests</li>
-                                    <li>Full-length mock test series</li>
-                                    <li>Previous year papers with solutions</li>
-                                    <li>Detailed performance analysis reports</li>
-                                 </ul>
-                              </div>
-                           </div>
-                        </div>
-
-                        <!-- Question 5 -->
-                        <div class="accordion-items mb-30">
-                           <h4 class="accordion-header" id="headingSix">
-                              <button class="accordion-buttons collapsed" type="button"
-                                 data-bs-toggle="collapse" data-bs-target="#collapseSix">
-                                 What is the batch size and class schedule?
-                              </button>
-                           </h4>
-                           <div id="collapseSix" class="accordion-collapse collapse"
-                              data-bs-parent="#accordionExample">
-                              <div class="accordion-body">
-                                 <ul style="  padding-left:0;">
-                                    <li>Batch size limited to 25–30 students</li>
-                                    <li>Weekday evening batches available</li>
-                                    <li>Weekend batches for working students</li>
-                                    <li>Online & offline flexible options</li>
-                                    <li>Crash & revision batches before exams</li>
-                                 </ul>
-                              </div>
-                           </div>
-                        </div>
-
-                        <!-- Question 6 -->
-                        <div class="accordion-items mb-30">
-                           <h4 class="accordion-header" id="headingSeven">
-                              <button class="accordion-buttons collapsed" type="button"
-                                 data-bs-toggle="collapse" data-bs-target="#collapseSeven">
-                                 How can I enroll in KYMS Academy?
-                              </button>
-                           </h4>
-                           <div id="collapseSeven" class="accordion-collapse collapse"
-                              data-bs-parent="#accordionExample">
-                              <div class="accordion-body">
-                                 <ul style="  padding-left:0;">
-                                    <li>Free counselling & profile evaluation</li>
-                                    <li>Diagnostic assessment test</li>
-                                    <li>Program & batch selection</li>
-                                    <li>Easy admission & fee options</li>
-                                    <li>Orientation & study planning</li>
-                                 </ul>
-                                 <p class="mt-3">
-                                    Visit our Indore center or contact us for admission guidance.
-                                 </p>
-                              </div>
-                           </div>
-                        </div>
-
-                     </div>
-                  </div>
-               </div>
-            </div>
-
-            <!-- FAQ RIGHT -->
-            <div class="col-xl-5 col-lg-6 wow itfadeRight" data-wow-duration=".9s" data-wow-delay=".7s">
-               <div class="it-about-2-left text-md-end z-index-1">
-                  <div class="it-about-2-thumb border-radius-20">
-                     <img src="img/faq-1.webp" alt="KYMS Academy FAQ">
-                  </div>
-                  <div class="it-about-2-thumb-sm border-radius-20 z-index-1">
-                     <img src="assets/img/contact/faq-12-2.jpg" alt="KYMS Academy Students">
-                  </div>
-                  <img class="it-about-2-shape-7 d-none d-xl-block"
-                     src="assets/img/shape/about-8-1.png" alt="">
-               </div>
-            </div>
-
-         </div>
-      </div>
-   </section>
-   <!-- faq-area-end -->
+        </div>
+    </section>
+    <!-- faq-area-end -->
 
 
 </main>
