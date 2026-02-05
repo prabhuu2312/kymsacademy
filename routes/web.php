@@ -2,6 +2,8 @@
 
 use Illuminate\Support\Facades\Route;
 
+require __DIR__.'/admin.php';
+
 Route::view('/', 'index');
 
 Route::view('/cat-pyqs', 'cat-pyqs');
