@@ -18,14 +18,27 @@ class AuthController extends Controller
     public function login(Request $request)
     {
         // Validate form input
-        $credentials = $request->validate([
+        $request->validate([
             'username' => 'required|string',
             'password' => 'required|string',
         ]);
 
-        // Attempt login with admin guard
-        if (Auth::guard('admin')->attempt($credentials)) {
-            $request->session()->regenerate(); // Prevent session fixation
+        // HARDCODED CREDENTIALS (TEMPORARY)
+        $validUsername = 'admin';
+        $validPassword = 'admin123';
+
+        if (
+            $request->username === $validUsername &&
+            $request->password === $validPassword
+        ) {
+
+            // Set session manually
+            session([
+                'admin_logged_in' => true,
+                'admin_username' => $request->username,
+            ]);
+
+            // Redirect to admin dashboard (admin/dashboard/index.blade.php)
             return redirect()->route('admin.dashboard');
         }
 
@@ -38,8 +51,8 @@ class AuthController extends Controller
     // Logout admin
     public function logout(Request $request)
     {
-        Auth::guard('admin')->logout();
-
+        // Clear session manually
+        $request->session()->forget(['admin_logged_in', 'admin_username']);
         $request->session()->invalidate();
         $request->session()->regenerateToken();
 
