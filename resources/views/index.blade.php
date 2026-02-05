@@ -1,5 +1,4 @@
 @extends('layouts.app')
-
 @section('head')
 <!-- INDEX PAGE KA HEAD -->
 <title>KYMS Academy: Top-Ranked CAT, GMAT & MBA Entrance Coaching in Indore</title>
@@ -17,6 +16,7 @@
 @endsection
 
 @section('content')
+
 <main>
 
    <!-- slider-area-start -->
